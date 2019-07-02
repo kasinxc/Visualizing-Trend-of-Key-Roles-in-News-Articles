@@ -1,0 +1,1 @@
+{"top_spans": [[2, 8], [3, 4], [3, 5], [3, 8], [8, 8], [10, 12], [10, 14], [18, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 1], "document": ["For", "at", "least", "the", "sixth", "time", "since", "taking", "office", ",", "Donald", "Trump", "'s", "own", "rhetoric", "was", "used", "against", "him", "in", "court", "."], "clusters": [[[10, 12], [18, 18]]]}

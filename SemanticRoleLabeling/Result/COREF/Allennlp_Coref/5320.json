@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [3, 3], [4, 4], [4, 6], [8, 11], [8, 12], [14, 18], [15, 18]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1, -1], "document": ["President", "Donald", "Trump", "repaid", "his", "personal", "attorney", "for", "a", "$", "130,000", "payment", "sent", "to", "adult", "film", "actress", "Stormy", "Daniels", "."], "clusters": [[[0, 2], [4, 4]]]}

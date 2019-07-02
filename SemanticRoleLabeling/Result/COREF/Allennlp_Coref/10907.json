@@ -1,0 +1,1 @@
+{"top_spans": [[2, 2], [4, 4], [4, 7], [6, 6], [6, 7], [14, 15], [18, 18], [19, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 0, -1], "document": ["\"", "If", "they", "had", "spies", "in", "my", "campaign", "that", "would", "be", "a", "disgrace", "to", "the", "country", ",", "\"", "Trump", "said", "."], "clusters": [[[14, 15], [18, 18]]]}

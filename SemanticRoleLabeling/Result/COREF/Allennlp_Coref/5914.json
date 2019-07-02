@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [4, 6], [7, 7], [9, 10], [12, 12], [14, 14], [16, 19], [18, 18]], "predicted_antecedents": [-1, -1, -1, -1, 0, -1, -1, -1], "document": ["Being", "shut", "out", "by", "the", "White", "House", "led", "to", "Michael", "Cohen", "selling", "himself", "to", "corporations", "as", "the", "ultimate", "Trump", "insider", "."], "clusters": [[[9, 10], [12, 12]]]}

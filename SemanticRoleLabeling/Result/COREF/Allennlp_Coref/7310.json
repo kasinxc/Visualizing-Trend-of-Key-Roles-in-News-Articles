@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [9, 10], [11, 11], [12, 12], [12, 14], [13, 13], [16, 17], [16, 19]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1, -1, -1], "document": ["Kathy", "Griffin", "did", "n't", "hold", "back", "while", "speaking", "about", "President", "Trump", "during", "her", "Monday", "appearance", "on", "ABC", "'s", "The", "View", "."], "clusters": [[[0, 1], [12, 12]]]}

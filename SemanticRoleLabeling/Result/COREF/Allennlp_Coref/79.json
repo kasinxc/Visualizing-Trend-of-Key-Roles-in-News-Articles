@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [3, 4], [6, 7], [12, 12], [13, 13], [13, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, 1, -1], "document": ["Tony", "Schwartz", "tells", "Ari", "Melber", "how", "Donald", "Trump", "use", "endless", "lies", "to", "manipulate", "his", "cult", "of", "supporters", "."], "clusters": [[[6, 7], [13, 13]]]}

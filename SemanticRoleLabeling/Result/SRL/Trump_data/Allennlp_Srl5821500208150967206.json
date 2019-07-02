@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "Passes", "description": "[ARG1: What] [V: Passes] [ARG2: for ' Communications Expertise] ' [ARGM-LOC: in Trumplandia]", "tags": ["B-ARG1", "B-V", "B-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "O", "B-ARGM-LOC", "I-ARGM-LOC"]}], "words": ["What", "Passes", "for", "'", "Communications", "Expertise", "'", "in", "Trumplandia"]}

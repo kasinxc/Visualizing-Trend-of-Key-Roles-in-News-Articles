@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [4, 5], [4, 11], [7, 7], [9, 11], [14, 14], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 2, -1], "document": ["Opposing", "Trump", "made", "for", "strange", "bedfellows", ":", "Democrats", "and", "former", "spy", "chiefs", ".", "Now", "they", "'re", "realizing", "just", "how", "strange", "."], "clusters": [[[4, 11], [14, 14]]]}

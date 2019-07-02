@@ -1,0 +1,1 @@
+{"top_spans": [[0, 4], [6, 6], [7, 7], [7, 12], [10, 12], [14, 17], [17, 17]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, 3], "document": ["The", "award", "-", "winning", "trumpeter", "has", "let", "his", "hatred", "of", "hip", "-", "hop", "get", "the", "best", "of", "him", "."], "clusters": [[[0, 4], [7, 7], [17, 17]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [3, 3], [8, 8], [11, 12], [11, 13]], "predicted_antecedents": [-1, -1, 1, 0, -1, -1], "document": ["Natalia", "Veselnitskaya", "said", "she", "was", "private", "attorney", "when", "she", "met", "with", "Trump", "'s", "son", "."], "clusters": [[[0, 1], [3, 3], [8, 8]]]}

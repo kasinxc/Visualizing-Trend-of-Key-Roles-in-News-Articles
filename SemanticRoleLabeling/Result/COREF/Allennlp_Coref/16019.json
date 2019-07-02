@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [3, 3], [3, 6], [5, 5], [9, 9], [16, 16], [17, 17]], "predicted_antecedents": [-1, -1, -1, 1, 3, -1, -1], "document": ["President", "Trump", "ca", "n\u2019t", "block", "Twitter", "users", "from", "viewing", "his", "prolific", "feed", ",", "a", "federal", "judge", "ruled", "Wednesday", "."], "clusters": [[[3, 3], [5, 5]], [[0, 1], [9, 9]]]}

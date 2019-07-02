@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [0, 2], [4, 4], [6, 6], [8, 8], [12, 12], [14, 14], [16, 18]], "predicted_antecedents": [-1, -1, -1, -1, 3, -1, 5, -1], "document": ["Kanye", "'s", "Ye", "proves", "America", "still", "cares", "about", "him", ".", "But", "does", "it", "mean", "Trumpism", "is", "a", "pop", "sensation", "?"], "clusters": [[[0, 1], [8, 8], [14, 14]]]}

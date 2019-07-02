@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "approves", "description": "[ARG0: Senate] [ARGM-MNR: narrowly] [V: approves] [ARG1: another Trump nominee] [ARGM-ADV: on partisan vote]", "tags": ["B-ARG0", "B-ARGM-MNR", "B-V", "B-ARG1", "I-ARG1", "I-ARG1", "B-ARGM-ADV", "I-ARGM-ADV", "I-ARGM-ADV"]}], "words": ["Senate", "narrowly", "approves", "another", "Trump", "nominee", "on", "partisan", "vote"]}

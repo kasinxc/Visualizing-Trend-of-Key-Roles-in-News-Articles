@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [2, 2], [3, 5], [4, 4], [7, 7], [7, 10], [9, 9], [9, 10]], "predicted_antecedents": [-1, -1, -1, -1, 3, -1, 1, -1], "document": ["When", "Conway", "joined", "the", "Trump", "administration", ",", "she", "and", "her", "husband", "disclosed", "assets", "worth", "up", "to", "$", "39.3", "million", "."], "clusters": [[[1, 1], [7, 7], [9, 9]]]}

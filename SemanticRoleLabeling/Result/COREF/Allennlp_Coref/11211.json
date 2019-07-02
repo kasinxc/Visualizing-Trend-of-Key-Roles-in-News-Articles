@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [3, 7], [8, 8], [13, 13], [14, 14]], "predicted_antecedents": [-1, -1, -1, -1, -1, 2], "document": ["President", "Trump", "said", "Canadian", "Prime", "Minister", "Justin", "Trudeau", "learned", "from", "the", "mistake", "of", "criticizing", "him", "."], "clusters": [[[3, 7], [14, 14]]]}

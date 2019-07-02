@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [4, 5], [7, 7], [9, 10], [12, 13], [12, 14]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1], "document": ["Today", "\u2019s", "comic", "by", "Matt", "Bors", "is", "\u00a0 ", "Did", "the", "NRA", "endanger", "Trump", "'s", "life", "?"], "clusters": [[[4, 5], [9, 10]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[1, 2], [4, 4], [6, 9], [6, 13], [11, 11], [11, 13]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1], "document": ["What", "President", "Trump", "already", "knows", "about", "Former", "Illinois", "Gov.", "Blagojevich", "and", "his", "corruption", "charges", "."], "clusters": [[[6, 9], [11, 11]]]}

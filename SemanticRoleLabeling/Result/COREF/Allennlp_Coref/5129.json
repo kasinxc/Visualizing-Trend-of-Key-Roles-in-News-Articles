@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [3, 3], [4, 8], [10, 10], [10, 15], [15, 15]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1], "document": ["President", "Donald", "Trump", "praised", "new", "CIA", "Director", "Gina", "Haspel", "at", "her", "swearing", "-", "in", "ceremony", "Monday", "."], "clusters": [[[0, 2], [10, 10]]]}

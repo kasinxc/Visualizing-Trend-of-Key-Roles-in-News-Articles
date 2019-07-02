@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 4], [5, 8], [7, 7], [10, 11], [13, 13], [13, 14], [13, 15]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4, -1, -1], "document": ["Robert", "Mueller", "has", "been", "investigating", "the", "the", "Trump", "campaign", "for", "a", "year", "and", "his", "probe", "shows", "no", "sign", "of", "slowing", "down", "."], "clusters": [[[0, 1], [13, 13]]]}

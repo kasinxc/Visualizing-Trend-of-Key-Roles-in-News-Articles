@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [1, 2], [6, 8], [10, 10], [10, 16], [14, 15], [14, 16]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1, -1], "document": ["Newshound", "Matt", "Drudge", "has", "put", "up", "a", "blaring", "siren", "on", "his", "website", "ahead", "of", "Trump", "'s", "announcement", "."], "clusters": [[[1, 2], [10, 10]]]}

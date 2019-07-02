@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [5, 5], [7, 7], [9, 9], [9, 11]], "predicted_antecedents": [-1, -1, 1, 2, -1], "document": ["Donald", "Trump", "Jr.", "hangs", "with", "Vanessa", "after", "she", "defended", "his", "new", "relationship", "."], "clusters": [[[0, 2], [7, 7], [9, 9]]]}

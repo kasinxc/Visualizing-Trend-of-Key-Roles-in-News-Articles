@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [6, 6], [8, 8], [8, 10], [10, 10], [14, 14], [15, 15], [18, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4, -1, -1], "document": ["More", "than", "250,000", "people", "did", "n't", "vote", "for", "Clinton", "or", "Trump", ".", "Who", "will", "they", "vote", "for", "in", "November", "?"], "clusters": [[[0, 3], [14, 14]]]}

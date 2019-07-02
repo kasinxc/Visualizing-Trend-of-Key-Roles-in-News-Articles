@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 5], [5, 5], [7, 7], [8, 12], [12, 12], [16, 16], [18, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 4, -1], "document": ["A", "poll", "shows", "that", "\u00a0", "Americans", "consider", "him", "a", "better", "president", "than", "Trump", ".", "Policy", "ca", "n\u2019t", "explain", "the", "gap", "."], "clusters": [[[4, 5], [16, 16]]]}

@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "accused", "description": "[ARG0: An MSNBC guest] [ARGM-TMP: on Monday] [V: accused] [ARG1: President Donald Trump] [ARG2: of] ...", "tags": ["B-ARG0", "I-ARG0", "I-ARG0", "B-ARGM-TMP", "I-ARGM-TMP", "B-V", "B-ARG1", "I-ARG1", "I-ARG1", "B-ARG2", "O"]}], "words": ["An", "MSNBC", "guest", "on", "Monday", "accused", "President", "Donald", "Trump", "of", "..."]}

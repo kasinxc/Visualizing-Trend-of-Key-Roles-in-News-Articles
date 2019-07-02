@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [3, 3], [5, 5], [6, 8], [9, 9], [11, 11], [14, 14], [18, 18]], "predicted_antecedents": [-1, -1, -1, -1, 2, -1, -1, -1], "document": ["Trump", ":", "\"", "I", "think", "within", "the", "first", "minute", "I", "'ll", "know", "\"", "if", "Kim", "is", "serious", "about", "denuclearization", "."], "clusters": [[[3, 3], [9, 9]]]}

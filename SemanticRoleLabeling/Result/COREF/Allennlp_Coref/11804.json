@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 3], [2, 3], [8, 8], [11, 13], [14, 14]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4], "document": ["Rihanna", "and", "Azealia", "Banks", "have", "something", "new", "to", "feud", "over", "--", "President", "Donald", "Trump", "\u2019s", "immigration", "ban"], "clusters": [[[0, 0], [14, 14]]]}

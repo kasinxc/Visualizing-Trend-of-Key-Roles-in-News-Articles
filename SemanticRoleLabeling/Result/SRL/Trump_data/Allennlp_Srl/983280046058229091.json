@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "sounds", "description": "[ARG1: Trump] [V: sounds] off [C-ARG1: on Comey] , [ARGM-DIS: DOJ] .", "tags": ["B-ARG1", "B-V", "O", "B-C-ARG1", "I-C-ARG1", "O", "B-ARGM-DIS", "O"]}], "words": ["Trump", "sounds", "off", "on", "Comey", ",", "DOJ", "."]}

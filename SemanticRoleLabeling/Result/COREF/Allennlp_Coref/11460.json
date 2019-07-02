@@ -1,0 +1,1 @@
+{"top_spans": [[0, 4], [4, 4], [6, 8], [10, 10], [11, 11], [14, 14], [14, 18], [17, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4, -1, -1], "document": ["A", "California", "rapper", "on", "Sunday", "ordered", "local", "gang", "members", "to", "attack", "Kanye", "West", "over", "his", "support", "for", "President", "Trump", "."], "clusters": [[[0, 4], [14, 14]]]}

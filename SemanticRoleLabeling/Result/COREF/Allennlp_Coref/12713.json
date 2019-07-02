@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [4, 4], [5, 5], [6, 6], [9, 11], [13, 14], [15, 15]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, -1, -1], "document": ["President", "Trump", "wants", "to", "\u201c", "stick", "it", "to", "\"", "the", "federal", "prosecutors", ".", "Rod", "Blagojevich", "wants", "to", "come", "home", "."], "clusters": [[[4, 4], [6, 6]]]}

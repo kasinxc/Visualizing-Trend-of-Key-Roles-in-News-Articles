@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [3, 3], [4, 4], [4, 9], [7, 7], [11, 11], [13, 13], [16, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, 2, -1, -1], "document": ["President", "Trump", "is", "using", "tariffs", "to", "bolster", "trade", "leverage", "\u2014", "and", "it", "'s", "working", ",", "says", "former", "Office", "Depot", "CEO", "."], "clusters": [[[4, 4], [11, 11]]]}

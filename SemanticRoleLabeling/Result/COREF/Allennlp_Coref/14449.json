@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [0, 3], [0, 4], [10, 10], [11, 11], [14, 14], [15, 15], [17, 17]], "predicted_antecedents": [-1, -1, -1, -1, 3, 0, -1, -1], "document": ["John", "Goodman", "'s", "Tillerson", "croons", ":", "\"", "Do", "n't", "forget", "that", "I", "regret", "what", "I", "did", "for", "Trump", ".", "\""], "clusters": [[[0, 2], [11, 11], [14, 14]]]}

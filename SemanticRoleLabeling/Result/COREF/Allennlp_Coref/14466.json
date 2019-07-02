@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 1], [8, 8], [8, 9], [11, 13], [11, 18], [12, 12], [15, 15]], "predicted_antecedents": [-1, -1, 0, -1, -1, -1, -1, -1], "document": ["Keeping", "children", "out", "of", "foster", "care", "and", "within", "their", "families", "is", "a", "Trump", "administration", "objective", "we", "need", "to", "embrace", "."], "clusters": [[[0, 1], [8, 8]]]}

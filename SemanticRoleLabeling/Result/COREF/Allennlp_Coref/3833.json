@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 2], [8, 10], [8, 16], [12, 12], [12, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, 1, -1], "document": ["Many", "need", "relief", "from", "the", "hateful", "rhetoric", "of", "President", "Donald", "Trump", "and", "his", "anti", "-", "immigrant", "policies", "."], "clusters": [[[8, 10], [12, 12]]]}

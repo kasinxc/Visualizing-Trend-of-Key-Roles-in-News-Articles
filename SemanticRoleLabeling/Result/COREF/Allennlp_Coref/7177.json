@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 4], [2, 7], [2, 10], [9, 10], [13, 13], [17, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 3], "document": ["Congress", "funded", "the", "Children", "'s", "Health", "Insurance", "Program", "for", "10", "years", ";", "now", "Trump", "wants", "to", "cut", "it", "again", "."], "clusters": [[[2, 7], [17, 17]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [6, 6], [7, 8], [10, 10], [10, 12], [15, 15], [15, 17]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1, -1], "document": ["Senator", "John", "McCain", "reportedly", "did", "not", "invite", "Donald", "Trump", "to", "his", "future", "funeral", "because", "of", "their", "rocky", "relationship", "."], "clusters": [[[0, 2], [10, 10]]]}

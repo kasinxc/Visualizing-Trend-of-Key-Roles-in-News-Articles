@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [0, 9], [4, 9], [12, 12], [12, 15], [15, 15]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1], "document": ["President", "Donald", "Trump", "and", "North", "Korean", "dictator", "Kim", "Jong", "Un", "have", "concluded", "their", "summit", "in", "Singapore", "."], "clusters": [[[0, 9], [12, 12]]]}

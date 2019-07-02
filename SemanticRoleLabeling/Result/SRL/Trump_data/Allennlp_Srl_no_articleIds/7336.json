@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "Is", "description": "[V: Is] [ARG1: Hurricane Maria] [ARG2: President Trumps] [ARG2: \" Hurricane Katrina] ? \"", "tags": ["B-V", "B-ARG1", "I-ARG1", "B-ARG2", "I-ARG2", "B-ARG2", "I-ARG2", "I-ARG2", "O", "O"]}], "words": ["Is", "Hurricane", "Maria", "President", "Trumps", "\"", "Hurricane", "Katrina", "?", "\""]}

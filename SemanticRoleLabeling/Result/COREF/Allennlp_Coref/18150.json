@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [0, 4], [0, 7], [6, 7], [10, 10], [11, 12], [15, 15], [18, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 3, -1], "document": ["President", "Trump", "'s", "fiery", "rhetoric", "on", "North", "Korea", "may", "have", "yielded", "diplomatic", "results", ",", "but", "they", "will", "prove", "meaningless", "."], "clusters": [[[0, 7], [15, 15]]]}

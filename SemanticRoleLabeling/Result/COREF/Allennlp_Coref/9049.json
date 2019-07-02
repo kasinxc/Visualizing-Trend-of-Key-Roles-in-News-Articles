@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [1, 2], [6, 6], [9, 9], [10, 11], [13, 14], [13, 17]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1], "document": ["Did", "Peter", "Strzok", "think", "it", "was", "his", "job", "to", "protect", "the", "country", "from", "that", "menace", ",", "Donald", "Trump", "?"], "clusters": [[[0, 2], [6, 6]]]}

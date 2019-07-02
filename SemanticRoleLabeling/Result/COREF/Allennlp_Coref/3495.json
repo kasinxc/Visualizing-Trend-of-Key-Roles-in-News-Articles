@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [5, 9], [8, 9], [8, 12], [11, 11], [11, 12], [16, 16], [17, 18]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, -1, -1], "document": ["It", "wo", "n't", "likely", "be", "the", "last", "time", "President", "Trump", "or", "his", "family", "will", "be", "in", "Cincinnati", "this", "year", "."], "clusters": [[[8, 9], [11, 11]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [0, 5], [9, 9], [11, 12], [11, 19], [14, 14], [14, 19], [16, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4, -1, -1], "document": ["Robert", "De", "Niro", "'s", "protest", "chickens", "came", "home", "to", "roost", "--", "one", "week", "after", "his", "\"", "F**k", "Trump", "\"", "speech", "."], "clusters": [[[0, 3], [14, 14]]]}

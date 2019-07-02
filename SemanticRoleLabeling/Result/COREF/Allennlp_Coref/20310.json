@@ -1,0 +1,1 @@
+{"top_spans": [[2, 2], [2, 5], [10, 10], [11, 11], [13, 14], [16, 17], [18, 18], [19, 19]], "predicted_antecedents": [-1, -1, 1, -1, -1, 0, -1, -1], "document": ["Forget", "what", "his", "ex", "-", "wife", "said", ",", "and", "what", "he", "said", "about", "Ivanka", "Trump", ":", "Joss", "Whedon", "knows", "feminism", "."], "clusters": [[[2, 2], [10, 10]], [[13, 14], [16, 17]]]}

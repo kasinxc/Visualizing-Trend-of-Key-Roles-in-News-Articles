@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 2], [5, 5], [6, 6], [7, 7], [10, 10], [13, 13], [15, 15]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 1], "document": ["Who", "was", "Trump", "referring", "to", "when", "he", "said", ",", "\"", "These", "are", "n't", "people", ".", "These", "are", "animals", ".", "\"", "?"], "clusters": [[[10, 10], [15, 15]]]}

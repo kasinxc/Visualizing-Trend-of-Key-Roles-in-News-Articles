@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [4, 4], [7, 9], [7, 14], [13, 14], [16, 16], [16, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4, -1], "document": ["More", "Michigan", "Republican", "lawmakers", "speak", "out", "against", "Trump", "administration", "'s", "practice", "of", "separating", "migrant", "children", "from", "their", "families"], "clusters": [[[0, 3], [16, 16]]]}

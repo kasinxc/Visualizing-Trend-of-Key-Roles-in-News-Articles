@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [7, 7], [8, 8], [8, 9], [11, 13], [14, 14], [17, 17], [17, 18]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, 3, -1], "document": ["Gina", "Haspel", "was", "correct", "in", "asking", "to", "withdraw", "her", "nomination", "but", "the", "Trump", "administration", "refused", "to", "let", "her", "bow", "out", "."], "clusters": [[[0, 1], [8, 8], [17, 17]]]}

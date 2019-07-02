@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 2], [7, 16], [8, 8], [8, 10], [15, 15], [15, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, 2, -1], "document": ["CNN", "on", "Friday", "issued", "a", "correction", "to", "a", "Trump", "-", "Russia", "story", "that", "essentially", "nullified", "its", "bombshell", "."], "clusters": [[[7, 16], [15, 15]]]}

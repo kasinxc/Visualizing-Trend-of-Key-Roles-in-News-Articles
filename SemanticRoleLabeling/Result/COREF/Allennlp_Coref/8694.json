@@ -1,0 +1,1 @@
+{"top_spans": [[2, 9], [6, 6], [6, 7], [9, 9], [11, 12]], "predicted_antecedents": [-1, -1, -1, -1, 3], "document": ["There", "is", "one", "person", "who", "hopes", "Donald", "Trump", "keeps", "tweeting", ":", "Michael", "Avenatti"], "clusters": [[[2, 9], [11, 12]]]}

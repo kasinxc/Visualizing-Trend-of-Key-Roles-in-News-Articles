@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [3, 3], [4, 4], [4, 5], [7, 7], [8, 10], [13, 18], [18, 18]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1, -1], "document": ["President", "Donald", "Trump", "announced", "his", "decision", "to", "pull", "the", "United", "States", "out", "of", "the", "landmark", "climate", "agreement", "on", "Thursday", "."], "clusters": [[[0, 2], [4, 4]]]}

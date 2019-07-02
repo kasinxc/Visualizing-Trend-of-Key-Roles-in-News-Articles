@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 2], [4, 4], [5, 5], [12, 12]], "predicted_antecedents": [-1, -1, 1, -1, -1, 1], "document": ["Trump", "thinks", "he", "can", "strike", "Syria", "without", "congressional", "approval", ".", "Where", "does", "it", "end", "?"], "clusters": [[[0, 0], [2, 2]], [[4, 4], [12, 12]]]}

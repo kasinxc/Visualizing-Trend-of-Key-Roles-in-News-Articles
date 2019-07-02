@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 2], [4, 6], [5, 6], [8, 8], [9, 9], [19, 19], [19, 20]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 2, -1], "document": ["Trump", "asked", "Friday", "why", "comedian", "Samantha", "Bee", "was", "n\u2019t", "fired", "for", "using", "a", "vulgar", ",", "sexist", "term", "to", "describe", "his", "daughter"], "clusters": [[[5, 6], [19, 19]]]}

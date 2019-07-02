@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 4], [5, 5], [8, 9], [12, 16], [14, 15], [14, 16], [18, 19]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1, -1], "document": ["Mr.", "Trump", "tweeted", "on", "Monday", "his", "hope", "that", "West", "Virginians", "would", "support", "one", "of", "Blankenship", "'s", "opponents", "in", "Tuesday", "'s", "election"], "clusters": [[[0, 1], [5, 5]]]}

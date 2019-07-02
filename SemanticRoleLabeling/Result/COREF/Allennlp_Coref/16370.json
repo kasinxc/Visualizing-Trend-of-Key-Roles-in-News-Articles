@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 2], [8, 9], [11, 11], [12, 12], [14, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, 1, -1], "document": ["Trump", "autographed", "caps", "and", "commemorative", "passes", "worn", "by", "the", "children", "before", "taking", "them", "into", "the", "Oval", "Office", "."], "clusters": [[[8, 9], [12, 12]]]}

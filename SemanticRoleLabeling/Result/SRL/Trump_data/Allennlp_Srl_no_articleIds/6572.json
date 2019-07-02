@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "turned", "description": "[ARG1: President Donald Trump] , [V: turned] [ARG2: 71] [ARGM-TMP: on Wednesday] .", "tags": ["B-ARG1", "I-ARG1", "I-ARG1", "O", "B-V", "B-ARG2", "B-ARGM-TMP", "I-ARGM-TMP", "O"]}], "words": ["President", "Donald", "Trump", ",", "turned", "71", "on", "Wednesday", "."]}

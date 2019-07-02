@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [4, 4], [5, 5], [6, 9], [7, 7], [12, 12], [14, 15], [18, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4, -1, -1], "document": ["You", ",", "too", ",", "can", "have", "the", "Donald", "Trump", "hairdo", ",", "but", "you", "'d", "better", "stock", "up", "on", "hair", "spray", "."], "clusters": [[[0, 0], [12, 12]]]}

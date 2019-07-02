@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [0, 6], [4, 6], [9, 9], [12, 12], [14, 16], [18, 18], [18, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 1, -1], "document": ["Are", "Donald", "Trump", "and", "Kim", "Jong", "Un", "serious", "about", "denuclearization", "or", "will", "they", "play", "the", "same", "games", "as", "their", "predecessors", "?"], "clusters": [[[12, 12], [18, 18]]]}

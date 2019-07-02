@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [5, 5], [7, 8], [9, 9], [10, 10], [10, 11], [16, 16], [19, 20]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 3], "document": ["The", "U.S.", "led", "airstrikes", "on", "Syria", ",", "President", "Trump", "announced", "Friday", "night", ".", "Here", "'s", "what", "we", "know", "about", "the", "attack", "."], "clusters": [[[9, 9], [19, 20]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [2, 2], [4, 4], [8, 8], [10, 13], [16, 16], [17, 17], [17, 19]], "predicted_antecedents": [-1, -1, -1, -1, 0, -1, -1, -1], "document": ["Is", "anyone", "tired", "of", "winning", "yet", "?", "Thank", "you", ",", "President", "Donald", "J.", "Trump", ",", "for", "making", "America", "great", "again", "."], "clusters": [[[8, 8], [10, 13]]]}

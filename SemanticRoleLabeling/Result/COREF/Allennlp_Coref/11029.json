@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 7], [9, 9], [10, 11], [10, 12], [10, 13]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1], "document": ["President", "Trump", "refers", "to", "Attorney", "General", "Jeff", "Sessions", "as", "\u201c", "Mr.", "Magoo", "\u201d", "behind", "closed", "doors", "."], "clusters": [[[4, 7], [10, 11]]]}

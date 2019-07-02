@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [0, 3], [6, 6], [7, 7], [9, 9], [12, 15]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1], "document": ["Uber", "\u2019s", "reported", "pick", "has", "been", "running", "Expedia", "since", "2005", "and", "is", "vocally", "anti", "-", "Trump", "."], "clusters": [[[0, 1], [7, 7]]]}

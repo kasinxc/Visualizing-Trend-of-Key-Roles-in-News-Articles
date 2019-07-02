@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [3, 4], [3, 5], [7, 8], [7, 11], [10, 11], [13, 14], [13, 15]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 4], "document": ["Milbank", "says", "if", "Trudeau", "'s", "remarks", "are", "a", "knife", "in", "the", "back", ",", "Trump", "'s", "remarks", "are", "full", "-", "out", "disembowelment", "."], "clusters": [[[3, 5], [13, 15]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 2], [10, 10], [11, 11], [14, 14], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 1], "document": ["Trump", "says", "\u201c", "no", "campaign", "funds", "\u201d", "were", "used", "and", "says", "Cohen", "was", "being", "investigated", "over", "his", "business"], "clusters": [[[11, 11], [16, 16]]]}

@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "was", "description": "\" [ARG1: Donald Trump] [V: was] [ARG2: the Christopher Columbus] [ARGM-GOL: for me] . \"", "tags": ["O", "B-ARG1", "I-ARG1", "B-V", "B-ARG2", "I-ARG2", "I-ARG2", "B-ARGM-GOL", "I-ARGM-GOL", "O", "O"]}], "words": ["\"", "Donald", "Trump", "was", "the", "Christopher", "Columbus", "for", "me", ".", "\""]}

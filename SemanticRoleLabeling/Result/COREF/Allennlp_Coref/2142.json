@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [4, 5], [7, 7], [8, 12], [8, 17], [10, 10], [14, 14]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 2], "document": ["She", "did", "not", "end", "the", "interview", "before", "asking", "the", "former", "Trump", "campaign", "aide", "if", "he", "had", "been", "drinking", "."], "clusters": [[[8, 12], [14, 14]]]}

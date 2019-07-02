@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 1], [0, 5], [4, 5], [10, 17], [13, 17], [15, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 2], "document": ["Trump", "\u2019s", "pardon", "of", "Dinesh", "D\u2019Souza", "is", "outrageous", ",", "given", "the", "lightness", "of", "the", "sentence", "the", "provocateur", "received", "."], "clusters": [[[4, 5], [15, 16]]]}

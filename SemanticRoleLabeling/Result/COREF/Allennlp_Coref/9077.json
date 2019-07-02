@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 7], [4, 11], [9, 9], [9, 11]], "predicted_antecedents": [-1, -1, -1, 2, -1], "document": ["Jennifer", "Mau", "was", "attending", "a", "Loveland", "Trump", "rally", "with", "her", "daughter", "Chloe", "."], "clusters": [[[0, 1], [9, 9]]]}

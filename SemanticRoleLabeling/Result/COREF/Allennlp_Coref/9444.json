@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 2], [5, 7], [5, 11], [10, 10], [10, 11], [16, 20], [17, 19]], "predicted_antecedents": [-1, -1, -1, -1, 2, -1, -1, -1], "document": ["\u201c", "The", "president", "is", "in", "the", "hot", "seat", "because", "of", "his", "lawyer", ",", "\"", "according", "to", "the", "Trump", "-", "friendly", "tabloid", "."], "clusters": [[[1, 2], [10, 10]]]}

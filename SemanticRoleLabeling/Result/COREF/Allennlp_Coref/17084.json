@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [9, 10], [9, 17], [12, 12], [12, 14], [12, 17]], "predicted_antecedents": [-1, -1, -1, -1, 3, -1, -1], "document": ["President", "Trump", "filed", "a", "financial", "disclosure", "report", "that", "reveals", "a", "payment", "to", "his", "personal", "attorney", ",", "Michael", "Cohen", "."], "clusters": [[[0, 1], [12, 12]]]}

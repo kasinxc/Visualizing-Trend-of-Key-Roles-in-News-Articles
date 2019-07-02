@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [3, 3], [6, 6], [10, 10], [11, 13], [11, 14]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1], "document": ["Melania", "Trump", "is", "making", "headlines", "over", "her", "apparent", "refusal", "to", "hold", "the", "president", "'s", "hand", "."], "clusters": [[[0, 1], [6, 6]]]}

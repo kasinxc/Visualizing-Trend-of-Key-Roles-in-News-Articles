@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "Will", "description": "[V: Will] Trump jump in ?", "tags": ["B-V", "O", "O", "O", "O"]}, {"verb": "jump", "description": "[ARGM-MOD: Will] [ARG0: Trump] [V: jump] in ?", "tags": ["B-ARGM-MOD", "B-ARG0", "B-V", "O", "O"]}], "words": ["Will", "Trump", "jump", "in", "?"]}

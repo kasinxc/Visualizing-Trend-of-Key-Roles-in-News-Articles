@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "is", "description": "President Trump [V: is] standing by Pruitt .", "tags": ["O", "O", "B-V", "O", "O", "O", "O"]}, {"verb": "standing", "description": "[ARG1: President Trump] is [V: standing] [ARG2: by Pruitt] .", "tags": ["B-ARG1", "I-ARG1", "O", "B-V", "B-ARG2", "I-ARG2", "O"]}], "words": ["President", "Trump", "is", "standing", "by", "Pruitt", "."]}

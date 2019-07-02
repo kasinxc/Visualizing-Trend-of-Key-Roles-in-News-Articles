@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [4, 4], [5, 7], [5, 10], [9, 10], [13, 13]], "predicted_antecedents": [-1, -1, -1, -1, -1, 2], "document": ["Several", "Senate", "Republicans", "are", "warning", "President", "Donald", "Trump", "against", "obstructing", "justice", "or", "pardoning", "himself", "."], "clusters": [[[5, 7], [13, 13]]]}

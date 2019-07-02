@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 2], [4, 4], [5, 5], [8, 17], [10, 17]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1], "document": ["Trump", "said", "he", "would", "ask", "protesting", "players", "for", "examples", "of", "people", "who", "have", "been", "wrongly", "or", "unjustly", "imprisoned", "."], "clusters": [[[0, 0], [2, 2]]]}

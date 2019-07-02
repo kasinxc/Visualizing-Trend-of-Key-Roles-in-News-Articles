@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [0, 7], [3, 4], [3, 7], [6, 7], [12, 15], [12, 17]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1], "document": ["U.S.", "Sens", ".", "Robert", "Menendez", "and", "Cory", "Booker", "delivered", "scathing", "criticism", "of", "President", "Donald", "Trump", "'s", "separation", "policy", "."], "clusters": [[[0, 1], [3, 4]]]}

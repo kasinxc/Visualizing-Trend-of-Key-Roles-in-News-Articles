@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [1, 1], [5, 7], [5, 11], [9, 9], [11, 11], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 5], "document": ["The", "French", "president", "has", "built", "a", "credible", "platform", "to", "lead", "on", "Syria", ".", "Trump", "should", "let", "him", "."], "clusters": [[[0, 2], [16, 16]]]}

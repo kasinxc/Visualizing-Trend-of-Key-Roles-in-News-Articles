@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 2], [2, 5], [2, 7], [7, 7], [11, 12], [15, 15]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1, -1], "document": ["Trump", "defended", "his", "tough", "trade", "negotiations", "on", "Monday", ",", "saying", "that", "U.S.", "farmers", "have", "been", "treated", "\u201c", "unfairly", ".", "\u201d"], "clusters": [[[0, 0], [2, 2]]]}

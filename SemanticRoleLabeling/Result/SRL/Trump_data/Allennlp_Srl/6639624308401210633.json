@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "calls", "description": "[ARG0: Philadelphia mayor] [V: calls] [ARG1: Trump] [ARG2: a ' fragile egomaniac ']", "tags": ["B-ARG0", "I-ARG0", "B-V", "B-ARG1", "B-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2"]}], "words": ["Philadelphia", "mayor", "calls", "Trump", "a", "'", "fragile", "egomaniac", "'"]}

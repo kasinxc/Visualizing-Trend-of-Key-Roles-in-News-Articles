@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "has", "description": "[ARG0: President Trump] [V: has] [ARG1: an unofficial consultant on North Korea] .", "tags": ["B-ARG0", "I-ARG0", "B-V", "B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "O"]}], "words": ["President", "Trump", "has", "an", "unofficial", "consultant", "on", "North", "Korea", "."]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [3, 3], [4, 4], [6, 15], [9, 9], [11, 15]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1], "document": ["President", "Donald", "Trump", "said", "he", "spent", "the", "night", "in", "Moscow", "for", "the", "2013", "Miss", "Universe", "pageant", "."], "clusters": [[[0, 2], [4, 4]]]}

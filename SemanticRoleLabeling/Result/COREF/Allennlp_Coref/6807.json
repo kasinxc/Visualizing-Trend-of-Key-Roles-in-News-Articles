@@ -1,0 +1,1 @@
+{"top_spans": [[3, 8], [4, 5], [7, 8], [12, 12], [12, 15], [14, 14]], "predicted_antecedents": [-1, -1, 0, 1, -1, -1], "document": ["Bezos", "will", "have", "both", "Ivanka", "Trump", "and", "the", "Obamas", "as", "neighbors", "in", "his", "new", "DC", "neighborhood", "."], "clusters": [[[4, 5], [7, 8], [12, 12]]]}

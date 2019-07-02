@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [0, 4], [9, 9], [9, 10], [9, 17], [12, 15], [12, 17]], "predicted_antecedents": [-1, -1, 0, -1, -1, -1, -1], "document": ["White", "House", "physician", "Ronny", "Jackson", "will", "not", "return", "to", "his", "role", "as", "President", "Donald", "Trump", "'s", "personal", "physician", "."], "clusters": [[[0, 4], [9, 9]]]}

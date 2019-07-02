@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [0, 3], [3, 3], [4, 4], [14, 15], [14, 18], [17, 17], [17, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 4, -1], "document": ["President", "Trump", "on", "Saturday", "hailed", "the", "heroism", "of", "an", "Indiana", "science", "teacher", "who", "stopped", "a", "shooting", "inside", "his", "classroom", "."], "clusters": [[[0, 3], [17, 17]]]}

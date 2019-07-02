@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "are", "description": "[ARG1: Here] [V: are] [ARG2: Trump 's guests for his first SOTU]", "tags": ["B-ARG1", "B-V", "B-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2"]}], "words": ["Here", "are", "Trump", "'s", "guests", "for", "his", "first", "SOTU"]}

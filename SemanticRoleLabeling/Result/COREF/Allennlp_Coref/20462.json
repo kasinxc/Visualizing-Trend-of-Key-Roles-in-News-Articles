@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [4, 4], [5, 5], [12, 12], [14, 14], [15, 17], [15, 19], [19, 19]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1, -1, -1], "document": ["Several", "Republican", "lawmakers", "have", "said", "it", "is", "too", "early", "to", "answer", "whether", "they", "'ll", "back", "President", "Donald", "Trump", "in", "2020", "."], "clusters": [[[0, 2], [12, 12]]]}

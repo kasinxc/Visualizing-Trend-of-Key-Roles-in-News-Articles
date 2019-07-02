@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [6, 6], [6, 7], [7, 7], [12, 14], [14, 14]], "predicted_antecedents": [-1, -1, -1, -1, -1, 0], "document": ["But", "we", "ca", "n't", "decide", "if", "that", "leaker", "is", "Kellyanne", "Conway", "or", "Donald", "Trump", "himself", "."], "clusters": [[[12, 14], [14, 14]]]}

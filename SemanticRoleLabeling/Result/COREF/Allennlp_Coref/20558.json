@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [5, 12], [5, 14], [8, 10], [8, 12], [8, 14], [16, 16], [17, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 6], "document": ["Impeachment", "might", "be", "too", "high", "a", "bar", "for", "President", "Trump", "'s", "political", "foes", "to", "clear", ",", "says", "Jules", "Witcover", "."], "clusters": [[[0, 0], [17, 18]]]}

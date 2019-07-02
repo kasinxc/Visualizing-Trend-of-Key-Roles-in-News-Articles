@@ -1,0 +1,1 @@
+{"top_spans": [[0, 4], [2, 2], [5, 5], [6, 6], [10, 14], [13, 14]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1], "document": ["The", "2012", "GOP", "presidential", "nominee", "says", "he", "did", "not", "cast", "a", "ballot", "for", "Donald", "Trump", "."], "clusters": [[[0, 4], [6, 6]]]}

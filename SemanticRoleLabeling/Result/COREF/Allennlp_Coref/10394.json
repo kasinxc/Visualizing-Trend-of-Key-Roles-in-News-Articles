@@ -1,0 +1,1 @@
+{"top_spans": [[0, 6], [0, 7], [4, 4], [8, 8], [13, 13], [13, 14], [16, 16], [18, 19]], "predicted_antecedents": [-1, -1, -1, -1, 2, -1, -1, -1], "document": ["Paul", "Manafort", ",", "former", "Trump", "campaign", "chief", ",", "pleads", "not", "guilty", ",", "and", "his", "trial", "is", "set", "for", "Sept.", "17"], "clusters": [[[0, 7], [13, 13]]]}

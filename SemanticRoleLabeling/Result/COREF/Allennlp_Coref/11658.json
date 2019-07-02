@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [4, 4], [6, 6], [6, 8], [6, 11], [10, 11], [12, 12], [14, 14]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1, -1], "document": ["Sarah", "Huckabee", "Sanders", "'", "stonewalling", "over", "her", "previous", "statements", "saying", "Donald", "Trump", "did", "n't", "dictate", "did", "not", "go", "over", "well", "."], "clusters": [[[0, 3], [6, 6]]]}

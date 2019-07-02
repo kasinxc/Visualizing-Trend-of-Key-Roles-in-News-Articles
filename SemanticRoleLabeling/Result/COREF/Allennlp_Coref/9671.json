@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [2, 2], [3, 3], [5, 11], [13, 13], [14, 14], [15, 16], [15, 18]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, -1, -1], "document": ["While", "Trump", "received", "Macron", "for", "a", "glitzy", "three", "-", "day", "state", "visit", ",", "Merkel", "gets", "a", "20-minute", "private", "chat", "and", "lunch"], "clusters": [[[3, 3], [13, 13]]]}

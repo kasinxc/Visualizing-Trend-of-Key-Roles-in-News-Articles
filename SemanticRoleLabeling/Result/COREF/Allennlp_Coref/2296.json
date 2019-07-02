@@ -1,0 +1,1 @@
+{"top_spans": [[0, 4], [5, 5], [10, 10], [10, 11], [12, 12], [13, 14]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1], "document": ["U.S.", "President", "Donald", "Trump", "\"", "hates", "multilateral", "\"", "treaties", ",", "his", "adviser", "told", "Fox", "News", "."], "clusters": [[[0, 4], [10, 10]]]}

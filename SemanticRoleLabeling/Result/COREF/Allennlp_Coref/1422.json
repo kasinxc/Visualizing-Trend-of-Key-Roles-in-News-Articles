@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [6, 8], [11, 12], [11, 17], [14, 14], [14, 17], [17, 17]], "predicted_antecedents": [-1, -1, -1, -1, 2, -1, -1], "document": ["South", "Dakota", "Republicans", "still", "strongly", "support", "President", "Donald", "Trump", "more", "than", "a", "year", "into", "his", "time", "in", "office", "."], "clusters": [[[6, 8], [14, 14]]]}

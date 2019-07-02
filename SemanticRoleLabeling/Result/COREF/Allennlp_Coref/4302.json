@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [3, 5], [7, 7], [8, 9], [17, 17], [17, 18], [19, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4, -1, -1], "document": ["President", "Trump", "says", "the", "U.S.", "economy", "is", "hitting", "new", "heights", "--", "here", "'s", "a", "look", "at", "how", "his", "claim", "holds", "up"], "clusters": [[[0, 1], [17, 17]]]}

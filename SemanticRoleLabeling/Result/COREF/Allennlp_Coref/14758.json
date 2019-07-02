@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 2], [4, 4], [11, 14], [11, 20], [14, 14], [14, 20], [18, 20]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1, -1], "document": ["Trump", "applauded", "Shaw", "for", "his", "\u201c", "heroic", "actions", ",", "\u201d", "in", "a", "phone", "call", "Monday", ",", "according", "to", "the", "White", "House", "."], "clusters": [[[0, 0], [4, 4]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[5, 6], [9, 9], [10, 11], [13, 13], [13, 15], [13, 17], [16, 16]], "predicted_antecedents": [-1, -1, -1, 0, -1, -1, -1], "document": ["Republicans", "and", "Democrats", "just", "rebuked", "Trump", "'s", "efforts", "to", "oust", "the", "man", "investigating", "his", "campaign", "'s", "Russia", "ties", "."], "clusters": [[[10, 11], [13, 13]]]}

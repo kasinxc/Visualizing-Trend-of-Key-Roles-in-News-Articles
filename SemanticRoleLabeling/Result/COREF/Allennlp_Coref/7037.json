@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [2, 2], [2, 3], [4, 4], [6, 7], [9, 10], [9, 12], [18, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 5], "document": ["Following", "up", "his", "hot", "take", "about", "Donald", "Trump", ",", "UCLA", "'s", "star", "quarterback", "now", "has", "the", "NCAA", "in", "his", "crosshairs"], "clusters": [[[2, 2], [18, 18]]]}

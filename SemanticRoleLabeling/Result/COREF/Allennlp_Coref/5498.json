@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [3, 3], [4, 9], [6, 8], [11, 11], [12, 12], [14, 16]], "predicted_antecedents": [-1, -1, -1, -1, 3, 4, -1], "document": ["Patti", "LuPone", "has", "cried", "war", "against", "President", "Donald", "Trump", "\u2014", "but", "she", "\u2019s", "singing", "the", "wrong", "song", "."], "clusters": [[[0, 1], [11, 11], [12, 12]]]}

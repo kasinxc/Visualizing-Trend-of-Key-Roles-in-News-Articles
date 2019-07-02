@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "is", "description": "President Trump [V: is] flipping out .", "tags": ["O", "O", "B-V", "O", "O", "O"]}, {"verb": "flipping", "description": "[ARG1: President Trump] is [V: flipping] out .", "tags": ["B-ARG1", "I-ARG1", "O", "B-V", "O", "O"]}], "words": ["President", "Trump", "is", "flipping", "out", "."]}

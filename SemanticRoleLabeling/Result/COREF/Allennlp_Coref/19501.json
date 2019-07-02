@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [8, 8], [9, 9], [9, 10], [12, 15], [12, 17], [17, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 2], "document": ["The", "Trump", "administration", "is", "all", "too", "willing", "to", "cut", "Medicaid", "benefits", "and", "the", "number", "of", "people", "receiving", "them", "."], "clusters": [[[9, 10], [17, 17]]]}

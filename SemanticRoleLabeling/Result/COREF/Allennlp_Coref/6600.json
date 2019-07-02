@@ -1,0 +1,1 @@
+{"top_spans": [[1, 8], [6, 8], [10, 10], [13, 13], [14, 15], [14, 17], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 1], "document": ["To", "all", "the", "Never", "Trumpers", "and", "Trump", "-", "haters", ",", "its", "time", "to", "give", "the", "man", "his", "due", "."], "clusters": [[[14, 15], [16, 16]]]}

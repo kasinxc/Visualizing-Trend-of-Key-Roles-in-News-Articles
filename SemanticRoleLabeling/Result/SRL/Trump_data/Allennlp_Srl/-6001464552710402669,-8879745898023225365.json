@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "take", "description": "Another odd week in politics for Donald Trump . [ARG0: We] [V: take] [ARG1: a look] .", "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ARG0", "B-V", "B-ARG1", "I-ARG1", "O"]}], "words": ["Another", "odd", "week", "in", "politics", "for", "Donald", "Trump", ".", "We", "take", "a", "look", "."]}

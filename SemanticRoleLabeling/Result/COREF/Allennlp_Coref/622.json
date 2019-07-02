@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [5, 7], [9, 9], [12, 12], [12, 13], [15, 15], [16, 16], [16, 18]], "predicted_antecedents": [-1, -1, 1, 0, -1, -1, -1, -1], "document": ["Trump", "should", "be", "armed", "with", "a", "conceptual", "framework", "before", "he", "gets", "on", "his", "plane", "to", "meet", "Kim", "next", "month", "."], "clusters": [[[0, 0], [9, 9], [12, 12]]]}

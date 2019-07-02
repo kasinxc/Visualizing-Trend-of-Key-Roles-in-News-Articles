@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [3, 3], [6, 7], [6, 9], [14, 17], [14, 18]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1], "document": ["Trump", "stepped", "up", "his", "criticism", "of", "Montana", "'s", "Jon", "Tester", ",", "top", "Democrat", "on", "the", "Senate", "Veterans", "'", "Committee"], "clusters": [[[0, 0], [3, 3]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [4, 4], [7, 9], [12, 16], [12, 18], [13, 14], [18, 18]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1, -1], "document": ["Donald", "Trump", "brushed", "off", "his", "lack", "of", "a", "specific", "policy", "to", "defeat", "the", "Islamic", "State", "terror", "group", "on", "Wednesday", "."], "clusters": [[[0, 1], [4, 4]]]}

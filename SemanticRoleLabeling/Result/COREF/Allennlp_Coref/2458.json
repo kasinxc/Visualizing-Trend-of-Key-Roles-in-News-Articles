@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [3, 3], [4, 4], [4, 8], [4, 13], [7, 8], [11, 13], [16, 18]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1, -1], "document": ["Trump", "has", "long", "expressed", "his", "frustration", "about", "automotive", "imports", ",", "but", "the", "latest", "threat", "has", "taken", "an", "unexpected", "turn", "."], "clusters": [[[0, 0], [4, 4]]]}

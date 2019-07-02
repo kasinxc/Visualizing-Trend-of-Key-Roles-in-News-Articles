@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [5, 6], [5, 10], [9, 10], [12, 12], [13, 13], [15, 15], [18, 19]], "predicted_antecedents": [-1, -1, -1, -1, 2, -1, -1, -1], "document": ["People", "in", "the", "mountains", "of", "eastern", "Kentuckians", "who", "were", "Kennedy", "Democrats", "when", "RFK", "visited", "in", "1968", "are", "now", "Trump", "Republicans"], "clusters": [[[5, 6], [12, 12]]]}

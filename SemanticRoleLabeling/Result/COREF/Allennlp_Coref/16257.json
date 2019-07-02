@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 4], [5, 5], [10, 11], [10, 13], [13, 13], [18, 18]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1], "document": ["Contributors", "to", "President", "Donald", "Trump", "\u2019s", "2020", "campaign", "could", "win", "a", "flight", "to", "Michigan", "and", "a", "photo", "with", "Trump"], "clusters": [[[0, 0], [5, 5]]]}

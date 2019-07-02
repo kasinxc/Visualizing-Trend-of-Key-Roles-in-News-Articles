@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [0, 2], [0, 6], [7, 7], [8, 8], [10, 11], [18, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 0], "document": ["White", "House", "Press", "Secretary", "Sarah", "Huckabee", "Sanders", "said", "Monday", "that", "President", "Trump", "would", "have", "no", "reason", "to", "pardon", "himself"], "clusters": [[[10, 11], [18, 18]]]}

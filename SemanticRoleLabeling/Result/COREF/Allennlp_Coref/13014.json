@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [0, 4], [5, 5], [6, 7], [9, 10], [13, 13], [14, 14], [18, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 5], "document": ["Trump", "'s", "chief", "economic", "adviser", "defends", "U.S.", "steel", "and", "aluminum", "tariffs", ",", "but", "says", "they", "are", "\"", "not", "my", "favorite", "\"", "policy"], "clusters": [[[0, 4], [18, 18]]]}

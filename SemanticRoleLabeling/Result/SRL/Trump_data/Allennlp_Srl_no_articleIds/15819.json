@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "issued", "description": "[ARG0: President Donald Trump] [V: issued] [ARG1: a disaster declaration] .", "tags": ["B-ARG0", "I-ARG0", "I-ARG0", "B-V", "B-ARG1", "I-ARG1", "I-ARG1", "O"]}], "words": ["President", "Donald", "Trump", "issued", "a", "disaster", "declaration", "."]}

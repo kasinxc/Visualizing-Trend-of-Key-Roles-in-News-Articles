@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 4], [11, 14], [11, 15], [11, 17], [12, 12], [17, 17]], "predicted_antecedents": [-1, 0, -1, -1, -1, -1, -1], "document": ["Roger", "Stone", "has", "found", "himself", "in", "the", "middle", "of", "investigations", "into", "the", "Trump", "campaign", "'s", "ties", "to", "Russia", "."], "clusters": [[[0, 1], [4, 4]]]}

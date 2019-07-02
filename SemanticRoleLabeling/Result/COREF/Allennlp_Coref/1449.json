@@ -1,0 +1,1 @@
+{"top_spans": [[5, 5], [7, 7], [8, 8], [10, 10]], "predicted_antecedents": [-1, -1, 1, -1], "document": ["Jessica", "Drake", "has", "alleged", "that", "Trump", "improperly", "touched", "her", "in", "2006", "."], "clusters": [[[5, 5], [8, 8]]]}

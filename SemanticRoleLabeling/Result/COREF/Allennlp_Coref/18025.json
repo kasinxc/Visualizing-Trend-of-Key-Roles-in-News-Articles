@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 3], [4, 4], [5, 5], [5, 11], [8, 8], [8, 9]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1, -1], "document": ["NBA", "commissioner", "Adam", "Silver", "said", "his", "reaction", "to", "Trump", "\u2019s", "announcement", "\u201c", "is", "one", "of", "sadness", ".", "\u201d"], "clusters": [[[0, 3], [5, 5]]]}

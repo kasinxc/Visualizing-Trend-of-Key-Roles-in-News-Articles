@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [0, 2], [7, 12], [7, 14], [7, 15], [10, 12], [17, 17], [19, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 1, -1], "document": ["White", "House", "cybersecurity", "position", "left", "open", "when", "Rob", "Joyce\u200b", ",", "President", "Trump", "'s", "first", "coordinator", ",", "said", "he", "was", "leaving"], "clusters": [[[7, 15], [17, 17]]]}

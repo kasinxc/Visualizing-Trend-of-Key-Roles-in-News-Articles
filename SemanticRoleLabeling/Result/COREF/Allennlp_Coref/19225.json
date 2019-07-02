@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 1], [2, 2], [6, 8], [9, 9], [10, 10], [14, 14]], "predicted_antecedents": [-1, -1, -1, -1, -1, 1, -1], "document": ["Crude", "futures", "turned", "sharply", "lower", "after", "President", "Donald", "Trump", "said", "he", "would", "not", "tolerate", "OPEC", "boosting", "oil", "prices", "."], "clusters": [[[6, 8], [10, 10]]]}

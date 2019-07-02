@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 3], [2, 6], [5, 5], [9, 11], [12, 12], [16, 16], [18, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 4, -1], "document": ["Trump", "addressed", "a", "letter", "to", "Kim", "personally", ",", "and", "the", "White", "House", "released", "a", "copy", "of", "it", "on", "May", "24", "."], "clusters": [[[2, 3], [16, 16]]]}

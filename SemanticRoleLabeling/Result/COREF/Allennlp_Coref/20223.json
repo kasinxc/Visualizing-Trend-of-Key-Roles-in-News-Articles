@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 3], [5, 5], [7, 7], [9, 10], [13, 14], [16, 16]], "predicted_antecedents": [-1, -1, -1, 1, 3, -1, -1], "document": ["Trump", "lawyer", "Rudy", "Giuliani", "claimed", "it", "is", "his", "impression", "President", "Trump", "was", "unaware", "Michael", "Cohen", "was", "reportedly", "pledging", "access"], "clusters": [[[0, 3], [7, 7]], [[0, 0], [9, 10]]]}

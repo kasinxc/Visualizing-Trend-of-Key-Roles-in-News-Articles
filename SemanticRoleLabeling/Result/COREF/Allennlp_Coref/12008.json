@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [0, 2], [5, 7], [9, 9], [10, 10], [14, 15]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1], "document": ["Rudy", "Giuliani", "Drops", "Bombshell", ":", "Trump", "Fired", "Comey", "Because", "He", "Refused", "to", "Saytarget", "of", "the", "investigation"], "clusters": [[[0, 1], [9, 9]]]}

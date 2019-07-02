@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [4, 4], [5, 5], [5, 7], [5, 12], [9, 12], [9, 16]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1], "document": ["President", "Donald", "Trump", "frequently", "uses", "his", "luxury", "properties", "for", "government", "business", "and", "leisure", ",", "prompting", "ethics", "concerns", "."], "clusters": [[[0, 2], [5, 5]]]}

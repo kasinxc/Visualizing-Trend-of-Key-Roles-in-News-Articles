@@ -1,0 +1,1 @@
+{"top_spans": [[3, 4], [6, 6], [10, 11], [14, 17], [14, 18], [17, 17], [17, 18], [18, 18]], "predicted_antecedents": [-1, 0, 0, -1, -1, -1, -1, -1], "document": ["Blocks", "from", "where", "Alex", "Ovechkin", "plays", "his", "home", "games", ",", "Donald", "Trump", "will", "take", "the", "oath", "of", "office", "Friday", "."], "clusters": [[[3, 4], [6, 6], [10, 11]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [3, 3], [4, 4], [7, 12], [7, 14], [13, 14], [16, 17]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1], "document": ["President", "Donald", "Trump", "says", "he", "may", "pardon", "another", "late", "heavyweight", "boxing", "champion", "\u2014", "this", "time", ",", "Muhammad", "Ali", "."], "clusters": [[[0, 2], [4, 4]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 2], [3, 3], [4, 4], [9, 10], [13, 14]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1], "document": ["Stormy", "Daniels\u2019", "Lawyer", "says", "he", "is", "going", "to", "take", "President", "Trump", "down", "with", "a", "deposition", "."], "clusters": [[[0, 2], [4, 4]]]}

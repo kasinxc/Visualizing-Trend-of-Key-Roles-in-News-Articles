@@ -1,0 +1,1 @@
+{"top_spans": [[0, 7], [5, 7], [6, 6], [8, 8], [9, 9], [11, 12], [11, 13]], "predicted_antecedents": [-1, -1, -1, -1, 3, -1, -1], "document": ["The", "former", "communications", "adviser", "to", "the", "Trump", "campaign", "said", "he", "doubts", "Mueller", "'s", "team", "will", "find", "evidence", "of", "collusion"], "clusters": [[[0, 7], [9, 9]]]}

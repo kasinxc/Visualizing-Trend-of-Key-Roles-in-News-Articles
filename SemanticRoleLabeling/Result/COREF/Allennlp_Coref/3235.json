@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 4], [5, 7], [5, 9], [11, 11], [14, 15], [16, 17]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, -1], "document": ["Dennis", "Rodman", "damn", "near", "packed", "President", "Trump", "'s", "complete", "bibliography", "when", "he", "went", "to", "North", "Korea", "last", "year", "."], "clusters": [[[5, 7], [11, 11]]]}

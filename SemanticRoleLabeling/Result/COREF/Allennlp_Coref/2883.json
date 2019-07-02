@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [4, 5], [4, 6], [9, 9], [12, 12], [15, 17], [19, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4, -1, -1], "document": ["Jim", "Cramer", "breaks", "down", "President", "Trump", "\u2019s", "strategy", "on", "trade", "and", "why", "he", "has", "taken", "a", "hard", "stance", "with", "China", "."], "clusters": [[[0, 1], [12, 12]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 9], [4, 5], [4, 9], [7, 7], [7, 9], [14, 14]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1], "document": ["The", "awkward", "bromance", "between", "President", "Trump", "and", "his", "French", "counterpart", "took", "a", "formal", "turn", "Tuesday", "."], "clusters": [[[4, 5], [7, 7]]]}

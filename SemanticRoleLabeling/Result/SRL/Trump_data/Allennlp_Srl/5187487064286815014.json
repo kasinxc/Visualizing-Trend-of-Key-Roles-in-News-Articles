@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "Take", "description": "\" [V: Take] [ARG1: that] , [ARGM-DIS: Trump] ! \"", "tags": ["O", "B-V", "B-ARG1", "O", "B-ARGM-DIS", "O", "O"]}], "words": ["\"", "Take", "that", ",", "Trump", "!", "\""]}

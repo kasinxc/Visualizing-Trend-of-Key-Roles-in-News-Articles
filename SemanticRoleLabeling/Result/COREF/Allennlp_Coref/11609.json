@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 3], [4, 4], [10, 10], [10, 11], [10, 13], [13, 13]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1, -1], "document": ["First", "lady", "Melania", "Trump", "reportedly", "will", "not", "be", "traveling", "with", "her", "husband", "to", "Canada", "for", "the", "G7", "Summ"], "clusters": [[[0, 3], [10, 10]]]}

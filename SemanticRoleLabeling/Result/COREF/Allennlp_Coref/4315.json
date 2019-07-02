@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 2], [2, 4], [7, 7], [12, 13], [16, 16]], "predicted_antecedents": [-1, -1, 1, -1, 0, -1, -1], "document": ["Trump", "defended", "his", "immigration", "policy", "by", "calling", "it", "\u201c", "similar", "to", "what", "President", "Obama", "did", "in", "2011", "."], "clusters": [[[0, 0], [2, 2]], [[2, 4], [7, 7]]]}

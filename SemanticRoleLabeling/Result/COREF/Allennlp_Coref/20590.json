@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [2, 2], [6, 7], [11, 11], [11, 12], [15, 15], [16, 17]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1, -1], "document": ["Trump", "and", "Kim", "hope", "to", "stage", "a", "spectacle", ",", "even", "as", "their", "representatives", "struggle", "to", "find", "common", "ground", "."], "clusters": [[[0, 2], [11, 11]]]}

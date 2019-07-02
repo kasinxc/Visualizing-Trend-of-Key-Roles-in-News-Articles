@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 4], [10, 10], [10, 11], [13, 13], [15, 16]], "predicted_antecedents": [-1, -1, -1, 2, -1, 1, -1], "document": ["Readers", "defend", "President", "Trump", "'s", "policy", "of", "separating", "children", "from", "their", "parents", "when", "they", "cross", "the", "border", "illegally", "."], "clusters": [[[0, 0], [10, 10], [13, 13]]]}

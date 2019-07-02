@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [3, 3], [3, 9], [6, 8], [6, 9], [15, 15], [18, 18], [19, 19]], "predicted_antecedents": [-1, 0, -1, -1, -1, -1, 5, 0], "document": ["Jack", "Black", "hones", "his", "Trump", ",", "Paul", "Feig", "'s", "Uber", "was", "awful", "and", "more", "pics", "that", "will", "make", "you", "LOL", "."], "clusters": [[[0, 1], [3, 3], [18, 18], [19, 19]]]}

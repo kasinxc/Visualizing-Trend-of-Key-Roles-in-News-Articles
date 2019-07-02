@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 3], [3, 3], [5, 5], [8, 9], [11, 11], [12, 14], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, 2, -1, -1], "document": ["Trump", "wrote", "on", "Twitter", ",", "incorrectly", ",", "that", "the", "efforts", "were", "\u201c", "totally", "illegal", "\u201d", "and", "called", "for", "an", "investigation"], "clusters": [[[3, 3], [11, 11]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [3, 3], [6, 8], [6, 14], [11, 14], [17, 17], [17, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 1, -1], "document": ["President", "Trump", "tweeted", "Wednesday", "night", "that", "three", "American", "prisoners", "held", "in", "North", "Korean", "labor", "camps", "may", "win", "their", "release", "."], "clusters": [[[6, 14], [17, 17]]]}

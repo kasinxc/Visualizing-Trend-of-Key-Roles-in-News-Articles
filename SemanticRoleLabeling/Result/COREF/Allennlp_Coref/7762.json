@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 5], [6, 6], [9, 9], [12, 14], [13, 13], [16, 17]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1, -1], "document": ["The", "messages", "suggest", "that", "Elliott", "Broidy", "tried", "to", "use", "his", "influence", "with", "the", "Trump", "administration", "for", "personal", "gain", "."], "clusters": [[[4, 5], [9, 9]]]}

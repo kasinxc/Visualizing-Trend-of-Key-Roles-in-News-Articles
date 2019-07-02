@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [4, 4], [5, 5], [5, 6], [8, 10], [12, 12], [12, 18], [14, 18]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1, -1], "document": ["President", "Donald", "Trump", "will", "donate", "his", "salary", "for", "the", "first", "quarter", "of", "2018", "to", "the", "Department", "of", "Veterans", "Affairs", "."], "clusters": [[[0, 2], [5, 5]]]}

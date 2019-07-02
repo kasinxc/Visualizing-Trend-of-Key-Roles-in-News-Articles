@@ -1,0 +1,1 @@
+{"top_spans": [[0, 5], [5, 5], [6, 6], [7, 7], [9, 10], [12, 13], [12, 18], [15, 16]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1, -1, -1], "document": ["An", "attorney", "who", "practices", "in", "Mahopac", "says", "he", "discussed", "the", "issue", "with", "Michael", "Cohen", ",", "Trump", "'s", "personal", "lawyer", "."], "clusters": [[[0, 5], [7, 7]]]}

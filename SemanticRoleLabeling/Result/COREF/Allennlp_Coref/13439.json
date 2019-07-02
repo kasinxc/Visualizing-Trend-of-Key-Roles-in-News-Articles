@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [4, 4], [5, 5], [8, 8], [10, 11], [13, 13], [14, 16], [17, 19]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1, -1], "document": ["Jerusalem", "Mayor", "Nir", "Barkat", "announced", "his", "decision", "to", "formally", "honor", "President", "Trump", "by", "naming", "a", "promenade", "near", "the", "US", "embassy"], "clusters": [[[0, 3], [5, 5]]]}

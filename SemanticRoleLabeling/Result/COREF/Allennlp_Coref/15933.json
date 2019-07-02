@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 2], [5, 5], [9, 11], [15, 15], [16, 16], [19, 19]], "predicted_antecedents": [-1, -1, 1, 0, -1, -1, 3, -1], "document": ["Trump", "tweeted", "he", "can", "pardon", "himself", ",", "citing", "\"", "numerous", "legal", "scholars", ",", "\"", "but", "claimed", "he", "did", "nothing", "wrong", "."], "clusters": [[[0, 0], [2, 2], [5, 5], [16, 16]]]}

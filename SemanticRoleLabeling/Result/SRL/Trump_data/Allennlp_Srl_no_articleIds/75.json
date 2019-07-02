@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "wins", "description": "\" [ARG0: Trump] [V: wins] \" [ARGM-TMP: again] .", "tags": ["O", "B-ARG0", "B-V", "O", "B-ARGM-TMP", "O"]}], "words": ["\"", "Trump", "wins", "\"", "again", "."]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [4, 4], [5, 5], [5, 6], [8, 8], [9, 11], [11, 11], [18, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 2, -1], "document": ["President", "Donald", "Trump", "has", "targeted", "NFL", "players", ",", "painting", "many", "of", "them", "as", "unpatriotic", ",", "for", "well", "over", "a", "year", "now", "."], "clusters": [[[5, 6], [11, 11]]]}

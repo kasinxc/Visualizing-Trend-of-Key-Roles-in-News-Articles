@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [0, 4], [6, 7], [9, 9], [11, 11], [13, 13], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, 3, -1, -1], "document": ["Ayatollah", "Ali", "Khamenei", "'s", "comments", "came", "a", "day", "after", "Trump", "announced", "he", "was", "renewing", "sanctions", "on", "Iran", "."], "clusters": [[[0, 3], [11, 11]]]}

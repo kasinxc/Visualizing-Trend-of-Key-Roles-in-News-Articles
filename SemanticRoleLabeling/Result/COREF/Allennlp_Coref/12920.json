@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 4], [0, 5], [2, 2], [2, 5], [4, 5], [9, 10], [19, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 0], "document": ["Days", "after", "Trump", "and", "Kim", "\u2019s", "improbable", "meeting", ",", "South", "Koreans", "are", "left", "unsure", "of", "what", "to", "make", "of", "its", "outcome", "."], "clusters": [[[9, 10], [19, 19]]]}

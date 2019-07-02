@@ -1,0 +1,1 @@
+{"top_spans": [[2, 10], [3, 4], [6, 7], [9, 10], [13, 14], [14, 14], [14, 15]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 4], "document": ["Why", "did", "n\u2019t", "Barack", "Obama", "pardon", "Jack", "Johnson", "before", "Donald", "Trump", "did", "?", "Blame", "Washington", "\u2019s", "racial", "politics", "."], "clusters": [[[3, 4], [14, 15]]]}

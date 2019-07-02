@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [3, 3], [5, 5], [7, 8], [10, 10], [11, 11]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1], "document": ["Floyd", "Mayweather", "is", "strongly", "distancing", "himself", "from", "Donald", "Trump", ",", "saying", "they", "'re", "not", "really", "friends", "."], "clusters": [[[0, 1], [5, 5]]]}

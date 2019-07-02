@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "say", "description": "[ARGM-ADV: Just] [V: say] [ARG1: no] [ARG2: to Trump \u2019s opioid plan] .", "tags": ["B-ARGM-ADV", "B-V", "B-ARG1", "B-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "O"]}], "words": ["Just", "say", "no", "to", "Trump", "\u2019s", "opioid", "plan", "."]}

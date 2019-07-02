@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [6, 6], [9, 11], [13, 13], [13, 16], [14, 16], [15, 15]], "predicted_antecedents": [-1, 0, -1, -1, -1, -1, -1], "document": ["The", "secretary", "-", "general", "also", "said", "he", "had", "thanked", "President", "Donald", "Trump", "for", "securing", "bigger", "NATO", "budgets", "."], "clusters": [[[0, 3], [6, 6]]]}

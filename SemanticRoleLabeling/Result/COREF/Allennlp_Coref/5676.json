@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 2], [2, 10], [4, 4], [6, 10], [9, 9], [14, 16], [18, 18]], "predicted_antecedents": [-1, 0, -1, -1, -1, -1, -1, -1], "document": ["ZTE", "has", "its", "hopes", "pegged", "on", "broader", "US", "-", "China", "talks", ",", "and", "now", "President", "Donald", "Trump", "has", "intervened", "."], "clusters": [[[0, 0], [2, 2]]]}

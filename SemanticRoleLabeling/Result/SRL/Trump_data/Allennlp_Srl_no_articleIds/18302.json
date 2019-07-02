@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "hit", "description": "[ARG0: Michelle Wolf] [V: hit] [ARG2: on a sensitive subject \u2014 Trump 's finances] .", "tags": ["B-ARG0", "I-ARG0", "B-V", "B-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "O"]}], "words": ["Michelle", "Wolf", "hit", "on", "a", "sensitive", "subject", "\u2014", "Trump", "'s", "finances", "."]}

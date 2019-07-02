@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [3, 3], [4, 4], [6, 6], [8, 12], [14, 15], [17, 17]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1], "document": ["President", "Donald", "Trump", "says", "he", "will", "meet", "with", "Korean", "President", "Kim", "Jong", "Un", "on", "June", "12th", "in", "Singapore", "."], "clusters": [[[0, 2], [4, 4]]]}

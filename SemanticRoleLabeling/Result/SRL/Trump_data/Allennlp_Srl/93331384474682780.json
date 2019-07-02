@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "is", "description": "[ARGM-DIS: But] [ARG1: Trump 's approval rating] [V: is] [ARGM-TMP: still] [ARGM-NEG: not] [ARG2: very good] .", "tags": ["B-ARGM-DIS", "B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "B-V", "B-ARGM-TMP", "B-ARGM-NEG", "B-ARG2", "I-ARG2", "O"]}], "words": ["But", "Trump", "'s", "approval", "rating", "is", "still", "not", "very", "good", "."]}

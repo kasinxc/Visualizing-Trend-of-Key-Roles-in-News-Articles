@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 2], [4, 4], [5, 8], [5, 14], [16, 16], [16, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, 3, -1], "document": ["Several", "religious", "groups", "are", "denouncing", "the", "Trump", "administration", "'s", "cruel", "policy", "of", "separating", "migrant", "children", "from", "their", "parents", "."], "clusters": [[[0, 2], [16, 16]]]}

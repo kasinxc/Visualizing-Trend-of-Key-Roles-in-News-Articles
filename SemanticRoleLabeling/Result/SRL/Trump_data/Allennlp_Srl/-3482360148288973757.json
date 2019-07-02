@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "visits", "description": "Trump - Kim summit in play as [ARG0: Moon] [V: visits] [ARG1: White House]", "tags": ["O", "O", "O", "O", "O", "O", "O", "B-ARG0", "B-V", "B-ARG1", "I-ARG1"]}], "words": ["Trump", "-", "Kim", "summit", "in", "play", "as", "Moon", "visits", "White", "House"]}

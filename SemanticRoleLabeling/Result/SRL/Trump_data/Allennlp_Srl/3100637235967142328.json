@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "are", "description": "[ARG1: Many Canadians] [V: are] [ARG2: angry with Trump 's treatment of Trudeau] .", "tags": ["B-ARG1", "I-ARG1", "B-V", "B-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "O"]}], "words": ["Many", "Canadians", "are", "angry", "with", "Trump", "'s", "treatment", "of", "Trudeau", "."]}

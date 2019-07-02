@@ -1,0 +1,1 @@
+{"top_spans": [[3, 3], [3, 4], [6, 6], [8, 8], [10, 11], [13, 13], [18, 18], [18, 20]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 5, -1], "document": ["Two", "years", "after", "his", "election", ",", "Trump", "will", "return", "to", "Macomb", "County", "as", "residents", "weigh", "the", "impact", "of", "his", "economic", "policies"], "clusters": [[[3, 3], [18, 18]]]}

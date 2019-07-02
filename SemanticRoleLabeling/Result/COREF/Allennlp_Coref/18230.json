@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [3, 3], [3, 8], [4, 8], [10, 11]], "predicted_antecedents": [-1, -1, -1, -1, -1, 1], "document": ["Donald", "Trump", "repeatedly", "accused", "Susan", "Rice", "of", "criminal", "wrongdoing", ".", "Those", "allegations", "now", "appear", "increasingly", "ridiculous", "."], "clusters": [[[3, 8], [10, 11]]]}

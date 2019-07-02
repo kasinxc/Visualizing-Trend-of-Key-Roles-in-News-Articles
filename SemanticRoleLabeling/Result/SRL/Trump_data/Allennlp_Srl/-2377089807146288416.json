@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "feels", "description": "[ARGM-DIS: Man] , [ARG0: she] [V: feels] [ARG1: like a Trump supporter] .", "tags": ["B-ARGM-DIS", "O", "B-ARG0", "B-V", "B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "O"]}], "words": ["Man", ",", "she", "feels", "like", "a", "Trump", "supporter", "."]}

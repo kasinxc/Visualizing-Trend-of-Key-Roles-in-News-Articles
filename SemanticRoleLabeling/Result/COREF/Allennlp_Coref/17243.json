@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [2, 3], [5, 5], [5, 14], [9, 9], [9, 14], [9, 17]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, -1], "document": ["Even", "by", "Trump", "standards", ",", "his", "latest", "argument", "about", "his", "own", "family", "-", "separation", "policy", "is", "indefensibly", "incoherent", "."], "clusters": [[[5, 5], [9, 9]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 4], [7, 7], [8, 8], [9, 9]], "predicted_antecedents": [-1, 0, -1, -1, 3], "document": ["Donald", "Trump", "is", "celebrating", "his", "72nd", "birthday", "Thursday", "\u2013", "his", "second", "while", "in", "office"], "clusters": [[[0, 1], [4, 4], [9, 9]]]}

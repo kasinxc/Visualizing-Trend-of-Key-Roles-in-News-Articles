@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 1], [3, 3], [5, 5], [13, 15], [14, 14]], "predicted_antecedents": [-1, -1, 0, -1, -1, -1], "document": ["Tennessee", "residents", "say", "they", "are", "voting", "for", "a", "gubernatorial", "candidate", ",", "regardless", "of", "a", "Trump", "endorsement", "."], "clusters": [[[0, 1], [3, 3]]]}

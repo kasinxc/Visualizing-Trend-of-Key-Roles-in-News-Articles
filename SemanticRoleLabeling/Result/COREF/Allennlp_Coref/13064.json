@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 3], [4, 4], [5, 5], [9, 9], [11, 11], [12, 13]], "predicted_antecedents": [-1, -1, -1, -1, -1, 1, -1], "document": ["GOP", "strategist", "Steve", "Schmidt", "ripped", "Pence", "for", "\u2018", "slobbering", "servility,\u2019", "calling", "him", "Trump", "\u2019s", "most", "'", "obsequious", "cultist.\u2019"], "clusters": [[[5, 5], [11, 11]]]}

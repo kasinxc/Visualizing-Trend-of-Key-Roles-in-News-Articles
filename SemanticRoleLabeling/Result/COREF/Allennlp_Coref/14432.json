@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [5, 6], [9, 9], [11, 11], [12, 12], [14, 16], [15, 15]], "predicted_antecedents": [-1, -1, 0, -1, 1, -1, -1], "document": ["The", "image", "was", "inspired", "by", "Trump", "'s", "claim", "that", "he", "could", "pardon", "himself", "in", "the", "Russia", "probe", "."], "clusters": [[[5, 6], [9, 9], [12, 12]]]}

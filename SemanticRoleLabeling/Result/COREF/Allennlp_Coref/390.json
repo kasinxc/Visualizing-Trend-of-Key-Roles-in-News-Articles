@@ -1,0 +1,1 @@
+{"top_spans": [[1, 2], [3, 3], [6, 8], [10, 10], [12, 12], [13, 13], [13, 19], [18, 19]], "predicted_antecedents": [-1, -1, -1, 2, -1, 1, -1, -1], "document": ["As", "Melania", "Trump", "settles", "in", "at", "the", "White", "House", ",", "she", "'s", "found", "her", "own", "way", "to", "be", "First", "Lady", "."], "clusters": [[[1, 2], [10, 10], [13, 13]]]}

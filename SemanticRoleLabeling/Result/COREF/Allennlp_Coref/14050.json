@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [1, 1], [4, 4], [8, 10], [12, 13], [14, 14], [17, 17], [20, 20]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 3, -1], "document": ["The", "Trump", "stock", "market", "looks", "a", "lot", "like", "Ronald", "Reagan", "'s", ",", "Ralph", "Acampora", "says", "\u2014", "and", "that", "may", "mean", "trouble"], "clusters": [[[4, 4], [17, 17]]]}

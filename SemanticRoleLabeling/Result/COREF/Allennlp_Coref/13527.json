@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [4, 4], [5, 5], [9, 10], [12, 12], [12, 16], [15, 16]], "predicted_antecedents": [-1, -1, -1, -1, 0, -1, -1], "document": ["Steelers", "legend", "Terry", "Bradshaw", "says", "he", "'s", "siding", "with", "the", "Eagles", "in", "their", "tiff", "with", "Donald", "Trump", "."], "clusters": [[[9, 10], [12, 12]]]}

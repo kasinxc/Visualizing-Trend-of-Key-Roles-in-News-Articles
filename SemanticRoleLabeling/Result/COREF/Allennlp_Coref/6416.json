@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [0, 2], [5, 5], [13, 13], [13, 14], [16, 16], [17, 17], [19, 20]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1, -1, -1], "document": ["Trump", "'s", "threats", "were", "already", "feeding", "into", "higher", "gas", "prices", ",", "and", "now", "his", "actions", "could", "add", "fuel", "to", "that", "fire"], "clusters": [[[0, 1], [13, 13]]]}

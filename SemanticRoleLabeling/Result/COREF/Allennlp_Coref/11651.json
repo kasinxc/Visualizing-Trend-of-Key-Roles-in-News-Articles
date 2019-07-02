@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [3, 3], [4, 4], [6, 6], [8, 8], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, 0], "document": ["Lesley", "Stahl", "said", "Trump", "admitted", "that", "he", "attacks", "journalists", "so", "\"", "no", "one", "will", "believe", "\"", "them", "."], "clusters": [[[3, 3], [6, 6]], [[8, 8], [16, 16]]]}

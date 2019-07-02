@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [0, 3], [3, 3], [4, 4], [5, 7], [9, 9], [14, 14], [18, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4, -1, -1], "document": ["The", "Trump", "administration", "Wednesday", "released", "a", "meeting", "schedule", "as", "it", "takes", "regulatory", "steps", "to", "prepare", "for", "leasing", "in", "ANWR", "."], "clusters": [[[0, 2], [9, 9]]]}

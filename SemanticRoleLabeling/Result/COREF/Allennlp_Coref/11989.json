@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [4, 4], [8, 9], [8, 10], [8, 12], [12, 12], [15, 16], [19, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 5], "document": ["Mental", "health", "professionals", "are", "crowdfunding", "a", "documentary", "on", "Trump", "'s", "fitness", "to", "lead", ",", "and", "Rosie", "O'Donnell", "is", "on", "it", "."], "clusters": [[[4, 4], [19, 19]]]}

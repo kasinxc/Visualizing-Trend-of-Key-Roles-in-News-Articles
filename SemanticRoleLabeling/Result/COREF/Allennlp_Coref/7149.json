@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 2], [2, 2], [4, 4], [5, 6], [14, 14], [16, 20], [19, 20]], "predicted_antecedents": [-1, -1, -1, -1, -1, 2, -1, -1], "document": ["Trump", "and", "Cohen", "had", "sought", "a", "delay", "because", "of", "a", "pending", "criminal", "investigation", "of", "Cohen", "by", "federal", "prosecutors", "in", "New", "York", "."], "clusters": [[[2, 2], [14, 14]]]}

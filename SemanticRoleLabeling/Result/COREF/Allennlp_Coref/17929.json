@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 2], [7, 9], [11, 11], [16, 16]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1], "document": ["Trump", "recounted", "his", "experience", "spending", "time", "with", "Kim", "Jong", "Un", "during", "their", "June", "12", "summit", "in", "Singapore"], "clusters": [[[0, 0], [2, 2]]]}

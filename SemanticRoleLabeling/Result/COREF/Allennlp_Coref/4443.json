@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 3], [2, 4], [6, 6], [11, 11]], "predicted_antecedents": [-1, -1, -1, 2, 1], "document": ["Leftists", "punish", "Trump", "'s", "family", "since", "he", "has", "n't", "pandered", "to", "them", "."], "clusters": [[[0, 0], [6, 6]], [[2, 4], [11, 11]]]}

@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "breaks", "description": "[ARG0: Kim K] [V: breaks] down [ARG1: her meeting this week with President Trump] .", "tags": ["B-ARG0", "I-ARG0", "B-V", "O", "B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "O"]}], "words": ["Kim", "K", "breaks", "down", "her", "meeting", "this", "week", "with", "President", "Trump", "."]}

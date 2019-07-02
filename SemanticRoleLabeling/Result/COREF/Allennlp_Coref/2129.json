@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [5, 6], [10, 10], [10, 17], [12, 15], [12, 17], [16, 16]], "predicted_antecedents": [-1, -1, 0, -1, -1, -1, -1], "document": ["CNN", "has", "cut", "ties", "with", "Kathy", "Griffin", "after", "video", "depicting", "her", "holding", "President", "Donald", "Trump", "'s", "severed", "head", "."], "clusters": [[[5, 6], [10, 10]]]}

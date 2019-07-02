@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [0, 4], [4, 4], [7, 9], [12, 12], [13, 13], [14, 14], [15, 16]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, 5, -1], "document": ["Scaramucci", "'s", "email", "to", "Goldstone", "came", "in", "late", "July", "2017", ",", "after", "Trump", "appointed", "him", "White", "House", "communications", "director", "."], "clusters": [[[0, 1], [4, 4], [14, 14]]]}

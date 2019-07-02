@@ -1,0 +1,205 @@
+04/21/2019 11:38:07 - INFO - allennlp.models.archival -   loading archive file https://s3-us-west-2.amazonaws.com/allennlp/models/coref-model-2018.02.05.tar.gz from cache at /Users/kasin/.allennlp/cache/b37780f4ed0365ac7b155e8b33e2c64c80658a2615a99eabe298a9980914bc92.1ad851a2740b5abf5c5806bc254ecfaa4f4865bcb09ce64d09bfab6db423a686
+04/21/2019 11:38:07 - INFO - allennlp.models.archival -   extracting archive file /Users/kasin/.allennlp/cache/b37780f4ed0365ac7b155e8b33e2c64c80658a2615a99eabe298a9980914bc92.1ad851a2740b5abf5c5806bc254ecfaa4f4865bcb09ce64d09bfab6db423a686 to temp dir /var/folders/6x/7nbw407s3sxcvc347zjv0d0m0000gn/T/tmp_dggx9c_
+04/21/2019 11:38:07 - WARNING - allennlp.common.params -   _jsonnet not loaded, treating /var/folders/6x/7nbw407s3sxcvc347zjv0d0m0000gn/T/tmp_dggx9c_/config.json as json
+04/21/2019 11:38:07 - INFO - allennlp.common.params -   type = default
+04/21/2019 11:38:07 - INFO - allennlp.data.vocabulary -   Loading token dictionary from /var/folders/6x/7nbw407s3sxcvc347zjv0d0m0000gn/T/tmp_dggx9c_/vocabulary.
+04/21/2019 11:38:07 - INFO - allennlp.common.from_params -   instantiating class <class 'allennlp.models.model.Model'> from params {'type': 'coref', 'text_field_embedder': {'tokens': {'type': 'embedding', 'embedding_dim': 300, 'trainable': False}, 'token_characters': {'type': 'character_encoding', 'embedding': {'num_embeddings': 262, 'embedding_dim': 16}, 'encoder': {'type': 'cnn', 'embedding_dim': 16, 'num_filters': 100, 'ngram_filter_sizes': [5]}}}, 'context_layer': {'type': 'lstm', 'bidirectional': True, 'input_size': 400, 'hidden_size': 200, 'num_layers': 1, 'dropout': 0.2}, 'mention_feedforward': {'input_dim': 1220, 'num_layers': 2, 'hidden_dims': 150, 'activations': 'relu', 'dropout': 0.2}, 'antecedent_feedforward': {'input_dim': 3680, 'num_layers': 2, 'hidden_dims': 150, 'activations': 'relu', 'dropout': 0.2}, 'initializer': [['.*linear_layers.*weight', {'type': 'xavier_normal'}], ['.*scorer._module.*weight', {'type': 'xavier_normal'}], ['.*_global_attention._module.weight', {'type': 'xavier_normal'}], ['_distance_embedding.weight', {'type': 'xavier_normal'}], ['_span_width_embedding.weight', {'type': 'xavier_normal'}], ['_context_layer._module.weight_ih.*', {'type': 'xavier_normal'}], ['_context_layer._module.weight_hh.*', {'type': 'orthogonal'}]], 'lexical_dropout': 0.5, 'feature_size': 20, 'max_span_width': 10, 'spans_per_word': 0.4, 'max_antecedents': 150} and extras {'vocab': Vocabulary with namespaces:  tokens, Size: 47313 || token_characters, Size: 116 || Non Padded Namespaces: {'*tags', '*labels'}}
+04/21/2019 11:38:07 - INFO - allennlp.common.params -   model.type = coref
+04/21/2019 11:38:07 - INFO - allennlp.common.from_params -   instantiating class <class 'allennlp.models.coreference_resolution.coref.CoreferenceResolver'> from params {'text_field_embedder': {'tokens': {'type': 'embedding', 'embedding_dim': 300, 'trainable': False}, 'token_characters': {'type': 'character_encoding', 'embedding': {'num_embeddings': 262, 'embedding_dim': 16}, 'encoder': {'type': 'cnn', 'embedding_dim': 16, 'num_filters': 100, 'ngram_filter_sizes': [5]}}}, 'context_layer': {'type': 'lstm', 'bidirectional': True, 'input_size': 400, 'hidden_size': 200, 'num_layers': 1, 'dropout': 0.2}, 'mention_feedforward': {'input_dim': 1220, 'num_layers': 2, 'hidden_dims': 150, 'activations': 'relu', 'dropout': 0.2}, 'antecedent_feedforward': {'input_dim': 3680, 'num_layers': 2, 'hidden_dims': 150, 'activations': 'relu', 'dropout': 0.2}, 'initializer': [['.*linear_layers.*weight', {'type': 'xavier_normal'}], ['.*scorer._module.*weight', {'type': 'xavier_normal'}], ['.*_global_attention._module.weight', {'type': 'xavier_normal'}], ['_distance_embedding.weight', {'type': 'xavier_normal'}], ['_span_width_embedding.weight', {'type': 'xavier_normal'}], ['_context_layer._module.weight_ih.*', {'type': 'xavier_normal'}], ['_context_layer._module.weight_hh.*', {'type': 'orthogonal'}]], 'lexical_dropout': 0.5, 'feature_size': 20, 'max_span_width': 10, 'spans_per_word': 0.4, 'max_antecedents': 150} and extras {'vocab': Vocabulary with namespaces:  tokens, Size: 47313 || token_characters, Size: 116 || Non Padded Namespaces: {'*tags', '*labels'}}
+04/21/2019 11:38:07 - INFO - allennlp.common.from_params -   instantiating class <class 'allennlp.modules.text_field_embedders.text_field_embedder.TextFieldEmbedder'> from params {'tokens': {'type': 'embedding', 'embedding_dim': 300, 'trainable': False}, 'token_characters': {'type': 'character_encoding', 'embedding': {'num_embeddings': 262, 'embedding_dim': 16}, 'encoder': {'type': 'cnn', 'embedding_dim': 16, 'num_filters': 100, 'ngram_filter_sizes': [5]}}} and extras {'vocab': Vocabulary with namespaces:  tokens, Size: 47313 || token_characters, Size: 116 || Non Padded Namespaces: {'*tags', '*labels'}}
+04/21/2019 11:38:07 - INFO - allennlp.common.params -   model.text_field_embedder.type = basic
+04/21/2019 11:38:07 - INFO - allennlp.common.params -   model.text_field_embedder.embedder_to_indexer_map = None
+04/21/2019 11:38:07 - INFO - allennlp.common.params -   model.text_field_embedder.allow_unmatched_keys = False
+04/21/2019 11:38:07 - INFO - allennlp.common.params -   model.text_field_embedder.token_embedders = None
+04/21/2019 11:38:07 - INFO - allennlp.common.from_params -   instantiating class <class 'allennlp.modules.token_embedders.token_embedder.TokenEmbedder'> from params {'type': 'embedding', 'embedding_dim': 300, 'trainable': False} and extras {'vocab': Vocabulary with namespaces:  tokens, Size: 47313 || token_characters, Size: 116 || Non Padded Namespaces: {'*tags', '*labels'}}
+04/21/2019 11:38:07 - INFO - allennlp.common.params -   model.text_field_embedder.tokens.type = embedding
+04/21/2019 11:38:07 - INFO - allennlp.common.params -   model.text_field_embedder.tokens.num_embeddings = None
+04/21/2019 11:38:07 - INFO - allennlp.common.params -   model.text_field_embedder.tokens.vocab_namespace = tokens
+04/21/2019 11:38:07 - INFO - allennlp.common.params -   model.text_field_embedder.tokens.embedding_dim = 300
+04/21/2019 11:38:07 - INFO - allennlp.common.params -   model.text_field_embedder.tokens.pretrained_file = None
+04/21/2019 11:38:07 - INFO - allennlp.common.params -   model.text_field_embedder.tokens.projection_dim = None
+04/21/2019 11:38:07 - INFO - allennlp.common.params -   model.text_field_embedder.tokens.trainable = False
+04/21/2019 11:38:07 - INFO - allennlp.common.params -   model.text_field_embedder.tokens.padding_index = None
+04/21/2019 11:38:07 - INFO - allennlp.common.params -   model.text_field_embedder.tokens.max_norm = None
+04/21/2019 11:38:07 - INFO - allennlp.common.params -   model.text_field_embedder.tokens.norm_type = 2.0
+04/21/2019 11:38:07 - INFO - allennlp.common.params -   model.text_field_embedder.tokens.scale_grad_by_freq = False
+04/21/2019 11:38:07 - INFO - allennlp.common.params -   model.text_field_embedder.tokens.sparse = False
+04/21/2019 11:38:08 - INFO - allennlp.common.from_params -   instantiating class <class 'allennlp.modules.token_embedders.token_embedder.TokenEmbedder'> from params {'type': 'character_encoding', 'embedding': {'num_embeddings': 262, 'embedding_dim': 16}, 'encoder': {'type': 'cnn', 'embedding_dim': 16, 'num_filters': 100, 'ngram_filter_sizes': [5]}} and extras {'vocab': Vocabulary with namespaces:  tokens, Size: 47313 || token_characters, Size: 116 || Non Padded Namespaces: {'*tags', '*labels'}}
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.text_field_embedder.token_characters.type = character_encoding
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.text_field_embedder.token_characters.embedding.num_embeddings = 262
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.text_field_embedder.token_characters.embedding.vocab_namespace = token_characters
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.text_field_embedder.token_characters.embedding.embedding_dim = 16
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.text_field_embedder.token_characters.embedding.pretrained_file = None
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.text_field_embedder.token_characters.embedding.projection_dim = None
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.text_field_embedder.token_characters.embedding.trainable = True
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.text_field_embedder.token_characters.embedding.padding_index = None
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.text_field_embedder.token_characters.embedding.max_norm = None
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.text_field_embedder.token_characters.embedding.norm_type = 2.0
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.text_field_embedder.token_characters.embedding.scale_grad_by_freq = False
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.text_field_embedder.token_characters.embedding.sparse = False
+04/21/2019 11:38:08 - INFO - allennlp.common.from_params -   instantiating class <class 'allennlp.modules.seq2vec_encoders.seq2vec_encoder.Seq2VecEncoder'> from params {'type': 'cnn', 'embedding_dim': 16, 'num_filters': 100, 'ngram_filter_sizes': [5]} and extras {}
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.text_field_embedder.token_characters.encoder.type = cnn
+04/21/2019 11:38:08 - INFO - allennlp.common.from_params -   instantiating class <class 'allennlp.modules.seq2vec_encoders.cnn_encoder.CnnEncoder'> from params {'embedding_dim': 16, 'num_filters': 100, 'ngram_filter_sizes': [5]} and extras {}
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.text_field_embedder.token_characters.encoder.embedding_dim = 16
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.text_field_embedder.token_characters.encoder.num_filters = 100
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.text_field_embedder.token_characters.encoder.ngram_filter_sizes = [5]
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.text_field_embedder.token_characters.encoder.output_dim = None
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.text_field_embedder.token_characters.dropout = 0.0
+04/21/2019 11:38:08 - INFO - allennlp.common.from_params -   instantiating class <class 'allennlp.modules.seq2seq_encoders.seq2seq_encoder.Seq2SeqEncoder'> from params {'type': 'lstm', 'bidirectional': True, 'input_size': 400, 'hidden_size': 200, 'num_layers': 1, 'dropout': 0.2} and extras {'vocab': Vocabulary with namespaces:  tokens, Size: 47313 || token_characters, Size: 116 || Non Padded Namespaces: {'*tags', '*labels'}}
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.context_layer.type = lstm
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.context_layer.batch_first = True
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.context_layer.stateful = False
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   Converting Params object to dict; logging of default values will not occur when dictionary parameters are used subsequently.
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   CURRENTLY DEFINED PARAMETERS: 
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.context_layer.bidirectional = True
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.context_layer.input_size = 400
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.context_layer.hidden_size = 200
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.context_layer.num_layers = 1
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.context_layer.dropout = 0.2
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.context_layer.batch_first = True
+/usr/local/lib/python3.7/site-packages/torch/nn/modules/rnn.py:46: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  "num_layers={}".format(dropout, num_layers))
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.mention_feedforward.input_dim = 1220
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.mention_feedforward.num_layers = 2
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.mention_feedforward.hidden_dims = 150
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.mention_feedforward.activations = relu
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.mention_feedforward.dropout = 0.2
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.antecedent_feedforward.input_dim = 3680
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.antecedent_feedforward.num_layers = 2
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.antecedent_feedforward.hidden_dims = 150
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.antecedent_feedforward.activations = relu
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.antecedent_feedforward.dropout = 0.2
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.feature_size = 20
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.max_span_width = 10
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.spans_per_word = 0.4
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.max_antecedents = 150
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.lexical_dropout = 0.5
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.initializer = [['.*linear_layers.*weight', {'type': 'xavier_normal'}], ['.*scorer._module.*weight', {'type': 'xavier_normal'}], ['.*_global_attention._module.weight', {'type': 'xavier_normal'}], ['_distance_embedding.weight', {'type': 'xavier_normal'}], ['_span_width_embedding.weight', {'type': 'xavier_normal'}], ['_context_layer._module.weight_ih.*', {'type': 'xavier_normal'}], ['_context_layer._module.weight_hh.*', {'type': 'orthogonal'}]]
+04/21/2019 11:38:08 - INFO - allennlp.common.from_params -   instantiating class <class 'allennlp.nn.initializers.Initializer'> from params {'type': 'xavier_normal'} and extras {}
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.initializer.list.list.type = xavier_normal
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   Converting Params object to dict; logging of default values will not occur when dictionary parameters are used subsequently.
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   CURRENTLY DEFINED PARAMETERS: 
+04/21/2019 11:38:08 - INFO - allennlp.common.from_params -   instantiating class <class 'allennlp.nn.initializers.Initializer'> from params {'type': 'xavier_normal'} and extras {}
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.initializer.list.list.type = xavier_normal
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   Converting Params object to dict; logging of default values will not occur when dictionary parameters are used subsequently.
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   CURRENTLY DEFINED PARAMETERS: 
+04/21/2019 11:38:08 - INFO - allennlp.common.from_params -   instantiating class <class 'allennlp.nn.initializers.Initializer'> from params {'type': 'xavier_normal'} and extras {}
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.initializer.list.list.type = xavier_normal
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   Converting Params object to dict; logging of default values will not occur when dictionary parameters are used subsequently.
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   CURRENTLY DEFINED PARAMETERS: 
+04/21/2019 11:38:08 - INFO - allennlp.common.from_params -   instantiating class <class 'allennlp.nn.initializers.Initializer'> from params {'type': 'xavier_normal'} and extras {}
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.initializer.list.list.type = xavier_normal
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   Converting Params object to dict; logging of default values will not occur when dictionary parameters are used subsequently.
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   CURRENTLY DEFINED PARAMETERS: 
+04/21/2019 11:38:08 - INFO - allennlp.common.from_params -   instantiating class <class 'allennlp.nn.initializers.Initializer'> from params {'type': 'xavier_normal'} and extras {}
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.initializer.list.list.type = xavier_normal
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   Converting Params object to dict; logging of default values will not occur when dictionary parameters are used subsequently.
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   CURRENTLY DEFINED PARAMETERS: 
+04/21/2019 11:38:08 - INFO - allennlp.common.from_params -   instantiating class <class 'allennlp.nn.initializers.Initializer'> from params {'type': 'xavier_normal'} and extras {}
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.initializer.list.list.type = xavier_normal
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   Converting Params object to dict; logging of default values will not occur when dictionary parameters are used subsequently.
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   CURRENTLY DEFINED PARAMETERS: 
+04/21/2019 11:38:08 - INFO - allennlp.common.from_params -   instantiating class <class 'allennlp.nn.initializers.Initializer'> from params {'type': 'orthogonal'} and extras {}
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   model.initializer.list.list.type = orthogonal
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   Converting Params object to dict; logging of default values will not occur when dictionary parameters are used subsequently.
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   CURRENTLY DEFINED PARAMETERS: 
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -   Initializing parameters
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -   Initializing _context_layer._module.weight_ih_l0 using _context_layer._module.weight_ih.* intitializer
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -   Initializing _context_layer._module.weight_hh_l0 using _context_layer._module.weight_hh.* intitializer
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -   Initializing _context_layer._module.weight_ih_l0_reverse using _context_layer._module.weight_ih.* intitializer
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -   Initializing _context_layer._module.weight_hh_l0_reverse using _context_layer._module.weight_hh.* intitializer
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -   Initializing _antecedent_feedforward._module._linear_layers.0.weight using .*linear_layers.*weight intitializer
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -   Initializing _antecedent_feedforward._module._linear_layers.1.weight using .*linear_layers.*weight intitializer
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -   Initializing _mention_pruner._scorer.0._module._linear_layers.0.weight using .*linear_layers.*weight intitializer
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -   Initializing _mention_pruner._scorer.0._module._linear_layers.1.weight using .*linear_layers.*weight intitializer
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -   Initializing _antecedent_scorer._module.weight using .*scorer._module.*weight intitializer
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -   Initializing _endpoint_span_extractor._span_width_embedding.weight using _span_width_embedding.weight intitializer
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -   Initializing _attentive_span_extractor._global_attention._module.weight using .*_global_attention._module.weight intitializer
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -   Initializing _distance_embedding.weight using _distance_embedding.weight intitializer
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -   Done initializing parameters; the following parameters are using their default initialization from their code
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -      _antecedent_feedforward._module._linear_layers.0.bias
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -      _antecedent_feedforward._module._linear_layers.1.bias
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -      _antecedent_scorer._module.bias
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -      _attentive_span_extractor._global_attention._module.bias
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -      _context_layer._module.bias_hh_l0
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -      _context_layer._module.bias_hh_l0_reverse
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -      _context_layer._module.bias_ih_l0
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -      _context_layer._module.bias_ih_l0_reverse
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -      _mention_pruner._scorer.0._module._linear_layers.0.bias
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -      _mention_pruner._scorer.0._module._linear_layers.1.bias
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -      _mention_pruner._scorer.1._module.bias
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -      _mention_pruner._scorer.1._module.weight
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -      _text_field_embedder.token_embedder_token_characters._embedding._module.weight
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -      _text_field_embedder.token_embedder_token_characters._encoder._module.conv_layer_0.bias
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -      _text_field_embedder.token_embedder_token_characters._encoder._module.conv_layer_0.weight
+04/21/2019 11:38:08 - INFO - allennlp.nn.initializers -      _text_field_embedder.token_embedder_tokens.weight
+04/21/2019 11:38:08 - INFO - allennlp.common.from_params -   instantiating class <class 'allennlp.data.dataset_readers.dataset_reader.DatasetReader'> from params {'type': 'coref', 'token_indexers': {'tokens': {'type': 'single_id', 'lowercase_tokens': False}, 'token_characters': {'type': 'characters'}}, 'max_span_width': 10} and extras {}
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   dataset_reader.type = coref
+04/21/2019 11:38:08 - INFO - allennlp.common.from_params -   instantiating class <class 'allennlp.data.dataset_readers.coreference_resolution.conll.ConllCorefReader'> from params {'token_indexers': {'tokens': {'type': 'single_id', 'lowercase_tokens': False}, 'token_characters': {'type': 'characters'}}, 'max_span_width': 10} and extras {}
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   dataset_reader.max_span_width = 10
+04/21/2019 11:38:08 - INFO - allennlp.common.from_params -   instantiating class <class 'allennlp.data.token_indexers.token_indexer.TokenIndexer'> from params {'type': 'single_id', 'lowercase_tokens': False} and extras {}
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   dataset_reader.token_indexers.tokens.type = single_id
+04/21/2019 11:38:08 - INFO - allennlp.common.from_params -   instantiating class <class 'allennlp.data.token_indexers.single_id_token_indexer.SingleIdTokenIndexer'> from params {'lowercase_tokens': False} and extras {}
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   dataset_reader.token_indexers.tokens.namespace = tokens
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   dataset_reader.token_indexers.tokens.lowercase_tokens = False
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   dataset_reader.token_indexers.tokens.start_tokens = None
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   dataset_reader.token_indexers.tokens.end_tokens = None
+04/21/2019 11:38:08 - INFO - allennlp.common.from_params -   instantiating class <class 'allennlp.data.token_indexers.token_indexer.TokenIndexer'> from params {'type': 'characters'} and extras {}
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   dataset_reader.token_indexers.token_characters.type = characters
+04/21/2019 11:38:08 - INFO - allennlp.common.from_params -   instantiating class <class 'allennlp.data.token_indexers.token_characters_indexer.TokenCharactersIndexer'> from params {} and extras {}
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   dataset_reader.token_indexers.token_characters.namespace = token_characters
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   dataset_reader.token_indexers.token_characters.start_tokens = None
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   dataset_reader.token_indexers.token_characters.end_tokens = None
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   dataset_reader.token_indexers.token_characters.min_padding_length = 0
+04/21/2019 11:38:08 - INFO - allennlp.common.params -   dataset_reader.lazy = False
+reading file from path: /Users/kasin/Kasin/GitHub/kasinxc/Semantic-Role-Labeling-For-News/Data/6_month/
+successfully read the data folder
+total news: 535539
+loading predictor...
+successfully loaded the predictor
+predicting file: ../../Result/COREF/Allennlp_Coref/32433.json
+Traceback (most recent call last):
+  File "coref_visualization.py", line 271, in <module>
+    main(configurations)
+  File "coref_visualization.py", line 265, in main
+    clusters = get_clusters(flags_read_from_correct_files)
+  File "coref_visualization.py", line 251, in get_clusters
+    allen_coref_on_data.applyAllenToDP(input_data_points)
+  File "/Users/kasin/Kasin/GitHub/kasinxc/Semantic-Role-Labeling-For-News/Source/COREF/allen_coref_on_input_data.py", line 38, in applyAllenToDP
+    coref = predictor.predict(document=input_data_points[index].reduced_title_desc)
+  File "/usr/local/lib/python3.7/site-packages/allennlp/predictors/coref.py", line 56, in predict
+    return self.predict_json({"document" : document})
+  File "/usr/local/lib/python3.7/site-packages/allennlp/predictors/predictor.py", line 55, in predict_json
+    return self.predict_instance(instance)
+  File "/usr/local/lib/python3.7/site-packages/allennlp/predictors/predictor.py", line 58, in predict_instance
+    outputs = self._model.forward_on_instance(instance)
+  File "/usr/local/lib/python3.7/site-packages/allennlp/models/model.py", line 124, in forward_on_instance
+    return self.forward_on_instances([instance])[0]
+  File "/usr/local/lib/python3.7/site-packages/allennlp/models/model.py", line 155, in forward_on_instances
+    outputs = self.decode(self(**model_input))
+  File "/usr/local/lib/python3.7/site-packages/torch/nn/modules/module.py", line 489, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/allennlp/models/coreference_resolution/coref.py", line 148, in forward
+    text_embeddings = self._lexical_dropout(self._text_field_embedder(text))
+  File "/usr/local/lib/python3.7/site-packages/torch/nn/modules/module.py", line 489, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/allennlp/modules/text_field_embedders/basic_text_field_embedder.py", line 107, in forward
+    token_vectors = embedder(*tensors)
+  File "/usr/local/lib/python3.7/site-packages/torch/nn/modules/module.py", line 489, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/allennlp/modules/token_embedders/token_characters_encoder.py", line 36, in forward
+    return self._dropout(self._encoder(self._embedding(token_characters), mask))
+  File "/usr/local/lib/python3.7/site-packages/torch/nn/modules/module.py", line 489, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/allennlp/modules/time_distributed.py", line 35, in forward
+    reshaped_outputs = self._module(*reshaped_inputs)
+  File "/usr/local/lib/python3.7/site-packages/torch/nn/modules/module.py", line 489, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/allennlp/modules/seq2vec_encoders/cnn_encoder.py", line 105, in forward
+    self._activation(convolution_layer(tokens)).max(dim=2)[0]
+  File "/usr/local/lib/python3.7/site-packages/torch/nn/modules/module.py", line 489, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/torch/nn/modules/conv.py", line 187, in forward
+    self.padding, self.dilation, self.groups)
+RuntimeError: std::exception
+04/21/2019 11:38:09 - INFO - allennlp.models.archival -   removing temporary unarchived model dir at /var/folders/6x/7nbw407s3sxcvc347zjv0d0m0000gn/T/tmp_dggx9c_

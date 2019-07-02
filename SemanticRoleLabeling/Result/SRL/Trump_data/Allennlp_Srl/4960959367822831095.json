@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "follows", "description": "[ARG1: Raid of Michael Cohen] [V: follows] [ARG2: decade of loyalty to Donald Trump] .", "tags": ["B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "B-V", "B-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "O"]}], "words": ["Raid", "of", "Michael", "Cohen", "follows", "decade", "of", "loyalty", "to", "Donald", "Trump", "."]}

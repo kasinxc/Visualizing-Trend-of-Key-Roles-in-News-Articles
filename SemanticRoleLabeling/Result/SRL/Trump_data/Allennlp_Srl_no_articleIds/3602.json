@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "is", "description": "[ARG1: Donald Trump] [V: is] [ARG2: at least twice as rich as George Washington] .", "tags": ["B-ARG1", "I-ARG1", "B-V", "B-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "O"]}], "words": ["Donald", "Trump", "is", "at", "least", "twice", "as", "rich", "as", "George", "Washington", "."]}

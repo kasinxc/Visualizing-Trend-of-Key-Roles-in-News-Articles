@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 3], [7, 8], [10, 10], [10, 11]], "predicted_antecedents": [-1, -1, -1, 0, -1], "document": ["Trump", "believes", "the", "FBI", "may", "have", "placed", "a", "spy", "inside", "his", "campaign", "."], "clusters": [[[7, 8], [10, 10]]]}

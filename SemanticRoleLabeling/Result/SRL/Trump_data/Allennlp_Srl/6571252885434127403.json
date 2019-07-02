@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "is", "description": "[ARG1: Safety Pin Box] [V: is] [ARG2: a subscription service for the Trump era] .", "tags": ["B-ARG1", "I-ARG1", "I-ARG1", "B-V", "B-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "O"]}], "words": ["Safety", "Pin", "Box", "is", "a", "subscription", "service", "for", "the", "Trump", "era", "."]}

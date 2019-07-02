@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [4, 7], [9, 9], [11, 12], [13, 13], [15, 15]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4], "document": ["President", "Donald", "Trump", "held", "a", "raucous", "Michigan", "campaign", "rally", "Saturday", "where", "Republican", "candidates", "flocked", "to", "his", "side"], "clusters": [[[0, 2], [15, 15]]]}

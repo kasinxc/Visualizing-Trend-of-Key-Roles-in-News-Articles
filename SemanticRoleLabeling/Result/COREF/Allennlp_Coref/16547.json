@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [3, 9], [8, 9], [11, 11], [12, 12], [13, 14]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1], "document": ["When", "Trump", "threatens", "the", "health", "and", "prosperity", "of", "Native", "Americans", ",", "he", "drags", "us", "all", "backward", "."], "clusters": [[[1, 1], [11, 11]]]}

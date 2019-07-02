@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 3], [6, 7], [13, 13], [13, 15]], "predicted_antecedents": [-1, -1, -1, -1, 3, -1], "document": ["He", "disavowed", "Trump", "\u2019s", "suggestions", "that", "a", "judge", "may", "be", "biased", "because", "of", "his", "Mexican", "Heritage", "."], "clusters": [[[0, 0], [13, 13]]]}

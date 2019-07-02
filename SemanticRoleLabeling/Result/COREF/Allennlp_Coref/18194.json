@@ -1,0 +1,1 @@
+{"top_spans": [[0, 5], [2, 4], [2, 5], [6, 6], [7, 7], [12, 13]], "predicted_antecedents": [-1, -1, -1, -1, 2, -1], "document": ["None", "of", "President", "Trump", "'s", "advisers", "knew", "he", "was", "going", "to", "make", "the", "statement", "."], "clusters": [[[2, 4], [7, 7]]]}

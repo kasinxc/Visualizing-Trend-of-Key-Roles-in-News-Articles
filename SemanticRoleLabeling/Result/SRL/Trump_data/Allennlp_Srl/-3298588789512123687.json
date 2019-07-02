@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "nominated", "description": "[ARG0: President Trump] [V: nominated] [ARG1: Bittick] [ARGM-TMP: in February] .", "tags": ["B-ARG0", "I-ARG0", "B-V", "B-ARG1", "B-ARGM-TMP", "I-ARGM-TMP", "O"]}], "words": ["President", "Trump", "nominated", "Bittick", "in", "February", "."]}

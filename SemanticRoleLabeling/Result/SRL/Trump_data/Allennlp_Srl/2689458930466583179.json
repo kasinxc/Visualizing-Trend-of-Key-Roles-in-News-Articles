@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "was", "description": "[ARG1: Their response to Trumps speech] [V: was] [ARG2: out of bounds] .", "tags": ["B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "B-V", "B-ARG2", "I-ARG2", "I-ARG2", "O"]}], "words": ["Their", "response", "to", "Trumps", "speech", "was", "out", "of", "bounds", "."]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 4], [5, 5], [7, 7], [7, 10], [8, 8], [13, 14], [13, 15], [18, 18]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1, -1], "document": ["Former", "Vermont", "Governor", "Howard", "Dean", "reflects", "on", "his", "2004", "presidential", "campaign", "and", "what", "Trump", "'s", "win", "means", "for", "America", "."], "clusters": [[[0, 4], [7, 7]]]}

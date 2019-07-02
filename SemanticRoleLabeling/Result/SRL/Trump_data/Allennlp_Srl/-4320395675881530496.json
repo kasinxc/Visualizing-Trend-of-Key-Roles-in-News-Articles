@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "defends", "description": "[ARG0: Rice] [V: defends] [ARG1: Trump 's CIA nominee] .", "tags": ["B-ARG0", "B-V", "B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "O"]}], "words": ["Rice", "defends", "Trump", "'s", "CIA", "nominee", "."]}

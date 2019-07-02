@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [3, 4], [7, 7], [10, 10], [12, 12], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, 2, -1], "document": ["Senate", "Republicans", "want", "President", "Trump", "to", "stop", "taking", "jabs", "at", "Congress", "over", "its", "inability", "to", "get", "things", "done", "."], "clusters": [[[3, 4], [12, 12]]]}

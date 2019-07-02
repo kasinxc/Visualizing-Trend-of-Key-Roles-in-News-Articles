@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "went", "description": "[ARG0: President Trump] [V: went] [ARG1: on a Monday tweetstorm lambasting] ...", "tags": ["B-ARG0", "I-ARG0", "B-V", "B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "O"]}], "words": ["President", "Trump", "went", "on", "a", "Monday", "tweetstorm", "lambasting", "..."]}

@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [7, 7], [8, 9], [8, 14], [12, 13], [12, 14], [19, 20], [21, 21]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 3, -1], "document": ["If", "you", "'re", "thinking", "no", "one", "would", "pay", "$", "28k", "to", "see", "Donald", "Trump", "naked", ",", "think", "again", "because", "Zak", "Bagans", "did"], "clusters": [[[8, 9], [19, 20]]]}

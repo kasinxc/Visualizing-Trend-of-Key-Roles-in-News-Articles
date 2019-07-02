@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 2], [2, 4], [3, 3], [6, 6], [8, 8], [12, 16]], "predicted_antecedents": [-1, -1, -1, -1, 2, -1, -1], "document": ["According", "to", "his", "exam", "results", ",", "Trump", "is", "said", "to", "be", "in", "\"", "excellent", "\"", "overall", "health", "."], "clusters": [[[2, 2], [6, 6]]]}

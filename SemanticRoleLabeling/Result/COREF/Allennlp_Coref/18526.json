@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [4, 5], [4, 9], [7, 7], [11, 12], [11, 16], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 2], "document": ["President", "Donald", "Trump", "sent", "a", "message", "on", "Twitter", "Saturday", "morning", "after", "Friday", "'s", "school", "shooting", "in", "Noblesville", "."], "clusters": [[[7, 7], [16, 16]]]}

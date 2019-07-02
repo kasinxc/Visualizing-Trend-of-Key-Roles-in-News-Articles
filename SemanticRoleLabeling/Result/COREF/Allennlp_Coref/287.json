@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [4, 4], [5, 5], [6, 7], [6, 10], [6, 14]], "predicted_antecedents": [-1, -1, -1, -1, 3, -1], "document": ["Rep.", "Adam", "Schiff", "has", "appropriately", "dubbed", "Trump", "'s", "'", "Spygate", "'", "claim", "'", "Liegate", "'"], "clusters": [[[0, 2], [6, 10]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [0, 5], [3, 3], [5, 5], [7, 7], [9, 9], [11, 11], [17, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 0, -1], "document": ["President", "Trump", "'s", "DACA", "immigration", "deal", "is", "better", "for", "Democrats", "than", "they", "seem", "to", "realize", ",", "says", "Jake", "Novak", "."], "clusters": [[[9, 9], [11, 11]]]}

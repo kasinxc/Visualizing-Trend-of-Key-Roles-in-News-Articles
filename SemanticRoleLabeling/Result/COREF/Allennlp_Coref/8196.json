@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [4, 4], [5, 5], [8, 8], [10, 14], [14, 14]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1], "document": ["Billionaire", "investor", "Mark", "Cuban", "says", "he", "has", "n't", "ruled", "out", "a", "presidential", "bid", "against", "Trump", "."], "clusters": [[[0, 3], [5, 5]]]}

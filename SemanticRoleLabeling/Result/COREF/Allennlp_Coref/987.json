@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 2], [5, 5], [5, 10], [8, 9], [8, 10], [15, 16]], "predicted_antecedents": [-1, 0, 0, -1, -1, -1, -1], "document": ["Paul", "says", "he", "'s", "reversed", "his", "stance", "on", "Trump", "'s", "nominee", "after", "several", "conversations", "with", "the", "president", "."], "clusters": [[[0, 0], [2, 2], [5, 5]]]}

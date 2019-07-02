@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "\u2019s", "description": "[ARGM-DIS: And] [ARG1: he] [V: \u2019s] [ARG2: on Trump \u2019s Supreme Court shortlist] .", "tags": ["B-ARGM-DIS", "B-ARG1", "B-V", "B-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "O"]}], "words": ["And", "he", "\u2019s", "on", "Trump", "\u2019s", "Supreme", "Court", "shortlist", "."]}

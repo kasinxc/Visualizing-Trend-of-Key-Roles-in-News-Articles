@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 4], [6, 6], [6, 10], [8, 8], [10, 10], [18, 18], [20, 20]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 1], "document": ["It", "was", "a", "good", "night", "for", "women", "running", "opposed", "to", "Trump", "and", "also", "for", "some", "Republicans", "who", "have", "stuck", "with", "Trump"], "clusters": [[[10, 10], [20, 20]]]}

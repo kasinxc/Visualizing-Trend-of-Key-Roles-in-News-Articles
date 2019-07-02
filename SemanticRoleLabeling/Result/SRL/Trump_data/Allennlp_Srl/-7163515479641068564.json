@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "is", "description": "[ARG1: The state visit] [V: is] [ARG2: the first for the Trump administration] .", "tags": ["B-ARG1", "I-ARG1", "I-ARG1", "B-V", "B-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "O"]}], "words": ["The", "state", "visit", "is", "the", "first", "for", "the", "Trump", "administration", "."]}

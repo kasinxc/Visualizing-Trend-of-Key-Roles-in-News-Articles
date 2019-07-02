@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 5], [7, 9], [11, 11], [12, 12], [15, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, 2, -1], "document": ["Trump", "followed", "the", "6", "other", "leaders", "in", "a", "golf", "cart", "after", "making", "them", "wait", "during", "a", "photo", "op", "."], "clusters": [[[2, 5], [12, 12]]]}

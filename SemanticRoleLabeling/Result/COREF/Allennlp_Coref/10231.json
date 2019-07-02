@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [0, 2], [4, 4], [5, 5], [8, 8], [14, 15]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1], "document": ["Donald", "Trump", "resistors", "grudgingly", "say", "they", "'re", "hoping", "he", "pulls", "off", "nuclear", "disarmament", "with", "North", "Korea", "."], "clusters": [[[0, 2], [5, 5]]]}

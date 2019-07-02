@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [2, 3], [3, 3], [6, 6], [7, 8], [13, 14], [16, 16]], "predicted_antecedents": [-1, -1, 1, -1, -1, 2, -1], "document": ["Talk", "of", "pardoning", "himself", "is", "more", "evidence", "Donald", "Trump", "is", "terrified", "of", "what", "Robert", "Mueller", "will", "find", "."], "clusters": [[[0, 3], [3, 3], [13, 14]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 2], [4, 4], [6, 6], [7, 7], [12, 19], [15, 19], [18, 18]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1, -1, -1], "document": ["Companies", "are", "scrambling", "to", "explain", "how", "they", "came", "to", "deposit", "money", "in", "the", "account", "of", "President", "Donald", "Trump", "\u2019s", "lawyer", "."], "clusters": [[[0, 0], [6, 6]]]}

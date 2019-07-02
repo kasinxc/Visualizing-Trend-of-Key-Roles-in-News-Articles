@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [4, 4], [5, 7], [9, 9], [11, 11], [11, 18], [15, 16], [18, 18]], "predicted_antecedents": [-1, -1, -1, 0, 0, -1, -1, -1], "document": ["A", "newfound", "optimism", "will", "greet", "President", "Donald", "Trump", "when", "he", "makes", "his", "first", "visit", "to", "northern", "Minnesota", "on", "Wednesday", "."], "clusters": [[[5, 7], [9, 9], [11, 11]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [7, 13], [9, 9], [11, 11], [13, 13], [16, 16], [17, 17], [17, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 4, -1], "document": ["The", "outcome", "is", "a", "cautionary", "tale", "for", "Republicans", "who", "try", "to", "work", "with", "Trump", "while", "also", "maintaining", "their", "independence", "."], "clusters": [[[7, 13], [17, 17]]]}

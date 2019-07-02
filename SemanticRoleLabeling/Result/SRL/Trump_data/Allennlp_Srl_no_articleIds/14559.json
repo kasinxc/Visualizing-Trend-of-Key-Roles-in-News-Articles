@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "annotates", "description": "[ARG0: The LAT] [V: annotates] [ARG1: Donald Trump 's immigration speech]", "tags": ["B-ARG0", "I-ARG0", "B-V", "B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1"]}], "words": ["The", "LAT", "annotates", "Donald", "Trump", "'s", "immigration", "speech"]}

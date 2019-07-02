@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [9, 10], [11, 11], [12, 13], [15, 15], [15, 16], [15, 19], [18, 19]], "predicted_antecedents": [-1, -1, -1, -1, 0, -1, -1, -1], "document": ["'", "I", "'m", "just", "overwhelmed", "with", "gratitude", ",", "'", "Josh", "Holt", "told", "President", "Trump", "upon", "his", "return", "to", "the", "US", "."], "clusters": [[[12, 13], [15, 15]]]}

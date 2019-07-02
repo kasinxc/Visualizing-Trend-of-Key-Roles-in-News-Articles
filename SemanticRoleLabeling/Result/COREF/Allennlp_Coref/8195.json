@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [1, 1], [3, 3], [10, 10], [11, 13], [14, 14], [16, 16], [17, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 6], "document": ["The", "cannabis", "industry", "could", "be", "a", "federal", "tax", "windfall", "\u2014", "provided", "the", "Trump", "Administration", "does", "n't", "stamp", "it", "out", "."], "clusters": [[[0, 2], [17, 17]]]}

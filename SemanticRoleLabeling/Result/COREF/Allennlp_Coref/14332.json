@@ -1,0 +1,1 @@
+{"top_spans": [[0, 6], [2, 3], [2, 6], [5, 6], [9, 9], [9, 16], [13, 16]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1, -1], "document": ["Former", "refugees", "Ramin", "Haghjoo", "and", "Nima", "Nia", "reflect", "on", "love", "and", "fear", "in", "the", "Age", "of", "Trump", "."], "clusters": [[[2, 3], [5, 6]]]}

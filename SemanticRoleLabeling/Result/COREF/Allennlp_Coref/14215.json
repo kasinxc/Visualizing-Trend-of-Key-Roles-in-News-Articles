@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [0, 2], [6, 6], [10, 10], [10, 12]], "predicted_antecedents": [-1, -1, 1, 0, -1], "document": ["Trump", "'s", "aides", "like", "to", "keep", "him", "busy", "and", "limit", "his", "screen", "time", "."], "clusters": [[[0, 1], [6, 6], [10, 10]]]}

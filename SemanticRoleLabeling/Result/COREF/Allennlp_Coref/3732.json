@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 2], [3, 3], [4, 4], [9, 9], [12, 13]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1], "document": ["Trump", "legal", "team", "says", "it", "wants", "limited", "interview", "and", "casts", "doubts", "on", "Mueller", "'s", "motives"], "clusters": [[[0, 2], [4, 4]]]}

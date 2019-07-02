@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [3, 3], [6, 6], [9, 10], [11, 11], [12, 12], [12, 16]], "predicted_antecedents": [-1, -1, 1, -1, -1, 2, -1], "document": ["Alec", "Baldwin", "also", "doubles", "down", "on", "his", "claim", "that", "Melania", "Trump", "loves", "his", "\"", "SNL", "\"", "impression", "."], "clusters": [[[0, 1], [6, 6], [12, 12]]]}

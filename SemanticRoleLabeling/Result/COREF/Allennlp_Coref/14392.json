@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [3, 4], [6, 6], [9, 10]], "predicted_antecedents": [-1, -1, -1, 2, -1], "document": ["Thomas", "Markle", "says", "Prince", "Harry", "told", "him", "to", "give", "Donald", "Trump", "a", "chance", "."], "clusters": [[[0, 1], [6, 6]]]}

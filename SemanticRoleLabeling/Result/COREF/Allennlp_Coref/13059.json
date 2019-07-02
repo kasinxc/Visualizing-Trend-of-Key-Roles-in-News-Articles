@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 3], [5, 7], [9, 9], [10, 10], [10, 14]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1], "document": ["Warriors", "coach", "Steve", "Kerr", "chides", "President", "Donald", "Trump", ",", "offering", "his", "own", "definition", "of", "patriotism", "."], "clusters": [[[5, 7], [10, 10]]]}

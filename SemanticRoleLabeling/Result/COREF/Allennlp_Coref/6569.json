@@ -1,0 +1,1 @@
+{"top_spans": [[2, 4], [2, 7], [3, 3], [6, 6], [6, 7], [10, 10], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 1], "document": ["There", "'s", "a", "formal", "process", "for", "presidential", "pardons", ",", "but", "Trump", "has", "no", "obligation", "to", "use", "it", "."], "clusters": [[[6, 7], [16, 16]]]}

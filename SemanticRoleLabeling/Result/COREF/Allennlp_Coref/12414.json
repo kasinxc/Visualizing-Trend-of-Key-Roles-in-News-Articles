@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [4, 4], [8, 8], [8, 9], [13, 15], [13, 20], [17, 20]], "predicted_antecedents": [-1, -1, -1, 0, -1, -1, -1, -1], "document": ["Trump", "tried", "to", "bully", "Sessions", "into", "taking", "back", "his", "recusal", ",", "according", "to", "a", "new", "story", "from", "the", "New", "York", "Times", "."], "clusters": [[[4, 4], [8, 8]]]}

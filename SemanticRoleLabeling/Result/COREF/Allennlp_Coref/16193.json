@@ -1,0 +1,1 @@
+{"top_spans": [[0, 4], [4, 4], [5, 5], [6, 6], [10, 17], [15, 15], [16, 17]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1, -1], "document": ["President", "Donald", "Trump", "on", "Monday", "defended", "his", "efforts", "to", "help", "a", "Chinese", "telecommunications", "company", "that", "violated", "U.S.", "sanctions", "."], "clusters": [[[0, 4], [6, 6]]]}

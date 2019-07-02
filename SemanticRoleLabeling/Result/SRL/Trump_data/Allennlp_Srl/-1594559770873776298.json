@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "targeted", "description": "[ARG0: Trump] [V: targeted] [ARG1: parent company CEO Robert Iger] [ARGM-LOC: on Twitter]", "tags": ["B-ARG0", "B-V", "B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "B-ARGM-LOC", "I-ARGM-LOC"]}], "words": ["Trump", "targeted", "parent", "company", "CEO", "Robert", "Iger", "on", "Twitter"]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 5], [7, 8], [9, 9], [10, 10], [10, 11], [14, 17]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, -1], "document": ["The", "announcement", "comes", "about", "a", "month", "after", "Donald", "Trump", "said", "his", "administration", "would", "\"", "ban", "\"", "bump", "stocks", "."], "clusters": [[[7, 8], [10, 10]]]}

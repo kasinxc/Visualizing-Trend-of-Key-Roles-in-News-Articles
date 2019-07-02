@@ -1,0 +1,1 @@
+{"top_spans": [[2, 2], [3, 9], [6, 6], [7, 9], [11, 13], [17, 17], [18, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 0], "document": ["What", "to", "tell", "those", "people", "who", "say", "the", "Mueller", "Investigation", "is", "a", "witch", "hunt", ".", "Talking", "to", "you", "@realDonaldTrump"], "clusters": [[[17, 17], [18, 18]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [3, 3], [6, 15], [9, 9], [10, 10], [11, 11], [13, 15]], "predicted_antecedents": [-1, -1, -1, -1, -1, 1, -1], "document": ["NBC", "News", "has", "exclusive", "details", "about", "the", "session", "where", "Trump", "claims", "he", "read", "\"", "body", "language", ".", "\""], "clusters": [[[9, 9], [11, 11]]]}

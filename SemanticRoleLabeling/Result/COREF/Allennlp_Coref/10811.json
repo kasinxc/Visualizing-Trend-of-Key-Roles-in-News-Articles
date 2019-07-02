@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [4, 7], [4, 8], [10, 10], [11, 11], [14, 14]], "predicted_antecedents": [-1, -1, -1, -1, -1, 2, -1], "document": ["Donald", "Trump", "responded", "to", "Robert", "De", "Niro", "'s", "criticism", "by", "calling", "him", "'", "low", "IQ", "individual", ".", "'"], "clusters": [[[4, 7], [11, 11]]]}

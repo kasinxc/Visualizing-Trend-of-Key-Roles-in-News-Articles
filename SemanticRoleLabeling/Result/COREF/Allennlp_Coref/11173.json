@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [4, 4], [5, 5], [5, 8], [5, 11], [10, 11], [15, 17]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1], "document": ["President", "Donald", "Trump", "is", "posting", "his", "highest", "approval", "ratings", "in", "11", "months", ",", "according", "to", "a", "recent", "poll", "."], "clusters": [[[0, 2], [5, 5]]]}

@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "is", "description": "[ARG1: The former Trump campaigner] [V: is] [ARG2: back in action] ...", "tags": ["B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "B-V", "B-ARG2", "I-ARG2", "I-ARG2", "O"]}], "words": ["The", "former", "Trump", "campaigner", "is", "back", "in", "action", "..."]}

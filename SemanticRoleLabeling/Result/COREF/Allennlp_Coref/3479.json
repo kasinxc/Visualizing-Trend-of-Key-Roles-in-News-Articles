@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [0, 5], [3, 3], [5, 5], [6, 6], [8, 11], [8, 13]], "predicted_antecedents": [-1, -1, -1, -1, 3, -1, -1], "document": ["Donald", "Trump", "Jr.", "posted", "on", "Instagram", "he", "had", "a", "\"", "crazy", "drop", "-", "off", "in", "new", "followers", "\""], "clusters": [[[0, 2], [6, 6]]]}

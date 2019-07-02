@@ -1,0 +1,1 @@
+{"top_spans": [[1, 2], [3, 3], [4, 4], [4, 5], [4, 13], [7, 13], [12, 13]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1], "document": ["\"", "John", "Brennan", "knows", "his", "role", "in", "the", "political", "spying", "operation", "on", "Donald", "Trump", "is", "being", "exposed", ".", "\""], "clusters": [[[1, 2], [4, 4]]]}

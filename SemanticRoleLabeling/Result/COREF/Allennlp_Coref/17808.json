@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [6, 6], [6, 7], [9, 9], [11, 19], [14, 15], [14, 19], [19, 19]], "predicted_antecedents": [-1, 0, -1, -1, -1, -1, -1, -1], "document": ["Jean", "-", "Claude", "Juncker", "spoke", "about", "his", "encounter", "with", "Trump", "in", "a", "speech", "to", "Bavaria", "'s", "regional", "assembly", "in", "Munich", "."], "clusters": [[[0, 3], [6, 6]]]}

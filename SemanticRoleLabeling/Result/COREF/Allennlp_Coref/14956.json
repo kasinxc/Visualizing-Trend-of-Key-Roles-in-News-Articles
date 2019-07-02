@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [4, 5], [6, 6], [7, 7], [9, 10], [15, 15], [15, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 5, -1], "document": ["President", "Trump", "went", "after", "Robert", "Mueller", "again", "tonight", ",", "this", "time", "by", "quoting", "one", "of", "his", "own", "former", "lawyers", "."], "clusters": [[[0, 1], [15, 15]]]}

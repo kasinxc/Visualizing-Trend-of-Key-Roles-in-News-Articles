@@ -1,0 +1,1 @@
+{"top_spans": [[0, 9], [2, 2], [5, 6], [5, 9], [8, 9], [10, 10], [15, 15], [17, 21], [20, 21]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 4, -1, -1], "document": ["The", "way", "we", "react", "to", "Melania", "Trump", "and", "Barbara", "Bush", "says", "a", "lot", "about", "how", "we", "view", "the", "role", "of", "first", "lady", "."], "clusters": [[[2, 2], [15, 15]]]}

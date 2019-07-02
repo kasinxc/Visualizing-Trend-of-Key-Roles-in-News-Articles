@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "are", "description": "[ARG1: They] [V: are] [ARGM-NEG: not] [ARG2: here] [ARGM-PRP: for his Donald Trump endorsement] .", "tags": ["B-ARG1", "B-V", "B-ARGM-NEG", "B-ARG2", "B-ARGM-PRP", "I-ARGM-PRP", "I-ARGM-PRP", "I-ARGM-PRP", "I-ARGM-PRP", "O"]}], "words": ["They", "are", "not", "here", "for", "his", "Donald", "Trump", "endorsement", "."]}

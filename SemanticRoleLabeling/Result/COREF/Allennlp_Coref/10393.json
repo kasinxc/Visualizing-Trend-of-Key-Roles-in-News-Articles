@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [3, 5], [3, 9], [3, 10], [14, 14], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, 1, -1], "document": ["A", "judge", "revoked", "former", "Trump", "campaign", "manager", "Paul", "Manafort", "'s", "bail", "and", "has", "sent", "him", "to", "jail", "."], "clusters": [[[3, 9], [14, 14]]]}

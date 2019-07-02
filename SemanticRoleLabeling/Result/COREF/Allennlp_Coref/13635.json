@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [4, 5], [8, 10], [12, 12], [12, 18], [14, 14], [17, 18]], "predicted_antecedents": [-1, -1, -1, -1, 0, -1, -1, -1], "document": ["Angela", "Dimayuga", "talks", "to", "Sierra", "Tishgart", "about", "leaving", "Mission", "Chinese", "Food", "and", "her", "viral", "Instagram", "response", "to", "Ivanka", "Trump", "."], "clusters": [[[8, 10], [12, 12]]]}

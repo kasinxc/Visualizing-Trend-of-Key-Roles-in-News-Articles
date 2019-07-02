@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [3, 5], [6, 6], [7, 8], [13, 15], [13, 16], [13, 18], [19, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 6], "document": ["NFL", "owners", ",", "players", "and", "execs", "met", "last", "October", "and", "had", "words", "about", "President", "Trump", "'s", "'", "divisive", "'", "NFL", "agenda"], "clusters": [[[0, 0], [19, 19]]]}

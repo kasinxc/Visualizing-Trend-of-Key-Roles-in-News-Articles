@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [3, 3], [7, 7], [7, 10], [7, 12], [12, 12], [14, 14], [16, 18]], "predicted_antecedents": [-1, -1, 0, -1, -1, -1, -1, -1], "document": ["Trump", "aside", ",", "OPEC", "should", "look", "at", "its", "own", "unhappy", "history", "before", "getting", "carried", "away", "with", "the", "oil", "price", "."], "clusters": [[[3, 3], [7, 7]]]}

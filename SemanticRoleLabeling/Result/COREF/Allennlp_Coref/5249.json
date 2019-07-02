@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [3, 3], [5, 6], [9, 9], [12, 12], [14, 14]], "predicted_antecedents": [-1, -1, -1, 1, -1, 1], "document": ["Giuliani", "also", "said", "Trump", "has", "the", "power", "to", "pardon", "himself", "but", "wo", "n\u2019t", "because", "he", "is", "innocent"], "clusters": [[[3, 3], [9, 9], [14, 14]]]}

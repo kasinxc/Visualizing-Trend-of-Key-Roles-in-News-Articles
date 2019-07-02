@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [3, 4], [5, 5], [9, 9], [9, 18], [14, 18], [17, 18]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, -1, -1], "document": ["North", "Korea", "claims", "President", "Trump", "played", "no", "part", "in", "its", "recent", "decision", "to", "open", "peace", "talks", "with", "longtime", "enemies", "."], "clusters": [[[3, 4], [9, 9]]]}

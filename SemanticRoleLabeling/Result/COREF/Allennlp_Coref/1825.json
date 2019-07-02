@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [6, 8], [6, 11], [7, 7], [10, 11]], "predicted_antecedents": [-1, -1, -1, -1, 3], "document": ["Chess", "Bedsole", "was", "a", "lawyer", "to", "the", "Trump", "campaign", "and", "Jeff", "Sessions", "."], "clusters": [[[0, 1], [10, 11]]]}

@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "is", "description": "[ARG2: Who] [V: is] [ARG1: Michael Cohen , personal attorney to Donald Trump] ?", "tags": ["B-ARG2", "B-V", "B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "O"]}], "words": ["Who", "is", "Michael", "Cohen", ",", "personal", "attorney", "to", "Donald", "Trump", "?"]}

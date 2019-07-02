@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [5, 5], [10, 18], [11, 11], [13, 14], [13, 18], [16, 16], [16, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 5, -1], "document": ["President", "Trump", "is", "ready", "to", "assist", "in", "the", "review", "of", "material", "seized", "by", "the", "FBI", "from", "his", "personal", "attorney", "."], "clusters": [[[0, 1], [16, 16]]]}

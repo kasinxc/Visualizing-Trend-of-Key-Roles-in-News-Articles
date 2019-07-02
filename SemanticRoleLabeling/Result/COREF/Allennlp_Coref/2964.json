@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 2], [10, 10], [12, 12], [14, 14]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1], "document": ["Nielsen", "says", "she", "is", "unaware", "of", "intelligence", "assessments", "concluding", "that", "Russia", "favored", "Trump", "over", "Clinton"], "clusters": [[[0, 0], [2, 2]]]}

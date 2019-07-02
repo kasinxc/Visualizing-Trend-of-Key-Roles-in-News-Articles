@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [1, 2], [3, 3], [4, 5], [7, 9], [11, 12], [15, 15]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 4], "document": ["Does", "President", "Trump", "know", "the", "words", "to", "God", "Bless", "America", "?", "Twitter", "users", "appear", "convinced", "he", "does", "n't", "."], "clusters": [[[1, 2], [15, 15]]]}

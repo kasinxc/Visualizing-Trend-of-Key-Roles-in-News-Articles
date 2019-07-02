@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "is", "description": "[ARG1: Donald Trump] [V: is] [ARG2: a sexist pig] . [ARGM-ADV: Again] .", "tags": ["B-ARG1", "I-ARG1", "B-V", "B-ARG2", "I-ARG2", "I-ARG2", "O", "B-ARGM-ADV", "O"]}], "words": ["Donald", "Trump", "is", "a", "sexist", "pig", ".", "Again", "."]}

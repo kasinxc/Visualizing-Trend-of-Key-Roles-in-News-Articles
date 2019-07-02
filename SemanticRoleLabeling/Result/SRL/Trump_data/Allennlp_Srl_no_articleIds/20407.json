@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "made", "description": "[ARG0: First lady Melania Trump] [V: made] [ARG1: her first] ...", "tags": ["B-ARG0", "I-ARG0", "I-ARG0", "I-ARG0", "B-V", "B-ARG1", "I-ARG1", "O"]}], "words": ["First", "lady", "Melania", "Trump", "made", "her", "first", "..."]}

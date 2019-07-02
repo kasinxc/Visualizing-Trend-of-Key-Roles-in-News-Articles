@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "says", "description": "[ARG0: Trump] [V: says] [ARG1: Flynn deserves better] .", "tags": ["B-ARG0", "B-V", "B-ARG1", "I-ARG1", "I-ARG1", "O"]}, {"verb": "deserves", "description": "Trump says [ARG0: Flynn] [V: deserves] [ARG1: better] .", "tags": ["O", "O", "B-ARG0", "B-V", "B-ARG1", "O"]}], "words": ["Trump", "says", "Flynn", "deserves", "better", "."]}

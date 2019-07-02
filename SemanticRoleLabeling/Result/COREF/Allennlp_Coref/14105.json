@@ -1,0 +1,1 @@
+{"top_spans": [[2, 3], [4, 4], [5, 5], [7, 8], [9, 9], [13, 13]], "predicted_antecedents": [-1, -1, -1, -1, -1, 2], "document": ["Asked", "about", "Trump", "\u2019s", "repeated", "untruths", ",", "Kellyanne", "Conway", "replied", ",", "What", "about", "Benghazi", "?"], "clusters": [[[5, 5], [13, 13]]]}

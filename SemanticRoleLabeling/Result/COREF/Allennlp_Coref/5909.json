@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [0, 5], [3, 3], [8, 9], [12, 12], [12, 14]], "predicted_antecedents": [-1, -1, -1, -1, 0, -1], "document": ["Trump", "\u2019s", "slapdash", "attempt", "at", "negotiations", "has", "left", "the", "U.S.", "isolated", "from", "its", "Asian", "allies", "."], "clusters": [[[8, 9], [12, 12]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 4], [8, 8], [9, 9], [11, 11], [13, 18], [15, 18], [17, 18]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1, -1], "document": ["Donald", "Trump", "has", "been", "lying", "about", "how", "much", "he", "paid", "for", "Melania", "\u2019s", "more", "than", "10-carat", "diamond", "engagement", "ring", "."], "clusters": [[[0, 1], [8, 8]]]}

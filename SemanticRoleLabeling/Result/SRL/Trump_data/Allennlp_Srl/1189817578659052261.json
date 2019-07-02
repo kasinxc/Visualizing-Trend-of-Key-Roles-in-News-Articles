@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "is", "description": "[ARG1: Trump] [V: is] [ARG2: the new George Washington] .", "tags": ["B-ARG1", "B-V", "B-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "O"]}], "words": ["Trump", "is", "the", "new", "George", "Washington", "."]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [5, 5], [6, 6], [6, 11], [10, 11], [14, 16], [14, 19], [18, 19]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1, -1], "document": ["The", "Secret", "Service", "will", "be", "leaving", "their", "command", "post", "in", "Trump", "Tower", "due", "to", "a", "rent", "disagreement", "with", "the", "building", "."], "clusters": [[[0, 2], [6, 6]]]}

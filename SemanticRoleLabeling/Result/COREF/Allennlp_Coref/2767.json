@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 4], [6, 6], [6, 7], [9, 9], [16, 16]], "predicted_antecedents": [-1, -1, 0, -1, -1, -1], "document": ["While", "praising", "President", "Donald", "Trump", "for", "his", "effort", "to", "rein", "in", "the", "nuclear", "weapons", "program", "of", "North"], "clusters": [[[2, 4], [6, 6]]]}

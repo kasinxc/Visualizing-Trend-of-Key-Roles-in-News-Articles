@@ -1,0 +1,1 @@
+{"top_spans": [[0, 9], [5, 5], [5, 9], [7, 9], [10, 10], [15, 15], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4, -1], "document": ["The", "nuclear", "disarmament", "meeting", "between", "Trump", "and", "Kim", "Jong", "Un", "crumbled", "nearly", "as", "quickly", "as", "it", "came", "together", "."], "clusters": [[[0, 9], [15, 15]]]}

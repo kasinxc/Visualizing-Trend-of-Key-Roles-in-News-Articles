@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [0, 2], [7, 7], [7, 10], [10, 10], [14, 16], [15, 15]], "predicted_antecedents": [-1, -1, 0, -1, -1, -1, -1], "document": ["Rachel", "Crooks", "\u00a0", "initially", "went", "public", "with", "her", "claims", "against", "Trump", "\u00a0", "ahead", "of", "the", "2016", "election", "."], "clusters": [[[0, 2], [7, 7]]]}

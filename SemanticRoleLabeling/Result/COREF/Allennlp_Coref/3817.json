@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [4, 4], [11, 11], [11, 12], [11, 17], [17, 17]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1, 2], "document": ["Nobody", "wins", "because", "of", "Trump", ",", "not", "even", "other", "members", "of", "his", "party", "or", "people", "who", "supported", "him", "."], "clusters": [[[0, 0], [11, 11], [17, 17]]]}

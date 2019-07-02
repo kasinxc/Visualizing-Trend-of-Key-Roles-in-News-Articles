@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "criticized", "description": "[ARG0: President Trump] [V: criticized] [ARG1: Barack Obama] [ARGM-TMP: this week] ...", "tags": ["B-ARG0", "I-ARG0", "B-V", "B-ARG1", "I-ARG1", "B-ARGM-TMP", "I-ARGM-TMP", "O"]}], "words": ["President", "Trump", "criticized", "Barack", "Obama", "this", "week", "..."]}

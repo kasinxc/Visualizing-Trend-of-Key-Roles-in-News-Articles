@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 3], [4, 4], [5, 6], [9, 9], [15, 16], [15, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4, -1], "document": ["Trump", "advisor", "Larry", "Kudlow", "says", "other", "countries", "should", "be", "blamed", "for", "practices", "that", "led", "to", "Trump", "'s", "tariffs", "."], "clusters": [[[0, 0], [15, 16]]]}

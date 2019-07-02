@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [4, 4], [4, 5], [12, 12], [12, 15], [12, 17]], "predicted_antecedents": [-1, -1, 1, -1, 1, -1, -1], "document": ["Perry", "opened", "up", "about", "her", "childhood", ",", "sobriety", "and", "Donald", "Trump", "in", "her", "'", "Vogue", "'", "cover", "story", "."], "clusters": [[[0, 0], [4, 4], [12, 12]]]}

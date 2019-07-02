@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [8, 10], [12, 12], [13, 13], [15, 16], [15, 18], [18, 18]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1, -1, -1], "document": ["ESPN", "does", "n't", "seem", "to", "be", "happy", "with", "anchor", "Jemele", "Hill", "after", "she", "went", "after", "Donald", "Trump", "on", "Twitter", "."], "clusters": [[[0, 0], [12, 12]]]}

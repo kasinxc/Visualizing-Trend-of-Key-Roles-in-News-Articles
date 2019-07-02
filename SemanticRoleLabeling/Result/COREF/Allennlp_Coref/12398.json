@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [6, 8], [12, 12], [14, 14], [14, 21], [16, 16], [18, 21], [18, 22], [21, 21]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1, -1, -1], "document": ["Khalid", "Al", "-", "Falih", "has", "had", "a", "good", "run", ",", "but", "can", "he", "keep", "Trump", ",", "Putin", "and", "the", "rest", "of", "OPEC", "happy", "?"], "clusters": [[[0, 3], [12, 12]]]}

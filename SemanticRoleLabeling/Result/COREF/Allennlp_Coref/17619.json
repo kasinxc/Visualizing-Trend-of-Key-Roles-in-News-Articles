@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [5, 5], [7, 7], [9, 9], [12, 12], [14, 14], [17, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 4], "document": ["President", "Trump", "tweeted", ",", "\"", "leakers", "are", "traitors", "and", "cowards", ",", "and", "we", "will", "find", "out", "who", "they", "are", "!", "\""], "clusters": [[[5, 5], [17, 17]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [1, 1], [4, 13], [8, 8], [8, 13], [10, 12]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1], "document": ["The", "Trump", "administration", "held", "the", "only", "hearing", "on", "its", "proposed", "Clean", "Power", "Plan", "repeal", "."], "clusters": [[[0, 2], [8, 8]]]}

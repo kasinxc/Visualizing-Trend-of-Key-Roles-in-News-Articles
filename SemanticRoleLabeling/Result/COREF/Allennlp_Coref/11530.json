@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [5, 5], [6, 12], [9, 11], [9, 12], [14, 14], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 1], "document": ["Donald", "Trump", "probably", "should", "'ve", "read", "the", "list", "of", "Robert", "Mueller", "'s", "questions", "before", "complaining", "about", "them", "."], "clusters": [[[9, 12], [16, 16]]]}

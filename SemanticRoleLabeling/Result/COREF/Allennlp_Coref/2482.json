@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [3, 4], [6, 6]], "predicted_antecedents": [-1, -1, -1, 2], "document": ["Mike", "Tyson", "says", "Donald", "Trump", "promised", "him", "a", "'", "pardon", "'"], "clusters": [[[0, 1], [6, 6]]]}

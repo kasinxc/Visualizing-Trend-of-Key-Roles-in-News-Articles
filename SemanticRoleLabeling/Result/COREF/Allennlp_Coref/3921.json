@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 2], [4, 4], [5, 9], [17, 17], [18, 18], [18, 20]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 5, -1], "document": ["Bush", "accused", "Trump", "of", "using", "the", "plight", "of", "migrant", "children", "as", "\"", "a", "negotiating", "tool", "\"", "to", "advance", "his", "own", "priorities", "."], "clusters": [[[0, 0], [18, 18]]]}

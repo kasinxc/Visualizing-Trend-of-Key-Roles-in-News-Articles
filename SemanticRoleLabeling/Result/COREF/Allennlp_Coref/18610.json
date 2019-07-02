@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [3, 3], [5, 5], [6, 6], [8, 8], [16, 18]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1, -1], "document": ["President", "Trump", "said", "Wednesday", "that", "he", "intends", "to", "sign", "an", "executive", "order", "ending", "family", "separation", "along", "the", "southern", "border"], "clusters": [[[0, 1], [5, 5]]]}

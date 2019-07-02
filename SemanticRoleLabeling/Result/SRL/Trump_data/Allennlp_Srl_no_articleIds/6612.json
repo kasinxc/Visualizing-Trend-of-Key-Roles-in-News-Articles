@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "appeared", "description": "[ARG1: President Trump 's ex - wife Ivana] [ARGM-TMP: recently] [V: appeared] [ARGM-PRD: on] ...", "tags": ["B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "B-ARGM-TMP", "B-V", "B-ARGM-PRD", "O"]}], "words": ["President", "Trump", "'s", "ex", "-", "wife", "Ivana", "recently", "appeared", "on", "..."]}

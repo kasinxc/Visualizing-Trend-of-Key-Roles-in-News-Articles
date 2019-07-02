@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "comes", "description": "[ARG1: Mrs. Trump] [V: comes] [ARG2: into her own] .", "tags": ["B-ARG1", "I-ARG1", "B-V", "B-ARG2", "I-ARG2", "I-ARG2", "O"]}], "words": ["Mrs.", "Trump", "comes", "into", "her", "own", "."]}

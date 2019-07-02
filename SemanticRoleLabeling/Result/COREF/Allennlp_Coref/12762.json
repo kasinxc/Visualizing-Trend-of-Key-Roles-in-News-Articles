@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [4, 4], [10, 10], [11, 11], [12, 12], [15, 15]], "predicted_antecedents": [-1, 0, 1, -1, 2, 0], "document": ["Despite", "his", "assertion", "that", "he", "has", "done", "nothing", "wrong", ",", "Trump", "believes", "he", "could", "pardon", "himself", "."], "clusters": [[[1, 1], [4, 4], [10, 10], [12, 12], [15, 15]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [2, 2], [5, 5], [7, 7], [8, 8], [8, 13]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1], "document": ["Before", "leaving", "Quebec", "early", ",", "Trump", "defiantly", "brandished", "his", "'", "America", "First", "'", "agenda", "."], "clusters": [[[5, 5], [8, 8]]]}

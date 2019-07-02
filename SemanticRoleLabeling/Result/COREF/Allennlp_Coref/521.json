@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [3, 3], [6, 8], [6, 13], [10, 13], [15, 16]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1], "document": ["The", "candidates", "discussed", "their", "support", "for", "President", "Donald", "Trump", ",", "immigration", "and", "health", "care", "during", "Thursday", "'s", "televised", "debate"], "clusters": [[[0, 1], [3, 3]]]}

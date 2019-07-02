@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 4], [9, 10], [12, 12], [12, 13], [14, 14]], "predicted_antecedents": [-1, 0, -1, 1, -1, -1], "document": ["Kanye", "West", "is", "tempering", "his", "declaration", "of", "love", "for", "President", "Trump", "after", "his", "wife", "intervened"], "clusters": [[[0, 1], [4, 4], [12, 12]]]}

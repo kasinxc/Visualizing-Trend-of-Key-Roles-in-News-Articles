@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [10, 10], [12, 12], [13, 13], [14, 14], [15, 15], [17, 17], [18, 18]], "predicted_antecedents": [-1, 0, -1, -1, 2, -1, -1, -1], "document": ["Mika", "is", "super", "-", "pissed", "Trump", "is", "being", "exactly", "who", "he", "is", "(", "sad", "he", "ca", "n't", "access", "porn", ".", ")"], "clusters": [[[0, 0], [10, 10], [14, 14]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [3, 3], [3, 6], [9, 10], [9, 13], [10, 10]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 3], "document": ["President", "Trump", "fired", "FBI", "director", "James", "Comey", ",", "and", "Deputy", "FBI", "Director", "Andrew", "McCabe", "will", "become", "acting", "director"], "clusters": [[[3, 3], [10, 10]]]}

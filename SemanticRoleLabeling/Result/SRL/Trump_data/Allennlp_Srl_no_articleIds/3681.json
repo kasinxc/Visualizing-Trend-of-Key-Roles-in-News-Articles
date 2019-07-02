@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "turns", "description": "[ARG1: President Donald Trump] [V: turns] [ARG2: 72 years old] [ARGM-TMP: Thursday] .", "tags": ["B-ARG1", "I-ARG1", "I-ARG1", "B-V", "B-ARG2", "I-ARG2", "I-ARG2", "B-ARGM-TMP", "O"]}], "words": ["President", "Donald", "Trump", "turns", "72", "years", "old", "Thursday", "."]}

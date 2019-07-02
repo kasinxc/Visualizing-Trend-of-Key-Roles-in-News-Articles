@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [3, 3], [4, 4], [4, 5], [7, 15], [11, 15]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1], "document": ["President", "Donald", "Trump", "offered", "his", "condolences", "for", "the", "family", "members", "of", "former", "first", "lady", "Barbara", "Bush", "."], "clusters": [[[0, 2], [4, 4]]]}

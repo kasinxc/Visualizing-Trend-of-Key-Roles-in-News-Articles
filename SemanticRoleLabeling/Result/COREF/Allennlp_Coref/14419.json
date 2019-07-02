@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [0, 6], [3, 3], [3, 6], [7, 7], [8, 8], [11, 12], [14, 14]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1, 6], "document": ["Tiffany", "Trump", "and", "her", "boyfriend", "Ross", "Mechanic", "reportedly", "broke", "up", "in", "the", "fall", "after", "Tiffany", "went", "off", "to", "law", "school", "."], "clusters": [[[0, 1], [3, 3], [14, 14]]]}

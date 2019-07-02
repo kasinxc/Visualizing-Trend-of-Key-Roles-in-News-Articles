@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 2], [3, 3], [3, 4], [6, 6], [9, 11], [9, 18], [17, 18]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1, -1], "document": ["Trump", "also", "said", "his", "administration", "is", "looking", "at", "\"", "3,000", "names", "\"", "that", "could", "be", "eligible", "for", "executive", "clemency", "."], "clusters": [[[0, 0], [3, 3]]]}

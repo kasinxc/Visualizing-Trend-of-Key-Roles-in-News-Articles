@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [3, 3], [7, 7], [8, 8], [11, 11], [13, 14]], "predicted_antecedents": [-1, -1, -1, -1, 3, -1], "document": ["President", "Donald", "Trump", "told", "reporters", "recently", "that", "\u201c", "everybody", "thinks", "\u201d", "he", "deserves", "the", "N", "..."], "clusters": [[[0, 2], [11, 11]]]}

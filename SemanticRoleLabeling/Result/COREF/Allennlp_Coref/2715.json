@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [5, 11], [5, 12], [8, 8], [10, 11], [13, 13], [18, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4, 5], "document": ["Donald", "Trump", "is", "n't", "creating", "a", "crisis", "of", "trust", "in", "American", "institutions", "\u2014", "he", "'s", "a", "symptom", "of", "it"], "clusters": [[[0, 1], [13, 13], [18, 18]]]}

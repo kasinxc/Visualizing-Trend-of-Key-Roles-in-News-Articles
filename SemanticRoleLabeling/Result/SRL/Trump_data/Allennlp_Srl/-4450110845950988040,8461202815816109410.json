@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "'s", "description": "Definitely not Donald Trump in a wig , [ARG1: that] [V: 's] [ARG2: for sure] .", "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "B-ARG1", "B-V", "B-ARG2", "I-ARG2", "O"]}], "words": ["Definitely", "not", "Donald", "Trump", "in", "a", "wig", ",", "that", "'s", "for", "sure", "."]}

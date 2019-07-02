@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 5], [4, 6], [8, 8], [9, 9], [9, 10], [12, 12], [18, 18]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, 5, -1], "document": ["Jonah", "Goldberg", "suggests", "that", "Trump", "'s", "lawyers", "are", "treating", "their", "client", "like", "he", "'s", "a", "\"", "monkey", "on", "cocaine", ".", "\""], "clusters": [[[4, 6], [9, 9]], [[0, 1], [12, 12]]]}

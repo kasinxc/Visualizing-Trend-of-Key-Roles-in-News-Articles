@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [1, 2], [4, 4], [7, 7], [12, 12], [14, 14]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1], "document": ["\"", "Celebrity", "worship", "is", "stupid", ",", "whether", "it", "'s", "being", "done", "by", "Obama", "or", "Trump", "\""], "clusters": [[[1, 2], [7, 7]]]}

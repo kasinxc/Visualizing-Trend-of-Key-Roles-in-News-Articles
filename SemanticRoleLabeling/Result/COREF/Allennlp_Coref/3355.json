@@ -1,0 +1,1 @@
+{"top_spans": [[2, 2], [4, 4], [6, 8], [11, 11], [13, 13], [13, 17], [14, 16]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, -1], "document": ["Disney", "World", "announced", "on", "Monday", "that", "President", "Donald", "Trump", "had", "been", "added", "to", "its", "Hall", "of", "Presidents", "attraction", "."], "clusters": [[[6, 8], [13, 13]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 4], [5, 5], [8, 8], [11, 11], [13, 16], [14, 15]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1, -1], "document": ["Donald", "Trump", "is", "already", "avoiding", "responsibility", ",", "but", "he", "'s", "to", "blame", "for", "the", "Ronny", "Jackson", "fiasco", "."], "clusters": [[[0, 1], [8, 8]]]}

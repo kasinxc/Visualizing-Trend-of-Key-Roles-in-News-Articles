@@ -1,0 +1,1 @@
+{"top_spans": [[2, 2], [4, 5], [4, 8], [7, 8], [10, 10], [12, 12], [16, 17], [16, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 4, -1], "document": ["Fears", "of", "Trump", ":", "Sybrina", "Fulton", "and", "Tracy", "Martin", "worry", "he", "'ll", "reverse", "gains", "won", "since", "Trayvon", "'s", "death", "."], "clusters": [[[4, 5], [16, 17]]]}

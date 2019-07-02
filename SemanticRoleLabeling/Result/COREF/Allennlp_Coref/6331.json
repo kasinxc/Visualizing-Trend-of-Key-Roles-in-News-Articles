@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [0, 6], [5, 6], [8, 8], [9, 10], [10, 10], [12, 12], [12, 13]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 4, -1], "document": ["The", "three", "Republicans", "running", "for", "the", "Senate", "are", "taking", "different", "approaches", "in", "their", "competition", "to", "be", "the", "most", "Trumpian", "."], "clusters": [[[0, 6], [12, 12]]]}

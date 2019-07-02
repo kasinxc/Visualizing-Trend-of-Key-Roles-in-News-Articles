@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [0, 2], [3, 3], [4, 7], [9, 10], [14, 14], [18, 18], [20, 20]], "predicted_antecedents": [-1, -1, -1, -1, -1, 0, -1, -1], "document": ["Trump", "\u2019s", "lawyers", "composed", "a", "secret", "20-page", "letter", "to", "Robert", "Mueller", "to", "assert", "that", "he", "can", "not", "be", "forced", "to", "testify"], "clusters": [[[9, 10], [14, 14]]]}

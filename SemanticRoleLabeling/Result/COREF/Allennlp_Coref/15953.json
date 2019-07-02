@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 2], [2, 7], [4, 7], [8, 8]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1], "document": ["Trump", "said", "he", "and", "French", "President", "Emmanuel", "Macron", "have", "a", "\"", "very", "special", "relationship", "\""], "clusters": [[[0, 0], [2, 2]]]}

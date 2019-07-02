@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [3, 4], [3, 6], [6, 6], [7, 7], [10, 10], [12, 12]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 6], "document": ["President", "Trump", "celebrated", "500", "days", "in", "office", "Monday", "by", "touting", "accomplishments", "since", "he", "was", "sworn", "in", "nearly", "17", "months", "ago", "."], "clusters": [[[0, 1], [12, 12]]]}

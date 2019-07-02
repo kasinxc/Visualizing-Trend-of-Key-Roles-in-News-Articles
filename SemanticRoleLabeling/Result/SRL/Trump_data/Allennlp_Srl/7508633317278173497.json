@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "targeted", "description": "[ARG1: Jared Kushner] [V: targeted] [ARG0: by man] [ARG2: with metal pole at Trump Hotel] .", "tags": ["B-ARG1", "I-ARG1", "B-V", "B-ARG0", "I-ARG0", "B-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "O"]}], "words": ["Jared", "Kushner", "targeted", "by", "man", "with", "metal", "pole", "at", "Trump", "Hotel", "."]}

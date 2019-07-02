@@ -1,0 +1,1 @@
+{"top_spans": [[1, 2], [3, 3], [5, 7], [6, 7], [9, 9], [10, 12], [14, 14], [17, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 3], "document": ["If", "Robert", "Mueller", "seeks", "to", "question", "President", "Trump", ",", "could", "the", "White", "House", "successfully", "refuse", "to", "make", "him", "available", "?"], "clusters": [[[6, 7], [17, 17]]]}

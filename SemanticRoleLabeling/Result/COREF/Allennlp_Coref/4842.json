@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [3, 3], [4, 4], [9, 9], [13, 13], [16, 16], [17, 19], [18, 18]], "predicted_antecedents": [-1, -1, -1, -1, 0, -1, -1, -1], "document": ["France", "is", "sternly", "rejecting", "Trump", "\u2019s", "argument", "that", "if", "Parisians", "had", "more", "guns", "they", "could", "have", "stopped", "the", "2015", "attacks", "."], "clusters": [[[9, 9], [13, 13]]]}

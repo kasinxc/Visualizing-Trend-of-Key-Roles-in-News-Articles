@@ -1,0 +1,1 @@
+{"top_spans": [[1, 2], [3, 3], [4, 4], [7, 8], [10, 11], [14, 15], [17, 17]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1], "document": ["After", "Kanye", "West", "tweeted", "his", "support", "for", "the", "President", ",", "Donald", "Trump", "responded", "with", "a", "hearty", "thank", "you", "."], "clusters": [[[1, 2], [4, 4]]]}

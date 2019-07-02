@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [6, 9], [6, 10], [8, 8], [14, 14], [18, 18]], "predicted_antecedents": [-1, -1, -1, -1, 3, -1, -1], "document": ["President", "Trump", "holds", "a", "meeting", "with", "members", "of", "his", "Cabinet", "Wednesday", "May", "9", ",", "2018", "at", "11:30", "a.m.", "ET"], "clusters": [[[0, 1], [8, 8]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [0, 8], [5, 5], [7, 8], [10, 10], [12, 12], [14, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, 0, -1], "document": ["Bill", "Clinton", "'s", "reaction", "to", "questions", "about", "Monica", "Lewinsky", "remind", "us", "how", "we", "got", "Donald", "Trump", "as", "president", "."], "clusters": [[[10, 10], [12, 12]]]}

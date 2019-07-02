@@ -1,0 +1,1 @@
+{"top_spans": [[3, 3], [3, 10], [4, 6], [5, 5], [12, 12], [14, 14]], "predicted_antecedents": [-1, -1, -1, -1, -1, 3], "document": ["If", "there", "is", "something", "the", "Trump", "administration", "should", "excel", "at", "doing", ",", "branding", "is", "it", "."], "clusters": [[[3, 10], [14, 14]]]}

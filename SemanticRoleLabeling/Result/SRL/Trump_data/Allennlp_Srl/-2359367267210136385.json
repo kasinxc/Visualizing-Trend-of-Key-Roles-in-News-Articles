@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "renames", "description": "[ARG0: Donald Trump] [V: renames] [ARG1: Swaziland] [ARG2: to something more Trumpish] .", "tags": ["B-ARG0", "I-ARG0", "B-V", "B-ARG1", "B-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "O"]}], "words": ["Donald", "Trump", "renames", "Swaziland", "to", "something", "more", "Trumpish", "."]}

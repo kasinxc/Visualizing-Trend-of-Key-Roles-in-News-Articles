@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [6, 7], [6, 8], [10, 10], [12, 12], [13, 13], [13, 15], [15, 15]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4, -1, -1], "document": ["The", "North", "Korean", "leader", "grimaced", "at", "Trump", "'s", "request", "to", "photographers", "to", "make", "him", "and", "Kim", "look", "thin", "as", "possible", "."], "clusters": [[[0, 3], [13, 13]]]}

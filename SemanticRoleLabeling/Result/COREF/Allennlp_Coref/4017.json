@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [4, 4], [11, 11], [12, 14], [12, 17], [15, 15]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, -1], "document": ["President", "Trump", "meets", "with", "California", "local", "officials", "who", "have", "decided", "to", "challenge", "the", "state", "'s", "sanctuary", "immigration", "law", "."], "clusters": [[[4, 4], [12, 14]]]}

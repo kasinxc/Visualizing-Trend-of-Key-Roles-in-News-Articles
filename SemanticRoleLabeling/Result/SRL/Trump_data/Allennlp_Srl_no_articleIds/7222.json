@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "doubles", "description": "[ARG0: Kanye] [V: doubles] down [ARG1: on Trump support] .", "tags": ["B-ARG0", "B-V", "O", "B-ARG1", "I-ARG1", "I-ARG1", "O"]}], "words": ["Kanye", "doubles", "down", "on", "Trump", "support", "."]}

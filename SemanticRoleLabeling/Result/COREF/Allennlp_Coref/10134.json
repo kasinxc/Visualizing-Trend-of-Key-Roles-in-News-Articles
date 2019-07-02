@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [0, 4], [0, 8], [5, 5], [7, 7], [7, 8], [9, 18], [14, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, 3, -1, -1], "document": ["The", "BBC", "'s", "Tracey", "Ullman", "show", "\"", "Tracey", "Breaks", "the", "News", "\"", "hosts", "\"", "The", "President", "Show\"s", "Donald", "Trump", "."], "clusters": [[[0, 4], [7, 8]]]}

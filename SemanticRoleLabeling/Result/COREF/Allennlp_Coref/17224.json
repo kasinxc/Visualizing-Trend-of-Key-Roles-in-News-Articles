@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [4, 4], [5, 6], [8, 8], [11, 11], [12, 13], [16, 16]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1, 5], "document": ["\"", "I", "did", "n't", "invite", "LeBron", "James", "and", "I", "did", "n't", "invite", "Steph", "Curry", ",", "\"", "Trump", "says", "."], "clusters": [[[1, 1], [8, 8], [16, 16]]]}

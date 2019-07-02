@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "was", "description": "[ARG1: The event] [V: was] [ARG2: a triumph of Trumpian stagecraft] .", "tags": ["B-ARG1", "I-ARG1", "B-V", "B-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "O"]}], "words": ["The", "event", "was", "a", "triumph", "of", "Trumpian", "stagecraft", "."]}

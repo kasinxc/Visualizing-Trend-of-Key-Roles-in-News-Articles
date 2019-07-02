@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "has", "description": "[ARG0: The German Chancellor] [V: has] [ARG1: some harsh words for Trump] .", "tags": ["B-ARG0", "I-ARG0", "I-ARG0", "B-V", "B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "O"]}], "words": ["The", "German", "Chancellor", "has", "some", "harsh", "words", "for", "Trump", "."]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 1], [4, 7], [10, 11], [13, 13], [13, 17], [16, 17]], "predicted_antecedents": [-1, -1, -1, -1, 2, -1, -1], "document": ["California", "lawmakers", "are", "denouncing", "the", "Trump", "administration", "'s", "practice", "of", "separating", "children", "from", "their", "parents", "at", "the", "border", "."], "clusters": [[[0, 1], [13, 13]]]}

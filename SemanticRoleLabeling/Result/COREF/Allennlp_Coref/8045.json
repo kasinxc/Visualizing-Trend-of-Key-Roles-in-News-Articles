@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 5], [7, 7], [10, 10], [12, 12], [15, 15]], "predicted_antecedents": [-1, -1, -1, 2, -1, 3], "document": ["Katy", "Tur", "confirms", "that", "Donald", "Trump", "uses", "blocked", "numbers", "when", "he", "calls", "people", ",", "including", "her", "!"], "clusters": [[[0, 1], [10, 10]], [[4, 5], [15, 15]]]}

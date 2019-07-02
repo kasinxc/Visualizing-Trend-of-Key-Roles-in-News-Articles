@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [5, 5], [7, 10], [9, 9], [12, 12], [12, 13]], "predicted_antecedents": [-1, -1, -1, -1, 3, -1], "document": ["First", "lady", "Melania", "Trump", "was", "released", "from", "the", "hospital", "Saturday", "morning", ",", "her", "office", "confirmed", "."], "clusters": [[[0, 3], [12, 12]]]}

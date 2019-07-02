@@ -1,0 +1,1 @@
+{"top_spans": [[4, 10], [8, 10], [9, 9], [12, 14], [15, 15], [16, 16], [16, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, 1, -1], "document": ["In", "two", "tweets", "on", "this", "first", "anniversary", "of", "the", "Mueller", "probe", ",", "President", "Donald", "Trump", "shared", "his", "disgust", ":"], "clusters": [[[12, 14], [16, 16]]]}

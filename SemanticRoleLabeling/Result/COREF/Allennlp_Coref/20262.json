@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 7], [3, 4], [7, 7], [11, 12], [15, 15], [20, 20]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 3, -1], "document": ["Trump", "canceled", "the", "June", "12", "summit", "on", "Thursday", ",", "but", "then", "a", "day", "later", "suggested", "it", "could", "be", "back", "on", "track", "."], "clusters": [[[2, 7], [15, 15]]]}

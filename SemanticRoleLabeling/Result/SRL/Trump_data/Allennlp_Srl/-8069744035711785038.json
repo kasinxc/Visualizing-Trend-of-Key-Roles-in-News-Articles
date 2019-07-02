@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "is", "description": "\u201c [ARG1: Donald Trump] [V: is] [ARG2: no Republican and certainly no conservative] . \u201d", "tags": ["O", "B-ARG1", "I-ARG1", "B-V", "B-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "O", "O"]}], "words": ["\u201c", "Donald", "Trump", "is", "no", "Republican", "and", "certainly", "no", "conservative", ".", "\u201d"]}

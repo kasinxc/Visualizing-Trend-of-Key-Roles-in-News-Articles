@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "Does", "description": "[V: Does] Trump deserve a Nobel ?", "tags": ["B-V", "O", "O", "O", "O", "O"]}, {"verb": "deserve", "description": "Does [ARG0: Trump] [V: deserve] [ARG1: a Nobel] ?", "tags": ["O", "B-ARG0", "B-V", "B-ARG1", "I-ARG1", "O"]}], "words": ["Does", "Trump", "deserve", "a", "Nobel", "?"]}

@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "wants", "description": "[ARG0: Trump] [V: wants] [ARG1: separate negotiations with Mexico and Canada on NAFTA] .", "tags": ["B-ARG0", "B-V", "B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "O"]}], "words": ["Trump", "wants", "separate", "negotiations", "with", "Mexico", "and", "Canada", "on", "NAFTA", "."]}

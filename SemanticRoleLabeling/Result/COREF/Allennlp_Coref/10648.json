@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 2], [4, 6], [8, 8], [9, 9], [13, 13], [16, 17], [19, 19]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, -1, -1], "document": ["He", "also", "announced", "that", "President", "Donald", "Trump", "will", "make", "his", "first", "trip", "to", "Department", "headquarters", "in", "Foggy", "Bottom", "on", "Wednesday", "."], "clusters": [[[4, 6], [9, 9]]]}

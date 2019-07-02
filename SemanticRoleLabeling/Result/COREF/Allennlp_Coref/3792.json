@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 4], [6, 7], [9, 9], [12, 12], [13, 13], [14, 16]], "predicted_antecedents": [-1, -1, -1, 0, -1, 4, 5], "document": ["Dr.", "Bornstein", "is", "now", "claiming", "that", "Donald", "Trump", "wrote", "his", "own", "letter", "declaring", "him", "the", "healthiest", "man", "alive"], "clusters": [[[6, 7], [9, 9]], [[0, 1], [13, 13], [14, 16]]]}

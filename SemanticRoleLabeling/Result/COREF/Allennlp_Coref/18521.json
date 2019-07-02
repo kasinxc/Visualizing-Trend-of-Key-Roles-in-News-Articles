@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [3, 3], [9, 9], [10, 10], [12, 12], [14, 14], [17, 17]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1], "document": ["If", "guns", "keep", "us", "safer", ",", "why", "are", "n't", "they", "allowed", "during", "Trump", ",", "Pence", "appearances", "at", "NRA", "convention"], "clusters": [[[1, 1], [9, 9]]]}

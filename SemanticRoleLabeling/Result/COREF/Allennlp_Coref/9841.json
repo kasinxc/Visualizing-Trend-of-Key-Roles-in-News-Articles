@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 4], [2, 7], [14, 14], [15, 15], [15, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, 1, -1], "document": ["Trump", "says", "North", "Korea", "'s", "Kim", "Jong", "Un", "is", "\"", "talented", "\"", "and", "\"", "loves", "his", "country", ".", "\""], "clusters": [[[2, 7], [15, 15]]]}

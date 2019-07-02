@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "attacks", "description": "[ARG0: Trump] [V: attacks] [ARG1: media] [ARGM-TMP: after reports of Cohen deal with AT&T]", "tags": ["B-ARG0", "B-V", "B-ARG1", "B-ARGM-TMP", "I-ARGM-TMP", "I-ARGM-TMP", "I-ARGM-TMP", "I-ARGM-TMP", "I-ARGM-TMP", "I-ARGM-TMP"]}], "words": ["Trump", "attacks", "media", "after", "reports", "of", "Cohen", "deal", "with", "AT&T"]}

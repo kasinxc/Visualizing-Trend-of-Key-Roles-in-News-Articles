@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [5, 5], [7, 9], [8, 8], [11, 11], [12, 12], [13, 16]], "predicted_antecedents": [-1, 0, -1, -1, -1, 4, -1], "document": ["Arizona", "Democrats", "are", "deluded", "if", "they", "think", "a", "Trump", "backlash", "will", "hand", "them", "the", "8th", "Congressional", "District", "."], "clusters": [[[0, 1], [5, 5], [12, 12]]]}

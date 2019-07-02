@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [3, 3], [4, 4], [5, 5], [7, 7], [9, 11], [14, 14]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1, -1], "document": ["China", "\u2019s", "government", "said", "Friday", "it", "will", "retaliate", "for", "President", "Donald", "Trump", "\u2019s", "tariff", "hike", "on", "Chinese", "goods"], "clusters": [[[0, 2], [5, 5]]]}

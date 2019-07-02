@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 2], [3, 3], [5, 5], [7, 11], [10, 11], [17, 17]], "predicted_antecedents": [-1, -1, 1, 0, -1, -1, -1], "document": ["Multiple", "sources", "told", "CNNMoney", "that", "they", "believed", "conservative", "critics", "of", "President", "Trump", "were", "the", "writers", "targeted", "for", "removal", "."], "clusters": [[[0, 0], [3, 3], [5, 5]]]}

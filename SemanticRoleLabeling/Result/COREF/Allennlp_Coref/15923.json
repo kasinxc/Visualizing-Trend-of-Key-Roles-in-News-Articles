@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [3, 3], [6, 6], [7, 7], [10, 10], [10, 11], [14, 15], [18, 19]], "predicted_antecedents": [-1, -1, 0, -1, -1, -1, -1, -1], "document": ["\"", "Looks", "like", "OPEC", "is", "at", "it", "again", ",", "\"", "Trump", "tweets", ".", "\"", "Oil", "prices", "are", "artificially", "Very", "High", "!"], "clusters": [[[3, 3], [6, 6]]]}

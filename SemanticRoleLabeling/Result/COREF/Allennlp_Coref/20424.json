@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 2], [8, 8], [11, 11], [13, 13], [15, 15]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1], "document": ["Trump", "say", "he", "is", "tough", "on", "trade", "with", "China", "...", "until", "he", "needs", "something", "from", "Beijing", "."], "clusters": [[[2, 2], [11, 11]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 4], [2, 3], [2, 4], [5, 5], [7, 7], [12, 12], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4, -1], "document": ["Members", "of", "Trump", "\u2019s", "party", "have", "to", "figure", "out", "how", "much", "more", "they", "can", "take", "and", "defend", "."], "clusters": [[[0, 4], [12, 12]]]}

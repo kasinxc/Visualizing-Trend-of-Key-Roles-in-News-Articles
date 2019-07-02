@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [3, 3], [6, 7], [11, 11], [14, 14], [15, 15], [17, 19]], "predicted_antecedents": [-1, -1, -1, -1, 1, 0, -1, -1], "document": ["Kardashian", "said", "that", "Trump", "really", "spent", "the", "time", "to", "listen", "to", "her", "case", "that", "she", "made", "for", "Alice", "Marie", "Johnson"], "clusters": [[[3, 3], [11, 11], [14, 14]]]}

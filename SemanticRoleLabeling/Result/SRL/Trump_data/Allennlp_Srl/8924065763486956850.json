@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "places", "description": "[ARG0: A small church in Florida] [V: places] [ARG1: Donald Trump] [ARG2: on center stage] .", "tags": ["B-ARG0", "I-ARG0", "I-ARG0", "I-ARG0", "I-ARG0", "B-V", "B-ARG1", "I-ARG1", "B-ARG2", "I-ARG2", "I-ARG2", "O"]}], "words": ["A", "small", "church", "in", "Florida", "places", "Donald", "Trump", "on", "center", "stage", "."]}

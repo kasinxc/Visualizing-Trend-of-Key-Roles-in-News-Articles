@@ -1,0 +1,1 @@
+{"top_spans": [[0, 8], [4, 6], [4, 8], [8, 8], [11, 11], [15, 15], [15, 16]], "predicted_antecedents": [-1, -1, -1, -1, 2, -1, -1], "document": ["The", "biggest", "problem", "with", "Donald", "Trump", "'s", "border", "wall", "is", "that", "it", "was", "never", "about", "border", "security", "."], "clusters": [[[4, 6], [11, 11]]]}

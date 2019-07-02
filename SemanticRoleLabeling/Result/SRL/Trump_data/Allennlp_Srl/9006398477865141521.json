@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "called", "description": "[ARG0: Trump] [V: called] [ARG1: the allegations against Jackson] [ARG2: \" abuse] . \"", "tags": ["B-ARG0", "B-V", "B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "B-ARG2", "I-ARG2", "O", "O"]}], "words": ["Trump", "called", "the", "allegations", "against", "Jackson", "\"", "abuse", ".", "\""]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [4, 5], [9, 9], [12, 13], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4], "document": ["Samantha", "Bee", "apologized", "to", "Ivanka", "Trump", "and", "viewers", "on", "Thursday", "for", "using", "an", "obscenity", "to", "describe", "her"], "clusters": [[[0, 1], [16, 16]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[1, 2], [4, 4], [6, 12], [6, 15], [10, 12], [15, 15], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4, -1], "document": ["\"", "Devin", "Nunes", "has", "acted", "as", "the", "defense", "attorney", "for", "President", "Donald", "Trump", ",", "\"", "Himes", "said", "."], "clusters": [[[1, 2], [15, 15]]]}

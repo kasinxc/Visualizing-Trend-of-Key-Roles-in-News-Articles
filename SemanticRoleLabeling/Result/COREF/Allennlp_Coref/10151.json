@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [3, 7], [6, 7], [9, 9], [11, 11], [16, 16], [19, 19], [20, 20]], "predicted_antecedents": [-1, -1, -1, -1, -1, 2, -1, -1], "document": ["RFK", "anniversary", ":", "50", "years", "after", "Bobby", "Kennedy", "was", "murdered", ",", "it", "'s", "worth", "contemplating", "how", "he", "would", "have", "handled", "Trump"], "clusters": [[[6, 7], [16, 16]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [4, 4], [6, 6], [6, 10], [8, 10], [13, 13], [16, 16], [16, 22], [21, 22]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4, -1, -1, -1], "document": ["\"", "I", "have", "not", "spoken", "with", "her", "in", "a", "long", "time", ",", "\"", "Clinton", "said", "of", "Trump", ",", "who", "had", "been", "a", "friend", "."], "clusters": [[[1, 1], [13, 13]]]}

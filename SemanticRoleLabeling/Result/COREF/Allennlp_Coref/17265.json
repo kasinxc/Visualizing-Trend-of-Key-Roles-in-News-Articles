@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [3, 3], [4, 4], [10, 10], [11, 13], [16, 16], [16, 19], [18, 19]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1, -1], "document": ["President", "Donald", "Trump", "said", "he", "was", "looking", "at", "a", "bill", "keeping", "the", "federal", "government", "out", "of", "states", "with", "legal", "marijuana", "."], "clusters": [[[0, 2], [4, 4]]]}

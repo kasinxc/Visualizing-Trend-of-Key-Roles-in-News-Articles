@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [3, 3], [3, 5], [3, 6], [8, 8], [11, 11], [16, 16]], "predicted_antecedents": [-1, 0, -1, -1, -1, 2, -1], "document": ["She", "leapt", "to", "her", "husband", "'s", "support", "on", "Wednesday", ",", "after", "he", "was", "criticized", "for", "backing", "Trump", "."], "clusters": [[[0, 0], [3, 3]], [[3, 5], [11, 11]]]}

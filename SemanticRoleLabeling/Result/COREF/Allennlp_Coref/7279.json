@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [3, 3], [7, 7], [10, 10], [10, 15], [13, 15], [17, 17], [18, 18]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1, -1, -1], "document": ["Rapper", "Kanye", "West", "released", "a", "new", "song", "Friday", "that", "trumpets", "his", "support", "for", "President", "Donald", "Trump", ",", "CNN", "reported", "."], "clusters": [[[0, 2], [10, 10]]]}

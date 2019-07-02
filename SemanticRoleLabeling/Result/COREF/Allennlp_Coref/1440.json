@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [0, 3], [3, 3], [5, 6], [5, 8], [11, 11], [15, 15]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 4], "document": ["Justin", "Trudeau", "and", "others", "condemn", "Trump", "'s", "protectionist", "tactics", ",", "then", "respond", "with", "protectionism", "of", "their", "own", "."], "clusters": [[[0, 3], [15, 15]]]}

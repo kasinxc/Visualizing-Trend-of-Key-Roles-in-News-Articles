@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [4, 4], [7, 8], [11, 11], [12, 12], [12, 13]], "predicted_antecedents": [-1, -1, -1, -1, 3, -1], "document": ["And", "Trump", "does", "n't", "care", "if", "what", "the", "NRA", "did", "to", "back", "his", "campaign", "was", "criminal", "."], "clusters": [[[1, 1], [12, 12]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 2], [7, 16], [12, 12], [14, 14], [16, 16]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1], "document": ["Trump", "said", "he", "'s", "thinking", "about", "pardoning", "Mohammad", "Ali", ",", "who", "had", "his", "conviction", "overturned", "in", "1971", "."], "clusters": [[[0, 0], [2, 2]]]}

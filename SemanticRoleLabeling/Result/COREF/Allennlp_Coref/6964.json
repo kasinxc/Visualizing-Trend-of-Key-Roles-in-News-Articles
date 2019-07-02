@@ -1,0 +1,1 @@
+{"top_spans": [[0, 4], [5, 5], [7, 7], [9, 9], [11, 11], [12, 14], [12, 19], [17, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, 2, -1, -1], "document": ["The", "39-year", "-", "old", "singer", "took", "to", "Twitter", "on", "Wednesday", "to", "counter", "Kanye", "West", "'s", "praise", "for", "President", "Donald", "Trump", "."], "clusters": [[[7, 7], [12, 14]]]}

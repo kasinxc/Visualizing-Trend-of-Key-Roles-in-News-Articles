@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "points", "description": "[ARG0: He] [V: points] out [ARG1: the origin of Trump 's payoff to Stormy Daniels] .", "tags": ["B-ARG0", "B-V", "O", "B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "O"]}], "words": ["He", "points", "out", "the", "origin", "of", "Trump", "'s", "payoff", "to", "Stormy", "Daniels", "."]}

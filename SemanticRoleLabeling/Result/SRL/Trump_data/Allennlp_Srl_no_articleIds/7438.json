@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "Trump", "description": "[V: Trump] to speak with Jinping .", "tags": ["B-V", "O", "O", "O", "O", "O"]}, {"verb": "speak", "description": "[ARG0: Trump] to [V: speak] [ARG2: with Jinping] .", "tags": ["B-ARG0", "O", "B-V", "B-ARG2", "I-ARG2", "O"]}], "words": ["Trump", "to", "speak", "with", "Jinping", "."]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [4, 4], [9, 9], [9, 16], [10, 10], [14, 16], [15, 15]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1], "document": ["The", "House", "Intelligence", "Committee", "released", "a", "final", "report", "on", "its", "Russia", "investigation", "that", "criticized", "the", "Trump", "campaign", "."], "clusters": [[[0, 3], [9, 9]]]}

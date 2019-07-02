@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 4], [5, 5], [5, 10], [10, 10], [12, 13], [16, 16]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1], "document": ["President", "Trump", "will", "be", "making", "his", "third", "trip", "back", "to", "Tennessee", "later", "this", "month", "since", "being", "elected", "."], "clusters": [[[0, 1], [5, 5]]]}

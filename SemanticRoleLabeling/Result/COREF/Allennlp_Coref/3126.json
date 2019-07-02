@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [0, 4], [5, 5], [10, 10], [10, 16], [13, 15], [13, 16]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1, -1], "document": ["The", "Justice", "Department", "briefed", "lawmakers", "Thursday", "on", "classified", "information", "surrounding", "its", "investigation", "into", "President", "Trump", "'s", "campaign", "."], "clusters": [[[0, 2], [10, 10]]]}

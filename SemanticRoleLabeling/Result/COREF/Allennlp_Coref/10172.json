@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 4], [9, 9], [11, 11], [12, 12], [13, 13]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4], "document": ["Michael", "Avenatti", "is", "everything", "Trump", "wants", "\u2015", "but", "does", "n\u2019t", "have", "\u2015", "representing", "him", "on", "television", "."], "clusters": [[[0, 1], [13, 13]]]}

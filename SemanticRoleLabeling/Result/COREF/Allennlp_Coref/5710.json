@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [0, 7], [3, 3], [3, 6], [8, 8], [16, 18], [16, 20], [20, 20]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1, -1], "document": ["Melania", "Trump", "and", "her", "son", ",", "Barron", ",", "greeted", "the", "19.5", "Christmas", "tree", "that", "arrived", "at", "the", "White", "House", "on", "Monday", "."], "clusters": [[[0, 1], [3, 3]]]}

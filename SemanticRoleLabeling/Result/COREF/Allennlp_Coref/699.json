@@ -1,0 +1,1 @@
+{"top_spans": [[0, 6], [0, 7], [3, 6], [3, 7], [9, 9], [13, 13], [16, 16], [18, 18]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, -1, -1], "document": ["The", "assertion", "by", "President", "Donald", "Trump", "'s", "lawyers", "that", "he", "can", "not", "obstruct", "justice", "is", "legally", "problematic", ",", "analysts", "say", "."], "clusters": [[[3, 6], [9, 9]]]}

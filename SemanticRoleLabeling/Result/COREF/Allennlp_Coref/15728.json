@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [3, 3], [5, 5], [10, 11], [13, 13], [14, 15]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1], "document": ["President", "Trump", "said", "he", "would", "expect", "to", "normalize", "relations", "with", "North", "Korea", ",", "should", "the", "regime", "follow", "through"], "clusters": [[[0, 1], [3, 3]]]}

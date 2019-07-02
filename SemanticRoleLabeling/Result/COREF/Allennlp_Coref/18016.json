@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [3, 3], [4, 4], [4, 6], [10, 10], [12, 16], [16, 16]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1], "document": ["President", "Donald", "Trump", "defended", "his", "immigration", "policy", ",", "which", "is", "opposed", "by", "two", "-", "thirds", "of", "Americans", "."], "clusters": [[[0, 2], [4, 4]]]}

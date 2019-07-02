@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [4, 6], [5, 5], [8, 8], [9, 9], [9, 11], [14, 14], [19, 19]], "predicted_antecedents": [-1, -1, -1, -1, 2, -1, -1, -1], "document": ["In", "Orwellian", "fashion", ",", "the", "Trump", "administration", "repeatedly", "claims", "its", "own", "policy", "does", "n't", "exist", "or", "was", "written", "by", "others", "."], "clusters": [[[4, 6], [9, 9]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [4, 12], [9, 10], [9, 12], [9, 15], [13, 13], [14, 15], [17, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 0], "document": ["The", "National", "Enquirer", "featured", "a", "front", "page", "story", "bashing", "Trump", "'s", "long", "time", "fixer", "Michael", "Cohen", ".", "He", "responds", "."], "clusters": [[[14, 15], [17, 17]]]}

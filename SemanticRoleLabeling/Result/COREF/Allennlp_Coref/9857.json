@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 2], [4, 5], [12, 12], [14, 14], [15, 18], [16, 17]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1, -1], "document": ["Trump", "wrapped", "himself", "in", "the", "flag", "at", "an", "event", "that", "was", "originally", "supposed", "to", "celebrate", "the", "Super", "Bowl", "champions", "."], "clusters": [[[0, 0], [2, 2]]]}

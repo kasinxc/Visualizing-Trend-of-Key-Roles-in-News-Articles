@@ -1,0 +1,1 @@
+{"top_spans": [[0, 5], [7, 7], [9, 10], [9, 14], [12, 14], [12, 17], [17, 17]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, -1], "document": ["The", "\"", "Late", "Show", "\"", "host", "took", "aim", "at", "Ivanka", "Trump", "and", "Jared", "Kushner", "'s", "presence", "in", "Jerusalem", "."], "clusters": [[[9, 10], [12, 14]]]}

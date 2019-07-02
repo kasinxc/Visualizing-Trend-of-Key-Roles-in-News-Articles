@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [4, 4], [5, 6], [8, 8], [8, 16], [14, 14], [14, 16], [18, 18]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1, -1, -1], "document": ["The", "pharma", "giant", "is", "doing", "damage", "control", "after", "its", "$", "1.2", "million", "contract", "with", "Trump", "\u2019s", "lawyer", "was", "revealed", "."], "clusters": [[[0, 2], [8, 8]]]}

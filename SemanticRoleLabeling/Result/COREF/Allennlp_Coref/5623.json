@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 4], [1, 1], [2, 4], [6, 6], [8, 8], [10, 10], [17, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 2, -1], "document": ["Everyone", "knows", "President", "Donald", "Trump", "is", "active", "on", "Twitter", ".", "He", "'s", "not", ",", "however", ",", "much", "a", "follower", "."], "clusters": [[[2, 4], [10, 10]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 2], [3, 3], [4, 4], [11, 11], [14, 17], [15, 16]], "predicted_antecedents": [-1, -1, 1, -1, 1, -1, -1], "document": ["Trump", "is", "cutting", "his", "G-7", "trip", "short", "and", "criticizing", "allies", "before", "he", "heads", "to", "the", "North", "Korea", "summit", "."], "clusters": [[[0, 0], [3, 3], [11, 11]]]}

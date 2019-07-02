@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [4, 4], [8, 8], [9, 9], [10, 10]], "predicted_antecedents": [-1, -1, 1, -1, 3], "document": ["\"", "Obama", "should", "sue", "Trump", "for", "saying", "that", "he", "wiretapped", "him", ".", "\""], "clusters": [[[1, 1], [8, 8], [10, 10]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [5, 7], [5, 12], [6, 6], [11, 11]], "predicted_antecedents": [-1, -1, -1, -1, 2], "document": ["Melania", "Trump", ":", "What", "is", "a", "kidney", "embolization", "and", "why", "is", "it", "done", "?"], "clusters": [[[5, 7], [11, 11]]]}

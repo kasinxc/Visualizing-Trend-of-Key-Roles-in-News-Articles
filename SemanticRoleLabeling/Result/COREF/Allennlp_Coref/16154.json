@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [3, 3], [6, 6], [8, 8], [8, 9], [15, 16]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, -1], "document": ["Trump", "said", "that", "Germans", "were", "\"", "turning", "against", "their", "leadership", "\"", "over", "immigration", "policies", "from", "Angela", "Merkel", "."], "clusters": [[[3, 3], [8, 8]]]}

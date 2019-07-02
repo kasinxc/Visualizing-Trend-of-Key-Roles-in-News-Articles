@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "announced", "description": "[ARG0: President Trump] [V: announced] [ARGM-TMP: Thursday] [ARG1: that] ...", "tags": ["B-ARG0", "I-ARG0", "B-V", "B-ARGM-TMP", "B-ARG1", "O"]}], "words": ["President", "Trump", "announced", "Thursday", "that", "..."]}

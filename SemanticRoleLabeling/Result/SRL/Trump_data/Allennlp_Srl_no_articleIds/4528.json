@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "has", "description": "Melania Trump [V: has] reappeared .", "tags": ["O", "O", "B-V", "O", "O"]}, {"verb": "reappeared", "description": "[ARG1: Melania Trump] has [V: reappeared] .", "tags": ["B-ARG1", "I-ARG1", "O", "B-V", "O"]}], "words": ["Melania", "Trump", "has", "reappeared", "."]}

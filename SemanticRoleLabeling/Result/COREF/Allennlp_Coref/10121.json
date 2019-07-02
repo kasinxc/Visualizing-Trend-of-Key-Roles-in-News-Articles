@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 4], [3, 3], [6, 7], [12, 14], [16, 16], [16, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, 1, -1], "document": ["Confusion", "about", "the", "Mueller", "probe", "is", "Trump", "'s", "greatest", "asset", "\u2014", "until", "the", "special", "counsel", "shows", "his", "cards", "."], "clusters": [[[6, 7], [16, 16]]]}

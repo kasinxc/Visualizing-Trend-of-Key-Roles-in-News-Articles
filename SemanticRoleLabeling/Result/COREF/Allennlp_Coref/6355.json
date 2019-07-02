@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [5, 9], [5, 10], [12, 12], [14, 14], [15, 17], [16, 16]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1, -1], "document": ["Inside", "Texas", "Politics", "begins", "with", "Texas", "Attorney", "General", "Ken", "Paxton", "explaining", "why", "he", "might", "sue", "the", "Trump", "administration", "."], "clusters": [[[5, 9], [12, 12]]]}

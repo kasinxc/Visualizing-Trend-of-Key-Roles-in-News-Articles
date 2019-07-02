@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [6, 6], [8, 8], [10, 11], [13, 13], [14, 14], [15, 16], [18, 20]], "predicted_antecedents": [-1, -1, -1, -1, 0, -1, -1, -1], "document": ["It", "did", "n't", "take", "long", "for", "politicians", "to", "react", "to", "President", "Trump", "after", "he", "uninvited", "the", "Eagles", "to", "the", "White", "House", "."], "clusters": [[[10, 11], [13, 13]]]}

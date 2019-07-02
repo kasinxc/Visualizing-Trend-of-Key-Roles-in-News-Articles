@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 2], [4, 5], [8, 8], [12, 20], [14, 14], [17, 20], [18, 18]], "predicted_antecedents": [-1, 0, -1, -1, -1, 4, -1, -1], "document": ["She", "had", "her", "moment", "this", "week", ",", "but", "that", "does", "n't", "excuse", "the", "role", "she", "plays", "in", "the", "Trump", "White", "House", "."], "clusters": [[[0, 0], [2, 2], [14, 14]]]}

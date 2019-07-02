@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "are", "description": "[ARGM-ADV: For President Trump] , [ARG1: some immigrants] [V: are] [ARG2: outlaws] .", "tags": ["B-ARGM-ADV", "I-ARGM-ADV", "I-ARGM-ADV", "O", "B-ARG1", "I-ARG1", "B-V", "B-ARG2", "O"]}], "words": ["For", "President", "Trump", ",", "some", "immigrants", "are", "outlaws", "."]}

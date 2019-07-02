@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [4, 5], [4, 7], [9, 9], [12, 13], [15, 15]], "predicted_antecedents": [-1, -1, -1, -1, -1, 1], "document": ["Punitive", "dairy", "tariffs", "are", "Canada", "'s", "weak", "spot", ".", "Trump", "just", "plunged", "a", "knife", "into", "it", "."], "clusters": [[[9, 9], [15, 15]]]}

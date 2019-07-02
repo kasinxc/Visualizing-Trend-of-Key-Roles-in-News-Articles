@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [5, 6], [8, 17], [12, 12], [14, 14], [14, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, 0, -1], "document": ["Trump", "raised", "the", "possibility", "of", "the", "meeting", "in", "controversial", "phone", "call", "congratulating", "Putin", "on", "his", "predictable", "presidential", "win", "."], "clusters": [[[12, 12], [14, 14]]]}

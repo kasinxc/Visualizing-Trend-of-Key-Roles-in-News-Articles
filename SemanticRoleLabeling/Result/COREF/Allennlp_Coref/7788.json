@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 2], [11, 11], [13, 13], [14, 16], [14, 18], [18, 18]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1, -1], "document": ["Trump", "says", "he", "'s", "inclined", "to", "support", "a", "bipartisan", "effort", "in", "Congress", "to", "ease", "the", "U.S.", "ban", "on", "marijuana", "."], "clusters": [[[0, 0], [2, 2]]]}

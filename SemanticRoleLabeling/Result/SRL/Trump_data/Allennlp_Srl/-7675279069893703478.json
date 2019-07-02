@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "'s", "description": "\" [ARG1: It] [V: 's] [ARGM-TMP: no longer] ' [ARG2: Down with Trump] . ' \"", "tags": ["O", "B-ARG1", "B-V", "B-ARGM-TMP", "I-ARGM-TMP", "O", "B-ARG2", "I-ARG2", "I-ARG2", "O", "O", "O"]}], "words": ["\"", "It", "'s", "no", "longer", "'", "Down", "with", "Trump", ".", "'", "\""]}

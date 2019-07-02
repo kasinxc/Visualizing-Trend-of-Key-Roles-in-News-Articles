@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 2], [8, 13], [8, 17], [15, 15], [16, 17]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1], "document": ["Trump", "says", "he", "'s", "considering", "commuting", "sentence", "of", "ex", "-", "Illinois", "Gov.", "Rod", "Blagojevich", ",", "pardoning", "Martha", "Stewart", "."], "clusters": [[[0, 0], [2, 2]]]}

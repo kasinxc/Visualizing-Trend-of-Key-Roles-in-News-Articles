@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "receives", "description": "[ARG0: Trump] [V: receives] [ARG1: a chorus of criticism] .", "tags": ["B-ARG0", "B-V", "B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "O"]}], "words": ["Trump", "receives", "a", "chorus", "of", "criticism", "."]}

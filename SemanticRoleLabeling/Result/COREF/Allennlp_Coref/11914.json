@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [0, 4], [3, 4], [7, 13], [13, 13], [15, 15], [15, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, 3, -1], "document": ["Jared", "Kushner", "and", "Ivanka", "Trump", "have", "undergone", "a", "swift", "and", "stunning", "reckoning", "of", "late", ",", "their", "powers", "restricted", "."], "clusters": [[[0, 4], [15, 15]]]}

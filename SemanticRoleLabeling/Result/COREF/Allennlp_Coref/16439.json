@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [3, 3], [5, 6], [8, 8], [10, 10], [13, 14], [16, 16], [18, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 6], "document": ["President", "Donald", "Trump", "goes", "to", "Capitol", "Hill", "on", "Tuesday", ",", "ready", "to", "press", "GOP", "Senators", "to", "act", "on", "his", "pl"], "clusters": [[[0, 2], [18, 18]]]}

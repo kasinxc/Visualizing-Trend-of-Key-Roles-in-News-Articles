@@ -1,0 +1,1 @@
+{"top_spans": [[1, 2], [6, 7], [7, 10], [9, 11], [10, 10], [13, 13], [18, 18], [18, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4, 5, -1], "document": ["When", "President", "Trump", "blows", "up", "at", "the", "FBI", "and", "the", "Mueller", "probe", ",", "he", "\u2019s", "just", "talking", "to", "his", "base", "."], "clusters": [[[1, 2], [13, 13], [18, 18]]]}

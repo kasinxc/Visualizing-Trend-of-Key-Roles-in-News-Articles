@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "follows", "description": "[ARG1: Colbert] [V: follows] [ARG2: Trump] \" [ARGM-DIR: down the rabbit hole] . \"", "tags": ["B-ARG1", "B-V", "B-ARG2", "O", "B-ARGM-DIR", "I-ARGM-DIR", "I-ARGM-DIR", "I-ARGM-DIR", "O", "O"]}], "words": ["Colbert", "follows", "Trump", "\"", "down", "the", "rabbit", "hole", ".", "\""]}

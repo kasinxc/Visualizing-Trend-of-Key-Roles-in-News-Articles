@@ -1,0 +1,1 @@
+{"top_spans": [[5, 7], [6, 6], [8, 8], [9, 9], [9, 10], [9, 17], [14, 17]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1, -1], "document": ["The", "most", "appalling", "spectacle", "of", "the", "Trump", "presidency", "\u2014", "Trump", "\u2019s", "relentless", "humiliation", "of", "Attorney", "General", "Jeff", "Sessions", "..."], "clusters": [[[6, 6], [9, 9]]]}

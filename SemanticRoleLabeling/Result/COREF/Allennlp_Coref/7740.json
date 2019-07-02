@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [6, 7], [6, 9], [10, 10], [11, 12]], "predicted_antecedents": [-1, -1, -1, -1, 2], "document": ["The", "argument", "goes", "much", "deeper", "than", "Jordan", "'s", "six", "championships", "trumping", "LeBron", "'s", "three"], "clusters": [[[6, 7], [11, 12]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [3, 3], [6, 6], [9, 11], [10, 10]], "predicted_antecedents": [-1, 0, 1, -1, -1], "document": ["Michael", "Cohen", "said", "he", "could", "offer", "his", "expertise", "on", "the", "Trump", "administration", "."], "clusters": [[[0, 1], [3, 3], [6, 6]]]}

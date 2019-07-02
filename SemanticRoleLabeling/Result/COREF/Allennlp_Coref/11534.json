@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [1, 1], [3, 3], [4, 4], [4, 6], [12, 12], [12, 16]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1, -1], "document": ["The", "Trump", "administration", "says", "its", "immigration", "policy", "is", "\u201c", "biblical", ".", "\u201d", "Many", "faith", "-", "based", "leaders", "disagree", "."], "clusters": [[[0, 2], [4, 4]]]}

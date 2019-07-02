@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "is", "description": "[ARGM-DIS: Federal judge] : [ARG1: Trump 's Twitter account] [V: is] [ARG2: a public forum]", "tags": ["B-ARGM-DIS", "I-ARGM-DIS", "O", "B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "B-V", "B-ARG2", "I-ARG2", "I-ARG2"]}], "words": ["Federal", "judge", ":", "Trump", "'s", "Twitter", "account", "is", "a", "public", "forum"]}

@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "is", "description": "Donald Trump 's presidency [V: is] collapsing", "tags": ["O", "O", "O", "O", "B-V", "O"]}, {"verb": "collapsing", "description": "[ARG1: Donald Trump 's presidency] is [V: collapsing]", "tags": ["B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "O", "B-V"]}], "words": ["Donald", "Trump", "'s", "presidency", "is", "collapsing"]}

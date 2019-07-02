@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [3, 6], [12, 12], [12, 13], [12, 17], [15, 17], [16, 16]], "predicted_antecedents": [-1, -1, 0, -1, -1, -1, -1], "document": ["He", "is", "investigating", "the", "Trump", "Administration", "'s", "policy", "of", "separating", "children", "from", "their", "families", "at", "the", "Mexican", "border", "."], "clusters": [[[3, 6], [12, 12]]]}

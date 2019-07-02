@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [3, 3], [4, 5], [7, 9], [10, 10], [11, 11], [13, 15], [18, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4, -1, -1], "document": ["The", "Eagles", "have", "released", "a", "statement", "after", "President", "Donald", "Trump", "disinvited", "them", "to", "the", "White", "House", ".", "By", "Dave", "Zangaro"], "clusters": [[[0, 1], [11, 11]]]}

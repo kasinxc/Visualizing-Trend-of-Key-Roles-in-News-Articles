@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "'s", "description": "( Unless [ARG1: it] [V: 's] [ARG2: against Trump] ) .", "tags": ["O", "O", "B-ARG1", "B-V", "B-ARG2", "I-ARG2", "O", "O"]}], "words": ["(", "Unless", "it", "'s", "against", "Trump", ")", "."]}

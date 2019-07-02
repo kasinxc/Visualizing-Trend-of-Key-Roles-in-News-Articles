@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [6, 10], [10, 10], [13, 14], [13, 20], [16, 17], [16, 20], [19, 20]], "predicted_antecedents": [-1, -1, -1, -1, -1, 1, -1, -1], "document": ["Hope", "Hicks", "wore", "a", "tuxedo", "on", "a", "state", "visit", "to", "Japan", ",", "while", "Ivanka", "Trump", "wore", "Miu", "Miu", "and", "Johanna", "Ortiz", "."], "clusters": [[[13, 14], [16, 17]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [0, 2], [4, 4], [4, 6], [7, 7], [12, 15]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1], "document": ["Trump", "'s", "critics", "of", "his", "immigration", "policy", "spread", "false", "alarms", "on", "\"", "lost", "\"", "migrant", "children"], "clusters": [[[0, 1], [4, 4]]]}

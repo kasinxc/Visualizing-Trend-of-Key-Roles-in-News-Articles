@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 2], [3, 3], [3, 4], [6, 6], [11, 11]], "predicted_antecedents": [-1, -1, -1, -1, -1, 0], "document": ["Republicans", "are", "burying", "Trump", "transgressions", ".", "Democrats", "need", "to", "make", "sure", "they", "get", "noticed", "."], "clusters": [[[6, 6], [11, 11]]]}

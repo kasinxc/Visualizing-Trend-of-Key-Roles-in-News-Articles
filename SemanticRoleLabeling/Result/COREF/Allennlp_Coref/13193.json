@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [2, 2], [3, 3], [3, 8], [5, 5], [7, 8], [14, 16]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, -1], "document": ["When", "you", "elect", "Trump", ",", "you", "get", "a", "Stormy", ".", "At", "least", "on", "'", "Saturday", "Night", "Live", ".", "'"], "clusters": [[[3, 3], [5, 5]]]}

@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "hears", "description": "[ARGM-DIS: Yanny or laurel] ? [ARG0: President Trump] [V: hears] ' [ARG1: covfefe] . '", "tags": ["B-ARGM-DIS", "I-ARGM-DIS", "I-ARGM-DIS", "O", "B-ARG0", "I-ARG0", "B-V", "O", "B-ARG1", "O", "O"]}], "words": ["Yanny", "or", "laurel", "?", "President", "Trump", "hears", "'", "covfefe", ".", "'"]}

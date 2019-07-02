@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "takes", "description": "Candidate Trump in 2016 : \" [ARG0: The mob] [V: takes] [ARG1: the Fifth] . \"", "tags": ["O", "O", "O", "O", "O", "O", "B-ARG0", "I-ARG0", "B-V", "B-ARG1", "I-ARG1", "O", "O"]}], "words": ["Candidate", "Trump", "in", "2016", ":", "\"", "The", "mob", "takes", "the", "Fifth", ".", "\""]}

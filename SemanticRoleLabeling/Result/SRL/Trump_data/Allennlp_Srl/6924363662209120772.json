@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "takes", "description": "[ARG0: \" Late Show \" host] [V: takes] on [ARG1: Trump 's G-7 meeting] .", "tags": ["B-ARG0", "I-ARG0", "I-ARG0", "I-ARG0", "I-ARG0", "B-V", "O", "B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "O"]}], "words": ["\"", "Late", "Show", "\"", "host", "takes", "on", "Trump", "'s", "G-7", "meeting", "."]}

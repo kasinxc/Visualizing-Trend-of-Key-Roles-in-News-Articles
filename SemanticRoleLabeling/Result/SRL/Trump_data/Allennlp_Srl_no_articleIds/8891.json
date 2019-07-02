@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "go", "description": "[ARG0: They] [V: go] [ARG4: there] [ARGM-COM: with bothe Donald Trump AND Melania] .", "tags": ["B-ARG0", "B-V", "B-ARG4", "B-ARGM-COM", "I-ARGM-COM", "I-ARGM-COM", "I-ARGM-COM", "I-ARGM-COM", "I-ARGM-COM", "O"]}], "words": ["They", "go", "there", "with", "bothe", "Donald", "Trump", "AND", "Melania", "."]}

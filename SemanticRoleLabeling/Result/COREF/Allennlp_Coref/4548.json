@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [3, 3], [4, 7], [5, 5], [11, 11], [13, 15]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1], "document": ["Donald", "Trump", "just", "made", "the", "Iranian", "supreme", "leader", "look", "honest", "and", "Iran", "like", "a", "reliable", "partner", "."], "clusters": [[[0, 1], [4, 7]]]}

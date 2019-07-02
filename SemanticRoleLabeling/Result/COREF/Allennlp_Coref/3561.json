@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [4, 4], [6, 7], [8, 8], [10, 10], [17, 17], [17, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, 2, -1], "document": ["No", "one", "seems", "to", "know", "how", "Team", "Trump", "managed", "to", "spend", "$", "107", "million", "in", "donations", "for", "his", "inauguration"], "clusters": [[[6, 7], [17, 17]]]}

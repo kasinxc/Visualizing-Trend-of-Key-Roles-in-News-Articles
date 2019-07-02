@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [3, 3], [8, 13], [9, 9], [12, 13]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1], "document": ["President", "Trump", "pledged", "his", "support", "to", "members", "at", "the", "NRA", "convention", "in", "Dallas", "Friday", "."], "clusters": [[[0, 1], [3, 3]]]}

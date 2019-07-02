@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 3], [6, 8], [10, 10], [12, 12], [15, 15]], "predicted_antecedents": [-1, -1, -1, -1, 0, 3], "document": ["Trump", "pulls", "White", "House", "invitation", "from", "Golden", "State", "Warriors", "after", "Curry", "said", "he", "opposed", "accepting", "it"], "clusters": [[[10, 10], [12, 12]], [[2, 3], [15, 15]]]}

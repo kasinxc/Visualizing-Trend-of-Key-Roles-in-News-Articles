@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [4, 4], [6, 7], [6, 8], [13, 13], [13, 14]], "predicted_antecedents": [-1, -1, -1, -1, 0, -1], "document": ["The", "two", "companies", "are", "betting", "that", "Trump", "administration", "regulators", "will", "be", "friendly", "to", "their", "ambitions", "."], "clusters": [[[6, 8], [13, 13]]]}

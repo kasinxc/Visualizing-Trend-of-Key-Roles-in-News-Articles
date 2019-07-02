@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [1, 3], [1, 5], [5, 5], [7, 10], [7, 11], [9, 11]], "predicted_antecedents": [-1, -1, -1, -1, 3, -1, -1], "document": ["During", "his", "first", "month", "in", "office", ",", "President", "Donald", "Trump", "'s", "travels", "cost", "more", "than", "$", "10", "million", "."], "clusters": [[[1, 1], [7, 10]]]}

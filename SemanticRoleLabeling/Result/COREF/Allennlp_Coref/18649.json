@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [3, 3], [4, 4], [6, 8], [6, 13], [12, 12], [12, 13]], "predicted_antecedents": [-1, -1, -1, -1, -1, 1, -1], "document": ["President", "Donald", "Trump", "said", "Friday", "that", "James", "Comey", "'s", "actions", "prior", "to", "his", "firing", "were", "'", "criminal", ".", "'"], "clusters": [[[6, 8], [12, 12]]]}

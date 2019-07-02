@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [3, 3], [4, 4], [9, 10], [9, 11], [9, 16], [12, 16]], "predicted_antecedents": [-1, 0, -1, -1, -1, -1, -1], "document": ["AT&T", "has", "acknowledged", "it", "hired", "a", "firm", "founded", "by", "President", "Trump", "\u2019s", "personal", "lawyer", ",", "Michael", "Cohen", "."], "clusters": [[[0, 0], [3, 3]]]}

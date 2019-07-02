@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [3, 3], [3, 4], [9, 12], [9, 18], [10, 10], [14, 16], [18, 18]], "predicted_antecedents": [-1, 0, -1, -1, -1, -1, -1, -1], "document": ["President", "Trump", "announces", "his", "plans", "to", "pull", "out", "of", "the", "Iran", "nuclear", "deal", "at", "the", "White", "House", "on", "Tuesday", "."], "clusters": [[[0, 1], [3, 3]]]}

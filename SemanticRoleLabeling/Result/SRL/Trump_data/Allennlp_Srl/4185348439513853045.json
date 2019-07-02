@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "is", "description": "[ARG1: History] [V: is] [ARGM-NEG: not] [ARG2: the Trump administration \u2019s strongest subject] .", "tags": ["B-ARG1", "B-V", "B-ARGM-NEG", "B-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "O"]}], "words": ["History", "is", "not", "the", "Trump", "administration", "\u2019s", "strongest", "subject", "."]}

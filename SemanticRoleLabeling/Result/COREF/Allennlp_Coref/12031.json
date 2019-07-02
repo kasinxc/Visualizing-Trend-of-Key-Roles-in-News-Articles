@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [4, 4], [5, 5], [8, 9], [12, 12], [15, 15], [17, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, 0, 0, -1], "document": ["Rudy", "Giuliani", "appeared", "to", "say", "Trump", "would", "fire", "Robert", "Mueller", "then", "corrected", "himself", "and", "said", "he", "meant", "James", "Comey", "."], "clusters": [[[8, 9], [12, 12], [15, 15]]]}

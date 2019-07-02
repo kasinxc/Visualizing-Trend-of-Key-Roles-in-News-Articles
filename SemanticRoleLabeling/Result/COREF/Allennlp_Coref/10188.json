@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [0, 5], [4, 4], [8, 8], [9, 9], [11, 11], [13, 13]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 4], "document": ["Trump", "'s", "hand", "-", "picked", "pastors", "did", "n't", "speak", "directly", "to", "evangelicals", ".", "They", "did", "n't", "have", "to", "."], "clusters": [[[0, 5], [13, 13]]]}

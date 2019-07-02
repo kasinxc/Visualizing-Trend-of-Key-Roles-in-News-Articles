@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [4, 4], [6, 8], [10, 10], [11, 12], [14, 14], [14, 15], [19, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4, -1, -1], "document": ["A", "Gilbert", "teen", "was", "invited", "to", "The", "White", "House", "to", "meet", "Melania", "Trump", "after", "her", "video", "on", "bullying", "went", "viral", "."], "clusters": [[[0, 2], [14, 14]]]}

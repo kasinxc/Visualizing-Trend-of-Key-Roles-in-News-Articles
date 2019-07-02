@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "is", "description": "What if [ARG1: the Trump - Kim summit] [V: is] [ARG2: a success] ?", "tags": ["O", "O", "B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "B-V", "B-ARG2", "I-ARG2", "O"]}], "words": ["What", "if", "the", "Trump", "-", "Kim", "summit", "is", "a", "success", "?"]}

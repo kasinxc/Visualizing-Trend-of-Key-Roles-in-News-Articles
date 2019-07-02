@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "appeared", "description": "[ARG1: President Donald Trump] [V: appeared] [ARGM-PRD: live on] ...", "tags": ["B-ARG1", "I-ARG1", "I-ARG1", "B-V", "B-ARGM-PRD", "I-ARGM-PRD", "O"]}], "words": ["President", "Donald", "Trump", "appeared", "live", "on", "..."]}

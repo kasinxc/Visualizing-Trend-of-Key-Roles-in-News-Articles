@@ -1,0 +1,1 @@
+{"top_spans": [[0, 4], [6, 14], [10, 10], [12, 12], [13, 13], [13, 14]], "predicted_antecedents": [-1, -1, -1, -1, 3, -1], "document": ["The", "new", "national", "security", "adviser", "embodies", "the", "reckless", "interventionism", "that", "Trump", "criticized", "during", "his", "campaign", "."], "clusters": [[[0, 4], [13, 13]]]}

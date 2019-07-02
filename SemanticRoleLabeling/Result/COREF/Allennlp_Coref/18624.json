@@ -1,0 +1,1 @@
+{"top_spans": [[1, 9], [4, 9], [11, 11], [12, 12], [13, 17], [14, 17], [17, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 4], "document": ["In", "a", "series", "of", "tweets", "citing", "Republican", "Rep.", "Trey", "Gowdy", ",", "Trump", "unleashed", "yet", "another", "attack", "on", "Sessions", "."], "clusters": [[[4, 9], [17, 17]]]}

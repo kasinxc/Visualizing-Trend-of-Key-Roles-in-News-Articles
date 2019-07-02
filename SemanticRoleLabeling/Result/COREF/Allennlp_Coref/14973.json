@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [4, 4], [5, 5], [5, 8], [7, 8], [8, 8], [11, 13], [14, 14]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 6], "document": ["President", "Donald", "Trump", "\u2019s", "alleged", "\u201c", "shithole", "\u201d", "remark", "is", "not", "the", "first", "time", "he", "'s", "used", "racist", "rhetoric", "."], "clusters": [[[0, 3], [14, 14]]]}

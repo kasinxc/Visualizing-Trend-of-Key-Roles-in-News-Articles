@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [3, 3], [3, 6], [5, 6], [10, 10], [14, 14], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, 0, -1, -1], "document": ["Trump", "tweets", "about", "deal", "with", "Stormy", "Daniels", "after", "previously", "saying", "he", "was", "unaware", "of", "payments", "to", "adult", "film", "star"], "clusters": [[[5, 6], [10, 10]]]}

@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "exists", "description": "[ARG1: Trump TV] [ARGM-TMP: already] [V: exists] .", "tags": ["B-ARG1", "I-ARG1", "B-ARGM-TMP", "B-V", "O"]}], "words": ["Trump", "TV", "already", "exists", "."]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [0, 7], [4, 7], [10, 10], [11, 14], [11, 18], [16, 16], [16, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 4, -1], "document": ["President", "Donald", "Trump", "and", "former", "President", "Bill", "Clinton", "have", "each", "damaged", "the", "office", "of", "president", "in", "their", "own", "ways", "."], "clusters": [[[0, 7], [16, 16]]]}

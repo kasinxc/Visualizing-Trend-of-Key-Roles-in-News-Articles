@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [4, 4], [6, 6], [6, 8], [7, 7], [16, 20], [17, 17], [20, 20]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 1, -1], "document": ["A", "photo", "Angela", "Merkel", "posted", "on", "her", "Instagram", "page", "summed", "up", "President", "Trump", "\u2019s", "isolation", "at", "the", "G7", "summit", "in", "Quebec", "."], "clusters": [[[7, 7], [17, 17]]]}
