@@ -18,7 +18,7 @@ The Trump dataset has overall 20,833 news entries. Each news entry contains titl
 |    article ids    | unique article ids for each news |
 |    probability    |  probability on topic clusters   |
 
-​							**Table1: Data Format of Trump Dataset**
+​							Table1: Data Format of Trump Dataset
 
 
 
@@ -39,7 +39,7 @@ The StepContent format for the 6 months dataset includes taxonomy, first level t
 | $\textcolor{red}{title\ description}$ | $\textcolor{red}{title \ description \ with \ punctuations}$ |
 |                  ...                  |                             ...                              |
 
-​						**Table2: StepContent Format of 6 Month Dataset**
+​						Table2: StepContent Format of 6 Month Dataset
 
 
 
@@ -57,7 +57,7 @@ The StepContent format for the 6 months dataset includes taxonomy, first level t
 | $\textcolor{blue}{topic \ cluster}$ | $\textcolor{blue}{contains id, label, labelScore, taxonomy, topTerms, topTermsScore}$ |
 |                 ...                 |                             ...                              |
 
-​				**Table3: StepIndexingData Format of 6 Months Dataset**
+​				Table3: StepIndexingData Format of 6 Months Dataset
 
 
 
