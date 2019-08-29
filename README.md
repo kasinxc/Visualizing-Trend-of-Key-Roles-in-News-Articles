@@ -28,16 +28,16 @@ The 6 month dataset contains over half a million news title descriptions from th
 
 ##### StepContent Format
 
-The StepContent format for the 6 months dataset includes taxonomy, first level taxonomy, unique article ids, title description, and so on. StepCotent uniquely contains title descriptions for later natural language processing. This special attribute is colored in red in the table below. 
+The StepContent format for the 6 months dataset includes taxonomy, first level taxonomy, unique article ids, title description, and so on. StepCotent uniquely contains title descriptions for later natural language processing. This special attribute is bolded in the table below. 
 
-|               attribute               |                         description                          |
-| :-----------------------------------: | :----------------------------------------------------------: |
-|              articleIds               |               unique article ids for each news               |
-|          firstLevelTaxonomy           |                     first level category                     |
-|               taxonomy                |                 multiple detailed categories                 |
-|                 title                 |                          news title                          |
-| $\textcolor{red}{title\ description}$ | $\textcolor{red}{title \ description \ with \ punctuations}$ |
-|                  ...                  |                             ...                              |
+|       attribute       |               description               |
+| :-------------------: | :-------------------------------------: |
+|      articleIds       |    unique article ids for each news     |
+|  firstLevelTaxonomy   |          first level category           |
+|       taxonomy        |      multiple detailed categories       |
+|         title         |               news title                |
+| **title description** | **title description with punctuations** |
+|          ...          |                   ...                   |
 
 ​						Table2: StepContent Format of 6 Month Dataset
 
@@ -45,17 +45,17 @@ The StepContent format for the 6 months dataset includes taxonomy, first level t
 
 **StepIndexingData** **Format**
 
- StepIndexingData also shares attributes that the StepContent format has, like taxonomy, unique article id, title and so on. This format has uniquely hierarchical topic cluster information including cluster id, label, labelScore, taxonomy as well as topTerms for level 0 to level 4 where level 0 indicates the most general topic clusters and level 4 indicates the most specific level. This information is labeled in blue in the following table.
+ StepIndexingData also shares attributes that the StepContent format has, like taxonomy, unique article id, title and so on. This format has uniquely hierarchical topic cluster information including cluster id, label, labelScore, taxonomy as well as topTerms for level 0 to level 4 where level 0 indicates the most general topic clusters and level 4 indicates the most specific level. This information is bolded in the following table.
 
-|              attribute              |                         description                          |
-| :---------------------------------: | :----------------------------------------------------------: |
-|             articleIds              |               unique article ids for each news               |
-|         firstLevelTaxonomy          |                     first level category                     |
-|              taxonomy               |                 multiple detailed categories                 |
-|                title                |                          news title                          |
-|               traffic               |                traffic for this news article                 |
-| $\textcolor{blue}{topic \ cluster}$ | $\textcolor{blue}{contains id, label, labelScore, taxonomy, topTerms, topTermsScore}$ |
-|                 ...                 |                             ...                              |
+|     attribute      |                         description                          |
+| :----------------: | :----------------------------------------------------------: |
+|     articleIds     |               unique article ids for each news               |
+| firstLevelTaxonomy |                     first level category                     |
+|      taxonomy      |                 multiple detailed categories                 |
+|       title        |                          news title                          |
+|      traffic       |                traffic for this news article                 |
+| **topic cluster**  | **contains id, label, labelScore, taxonomy, topTerms, topTermsScore** |
+|        ...         |                             ...                              |
 
 ​				Table3: StepIndexingData Format of 6 Months Dataset
 
