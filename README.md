@@ -18,7 +18,8 @@ The Trump dataset has overall 20,833 news entries. Each news entry contains titl
 |    article ids    | unique article ids for each news |
 |    probability    |  probability on topic clusters   |
 
-​							Table1: Data Format of Trump Dataset
+Table1: Data Format of Trump Dataset
+​						
 
 
 
@@ -39,7 +40,8 @@ The StepContent format for the 6 months dataset includes taxonomy, first level t
 | **title description** | **title description with punctuations** |
 |          ...          |                   ...                   |
 
-​						Table2: StepContent Format of 6 Month Dataset
+Table2: StepContent Format of 6 Month Dataset
+​	
 
 
 
@@ -57,7 +59,7 @@ The StepContent format for the 6 months dataset includes taxonomy, first level t
 | **topic cluster**  | **contains id, label, labelScore, taxonomy, topTerms, topTermsScore** |
 |        ...         |                             ...                              |
 
-​				Table3: StepIndexingData Format of 6 Months Dataset
+Table3: StepIndexingData Format of 6 Months Dataset
 
 
 
@@ -72,8 +74,8 @@ Besides semantic roles like subject, verb and object, which are discussed in det
 Previously before taking modifier into consideration, the only known information through subject and verb is that a certain subject performs certain action. However, there exist several possible ways of taking this action. They may intend to take the steps, have already conducted the behavior or just claim there is no possibility of doing that. This uncertainty is measured by modifier. In the figure below, by adding modifier, instead of the old news *Donald Trump **resign** from president*, which is not true for sure in year 2019, a completely different news saying *Donald Trump **might** **resign** from president* becomes more authentic for a news of 2019. 
 
 ![Figures/modifier](Figures/modifier.png)
+<h5 align = "center">Fig1: Add Modifier to Verbs</h5>
 
-Fig1: Add Modifier to Verbs
 
 
 
@@ -82,7 +84,8 @@ Fig1: Add Modifier to Verbs
 To preserve the correctness of the sentiment the news convey, negative role is added to the verb as an extra sentiment information. In the figure below, the left subgraph shows that, before adding negative roles, it is misleading to see *Donald Trump **win** the battle for hearts and minds*. Actually, the real key sentence in the news is in the right subgraph: *Donald Trump **not win** the battle for hearts and minds*.
 
 ![Figures/NEG](Figures/NEG.png)
-Fig2: Result before and After Adding Negative Role
+<h5 align = "center">Fig2: Result before and After Adding Negative Role</h5>
+
 
 
 
@@ -93,6 +96,7 @@ Lemmatization focuses on verbs with tense like *winning* and *won*, which they s
 
 
 ![Figures/Lemma](Figures/Lemma.png)
-Fig3: Result before and After Lemmatized Verbs
+<h5 align = "center">Fig3: Result before and After Lemmatized Verbs</h5>
+
 
 One shortback of lemmatization is that lemmatized verbs lose information of tense. According to the lemmatized result (b) in Figure 3, we lost the information of whether the subject is winning or has already won the election. Therefore whether lemmatize a verb or not remains an option in the configuration for users to decide according to different circumstances.
