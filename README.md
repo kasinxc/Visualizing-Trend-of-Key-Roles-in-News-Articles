@@ -2,7 +2,7 @@
 
 ### Demo: [here]( https://youtu.be/Xf_2eaSjq5w)
 ### Paper: arXiv TBD
-### More details on Chen Xia's Master's Thesis and Haoxiang Zhang's Master's Thesis
+### More details on Chen Xia's Master's Thesis [***Extracting Global Entities Information***](https://escholarship.org/uc/item/0bv836gm) from News and Haoxiang Zhang's Master's Thesis [***Dynamic Word Embedding for News Analysis***](https://escholarship.org/uc/item/9tp9g31f)
 
 
 ## Dataset
