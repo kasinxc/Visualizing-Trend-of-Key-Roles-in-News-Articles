@@ -1,12 +1,13 @@
 # Visualizing-Trend-of-Key-Roles-in-News-Articles
 
-#### Demo: [here]( https://youtu.be/Xf_2eaSjq5w)
-
+### Demo: [here]( https://youtu.be/Xf_2eaSjq5w)
+### Paper: arXiv TBD
+### More details on Chen Xia's Master's Thesis and Haoxiang Zhang's Master's Thesis
 
 
 ## Dataset
 
-The 2 news datasets we are using is from Taboola company. One is a topic specific Trump dataset containing more than two months of news from late April to early July 2018. The news in this dataset share the same character, which is they all involve President Trump. The other dataset is general 6 months news data from November 2018 to April 2019. The topic of 6 months dataset ranges from sports to politics, food recipes to crime. Detailed format of the two datasets is as follows. 
+The 2 news datasets we are using are from Taboola company. One is a topic specific Trump dataset containing more than two months of news from late April to early July 2018. The news in this dataset share the same character, which is they all involve President Trump. The other dataset is general 6 months news data from November 2018 to April 2019. The topic of 6 months dataset ranges from sports to politics, food recipes to crime. Detailed format of the two datasets is as follows. 
 
 #### Trump dataset
 
