@@ -1,6 +1,6 @@
 # Visualizing-Trend-of-Key-Roles-in-News-Articles
 
-### Demo: [here]( https://youtu.be/Xf_2eaSjq5w)
+### Demo: [here]( https://youtu.be/sVEE_93IQvc)
 ### Paper: arXiv TBD (EMNLP 2019 Demo Paper)
 ### More details on Chen Xia's Master's Thesis [***Extracting Global Entities Information from News***](https://escholarship.org/uc/item/0bv836gm) and Haoxiang Zhang's Master's Thesis [***Dynamic Word Embedding for News Analysis***](https://escholarship.org/uc/item/9tp9g31f)
 
