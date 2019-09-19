@@ -1,7 +1,7 @@
 # Visualizing-Trend-of-Key-Roles-in-News-Articles
 
 ### Demo: [here]( https://youtu.be/sVEE_93IQvc)
-### Paper: arXiv TBD (EMNLP 2019 Demo Paper)
+### Paper: [arXiv here](http://arxiv.org/abs/1909.05449)  (EMNLP 2019 Demo Paper)
 ### More details on Chen Xia's Master's Thesis [***Extracting Global Entities Information from News***](https://escholarship.org/uc/item/0bv836gm) and Haoxiang Zhang's Master's Thesis [***Dynamic Word Embedding for News Analysis***](https://escholarship.org/uc/item/9tp9g31f)
 
 
@@ -79,14 +79,12 @@ Previously before taking modifier into consideration, the only known information
 
 
 
-
 #### Negative Preserves Sentiment of the News
 
 To preserve the correctness of the sentiment the news convey, negative role is added to the verb as an extra sentiment information. In the figure below, the left subgraph shows that, before adding negative roles, it is misleading to see *Donald Trump **win** the battle for hearts and minds*. Actually, the real key sentence in the news is in the right subgraph: *Donald Trump **not win** the battle for hearts and minds*.
 
 ![Figures/NEG](Figures/NEG.png)
 <h5 align = "center">Fig2: Result before and After Adding Negative Role</h5>
-
 
 
 
@@ -98,6 +96,5 @@ Lemmatization focuses on verbs with tense like *winning* and *won*, which they s
 
 ![Figures/Lemma](Figures/Lemma.png)
 <h5 align = "center">Fig3: Result before and After Lemmatized Verbs</h5>
-
 
 One shortback of lemmatization is that lemmatized verbs lose information of tense. According to the lemmatized result (b) in Figure 3, we lost the information of whether the subject is winning or has already won the election. Therefore whether lemmatize a verb or not remains an option in the configuration for users to decide according to different circumstances.
