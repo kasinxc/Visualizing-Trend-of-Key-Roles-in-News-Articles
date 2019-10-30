@@ -5,6 +5,6 @@
 
 2. jupyter notebook
 ```
-3. Download models from [google drive link](https://drive.google.com/drive/folders/10mWui-pt8u7pnEBen4TkUCBiOIwrbFxY)
+3. Download models from [google drive link](https://drive.google.com/drive/folders/10mWui-pt8u7pnEBen4TkUCBiOIwrbFxY) to the same folder as DynamicWordEmbedding
 
-4. click Dynamic Word Embedding.ipynb and run
+4. Click Dynamic Word Embedding.ipynb and run
